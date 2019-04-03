@@ -1,0 +1,369 @@
+groups:
+  Default:
+    options:
+      default: true
+      prefix: '&e[&aMember&e]&r '
+    permissions:
+    - authme.player.*
+    - auction.reload
+    - banknotes.*
+    - chestcommands.open.help.yml
+    - chestcommands.open.kit.yml
+    - chestcommands.open.rules.yml
+    - chestcommands.open.warp.yml
+    - CustomEnderChest.level.0
+    - changeskin.command.skinupdate
+    - changeskin.command.setskin
+    - changeskin.skin.whitelist.*
+    - crazyenchantments.tinker
+    - crazyenchantments.access
+    - crazyenchantments.scroll
+    - crazyenchantments.dust
+    - crazyenchantments.blacksmith
+    - essentials.balance
+    - essentials.spawn
+    - essentials.delhome
+    - essentials.help
+    - essentials.helpop
+    - essentials.home
+    - essentials.balance
+    - essentials.balance.other
+    - essentials.balance.top
+    - essentials.back.use
+    - essentials.build
+    - essentials.afk
+    - essentials.afk.auto
+    - essentials.rules
+    - essentials.kit
+    - essentials.kits.member
+    - essentials.kits
+    - essentials.kits.food
+    - essentials.msg
+    - essentials.pay
+    - essentials.recipe
+    - essentials.sethome
+    - essentials.delhome
+    - essentials.sell
+    - essentials.sell.hand
+    - essentials.sell.all
+    - essentials.sethome.multiple
+    - essentials.signs.use.balance
+    - worldspawn.use
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.heal
+    - essentials.signs.use.kit
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.warp
+    - essentials.warp.enchant
+    - essentials.warp.end
+    - essentials.warp.list
+    - essentials.warp.nether
+    - essentials.warp.pvp
+    - essentials.warp.shop
+    - essentials.warp.end
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpdeny
+    - essentials.warp
+    - essentials.warp.list
+    - essentials.warps.*
+    - serversigns.use.*
+    - tablist.staff
+    - skinsrestorer.playercmds
+    - clearchat.clear.personal
+    - auctionhouse.use
+    - auctionhouse.sell
+    - auctionhouse.limit.10
+    - playervaults.amount.2
+    - playervaults.size.3	
+    - playervaults.commands.use
+    - randomtp.tp
+    - rankup.rankup.*
+    - guishop.use
+    - guishop.sign.use 
+    - guishop.sell 
+    - eshop.use
+    - eshop.enchants.all
+    - factions.kit.fullplayer 
+    - factions.access
+    - factions.access.faction
+    - factions.faction.*
+    - factions.*
+    - silkspawners.destroydrop.*
+    - silkspawners.place.*
+    - silkspawners.silkdrop.*
+    - tradeplus.trade 
+    - corpses.reload
+    - rankup.rankup
+    - scoreboard.default.yml
+    - veinminer.veinmine.all
+    - veinminer.veinmine.*
+    - veinminer.blocklist.*
+    - mcmmo.ability.*
+    - mcmmo.skills.*
+    - modifyworld.*
+  Gatherer:
+    inheritance:
+    - Default
+    permissions:
+    - essentials.sethome.multiple.gatherer
+    - essentials.kits.gatherer
+    - essentials.mail
+    - essentials.mail.send
+    - crazyauctions.bid
+    - crazyauctions.bid.5
+    - shopguiplus.shops.spawners
+    - silkspawners.place.*
+    - playervaults.amount.3
+    - RepairPlus.use.XP
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.format
+    options:
+      prefix: '&e[&bGatherer&e]&r '
+  Grunt:
+    inheritance:
+    - Gatherer
+    options:
+      prefix: '&e[&dGrunt&e]&r '
+    permissions:
+    - essentials.sethome.multiple.grunt
+    - essentials.kits.grunt
+    - essentials.nick
+    - essentials.nick.color
+    - essentials.nick.format
+    - parties.create
+    - parties.password
+    - essentials.enderchest
+  Hunter:
+    inheritance:
+    - Grunt
+    options:
+      prefix: '&e[&cHunter&e]&r '
+    permissions:
+    - essentials.chat.color
+    - essentials.chat.format
+    - essentials.sethome.multiple.hunter
+    - essentials.kits.hunter
+    - playervaults.amount.4
+    - silkspawners.silkdrop.*
+  Knight:
+    options:
+      prefix: '&e[&eKnight&e]&r '
+    permissions:
+    - essentials.sethome.multiple.knight
+    - essentials.kits.knight
+    - RepairPlus.RPAnvil
+    - essentials.top
+    - essentials.hat
+    inheritance:
+    - Hunter
+  Warchief:
+    options:
+      prefix: '&e[&1Warchief&e]&r '
+    permissions:
+    - essentials.sethome.multiple.warchief
+    - essentials.kits.warchief
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.tpahere
+    inheritance:
+    - Knight
+  King:
+    options:
+      prefix: '&e[&6King&e]&r '
+    permissions:
+    - essentials.sethome.multiple.king
+    - essentials.kits.king
+    - essentials.feed
+    inheritance:
+    - Warchief
+  Demigod:
+    options:
+      prefix: '&e[&b&lDemi&6&lGod&e]&r '
+    permissions:
+    - user
+    - essentials.sethome.multiple.demigod
+    - essentials.kits.demigod
+    - essentials.heal
+    - playervaults.amount.5
+    - essentials.fly
+    inheritance:
+    - King
+  helper:
+    inheritance:
+    - Default
+    permissions:
+    - essentials.balance
+    - essentials.ban.notify
+    - essentials.delhome
+    - essentials.enderchest
+    - essentials.fly
+    - essentials.getpos
+    - essentials.help
+    - essentials.helpop.receive
+    - essentials.helpop.recieve
+    - essentials.home
+    - essentials.kick
+    - essentials.kick.notify
+    - essentials.list
+    - essentials.me
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.msg.multiple
+    - essentials.msg.url
+    - essentials.mute
+    - essentials.mute.notify
+    - essentials.mute.offline
+    - essentials.pay
+    - essentials.ping
+    - essentials.recipe
+    - essentials.rules
+    - essentials.sethome
+    - essentials.signs.break.protection
+    - essentials.signs.break.trade
+    - essentials.signs.create.preotection
+    - essentials.signs.create.trade
+    - essentials.signs.use.balance
+    - essentials.signs.use.bu
+    - essentials.signs.use.buy
+    - essentials.signs.use.disposal
+    - essentials.signs.use.enchant
+    - essentials.signs.use.free
+    - essentials.signs.use.heal
+    - essentials.signs.use.kit
+    - essentials.signs.use.repair
+    - essentials.signs.use.sell
+    - essentials.signs.use.trade
+    - essentials.signs.use.warp
+    - essentials.spawn
+    - essentials.sucide
+    - essentials.tell
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tp.position
+    - essentials.tpa
+    - essentials.tpaccept
+    - essentials.tpahere
+    - essentials.tpdeny
+    - essentials.warps.list
+    - essentials.weather
+    - essentials.whois
+    - flydisabler.exempt
+    - trail.all
+    - trail.allow
+    - trail.blocks
+    - trail.rains
+    options:
+      prefix: '&e[&aHelper&e]&r '
+  moderator:
+    default: false
+    permissions:
+    - essentials.joinfullserver
+    - skript.staffchat
+    - message.sc
+    - staff.report
+    - staff.mode
+    - staff.chat
+    - essentials.tp
+    - essentials.seen.banreason
+    - essentials.seen.extra
+    - essentials.seen
+    - litebans.checkban
+    - essentials.feed
+    - essentials.fly
+    inheritance:
+    - helper
+  Youtuber:
+    default: false
+    permissions:
+    - -bukkit.command.kill
+    - -bukkit.me
+    - youtube.help
+    - youtube.newvideo
+    - youtube.stream
+    - youtube.streamer
+    - youtube.use
+    - youtube.youtuber
+    - flydisabler.exempt
+    - essentials.fly
+    - essentials.kits.Youtuber
+    - essentials.kit
+    - trail.all
+    inheritance:
+    - Member
+    - moderator
+    info:
+      build: true
+      prefix: '&f&LY&4&LT&e '
+      suffix: ''
+  Admin:
+    default: false
+    permissions:
+    - -essentials.silentjoin.vanish
+    - '*'
+    inheritance:
+    - Member
+    info:
+      build: false
+      prefix: '&4&LAdmin&e[FROMHELL] '
+      suffix: ''
+  Owner:
+    default: false
+    permissions:
+    - +vanish.effects.toggle.all
+    - -vanish.effects.*
+    - -essentials.silentjoin.vanish
+    - '*'
+    - animatednames.group.owner
+    - essentials.ban.exempt
+    - essentials.enchantments.allowunsafe
+    - essentials.invsee
+    - essentials.invsee.modify
+    - essentials.msg
+    - essentials.msg.color
+    - essentials.msg.format
+    - essentials.msg.magic
+    - essentials.msg.multiple
+    - essentials.msg.url
+    - essentials.realname
+    - essentials.seen.banreason
+    - essentials.silentjoin.vanish
+    - essentials.socialspy
+    - essentials.tp
+    - essentials.tp.others
+    - essentials.tphere
+    - essentials.vanish
+    - hsp.admin
+    - limitedcreative.blockstate.bypass
+    - limitedcreative.bypass_creativearmor
+    - limitedcreative.nolimit.*
+    - limitedcreative.region.bypass
+    - ops
+    inheritance:
+    - admin
+    info:
+      build: true
+      prefix: '&c&lOWNER&3 '
+      suffix: ''
+schema-version: 1
+users:
+  fbc542cd-48b0-3308-8c19-8142825aa516:
+    worlds:
+      world:
+        permissions:
+        - Owner
+        - '*'
+        group:
+        - Owner
+    permissions:
+    - Owner
+    options:
+      name: _gamerking_
+      prefix: '&c&lOWNER&3'

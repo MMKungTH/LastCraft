@@ -1,0 +1,51 @@
+s:
+  location: world, 365.529, 74.000, -667.556
+  lines:
+  - '&8&m-|--------------------------|-'
+  - '&7Welcome to &a&lLASTCRAFT &e{player}&7!'
+  - '&7Get started by doing &2/kit'
+  - '&7Don''t forget to read &e/rules'
+  - '&7Want to get into the wilderness? &b/wild'
+  - '&7Check out our website &c/website'
+  - '&8&m-|--------------------------|-'
+c1:
+  location: world, 362.514, 76.000, -656.471
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c2:
+  location: world, 362.566, 76.000, -678.431
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c3:
+  location: world, 384.474, 76.000, -678.487
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+c4:
+  location: world, 384.458, 76.000, -656.529
+  lines:
+  - '&8&m-|---------------|-'
+  - '&2&lCrates'
+  - '&7Obtain crate keys by doing'
+  - '&7&a/vote &7and &a/buy'
+  - '&8&m-|---------------|-'
+shop:
+  location: buildsextra, -3.631, 37.748, 249.844
+  lines:
+  - '&8&m-------------'
+  - '&a&lSHOP'
+  - '&7Welcome to the shop! You can buy using the signs below'
+  - '&7You can sell using the signs to your &cRight &7& &cLeft'
+  - '&8&m-------------'
+  - '&7You can buy spawners at &cNPC Spawners'

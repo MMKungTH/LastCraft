@@ -1,0 +1,5 @@
+[07.05.2016 12:50:37] idkaname2use: [Handler=advertisement, Rule ID=2] go to puremc.me
+[07.05.2016 12:50:42] idkaname2use: [Handler=advertisement, Rule ID=2] puremc(dot)me
+[08.05.2016 20:35:07] GenerikDuck: [Handler=advertisement, Rule ID=2] you gonna use https://xenforo.com/ for your website
+[27.05.2016 17:31:30] PureYT: [Handler=advertisement, Rule ID=2] my ip to my server is play.puremc.net
+[27.05.2016 17:31:52] PureYT: [Handler=advertisement, Rule ID=2] play(dot)puremc(dot)net

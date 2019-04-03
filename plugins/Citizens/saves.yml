@@ -1,0 +1,38 @@
+# Citizens NPC Storage
+
+
+last-created-npc-id: 5
+npc:
+  '5':
+    metadata:
+      player-skin-textures: eyJ0aW1lc3RhbXAiOjE1MTg2MDk2MzEzMDMsInByb2ZpbGVJZCI6IjRkNDBiYzg4ZjBjMjRjYThiNjcwMDFjMTM1MTY2YmQwIiwicHJvZmlsZU5hbWUiOiJHYWJNQyIsInNpZ25hdHVyZVJlcXVpcmVkIjp0cnVlLCJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvMjhhMmYzNTRmNDYwNmJmMjc0ZWUyYjg2NmNhYzQ5MjNlYzI4MjI0OThkNjg0ODZlMWU1YTg4YTRkODkzNzIifX19
+      cached-skin-uuid-name: gabmc
+      cached-skin-uuid: 4d40bc88-f0c2-4ca8-b670-01c135166bd0
+      player-skin-signature: uieXTNRxbnl3O81D8ipXN2ZbD+Igunl3WphDRgrWmYMe6EarUqyUrXxrJte86kjs1cQARAh8Ws0BesHF5CWt0xNP+alBiW7sHT+D8s+HgSA9TlGRCUObw0yOVohSWpAFQ6/W1CnlWCFGLNYDtQJ+CQmTh/S8hm435+WiiNyfghnnZ78eXZ5FHMv/sdyK0rthj3ZK5pmhRy4hUIHT935T9vHX+THj4YVLr479uTZZgmxOXV9pCj5w2RKGF4ujWoyOwdSoFD6WyRtwkg4VWr/8Xc/kS/kGiRuEE/iAyBFPUMuEzJPid7EBpQlBCXZjeeJJGbUWoqgIapBzrar6Nxh1HIubJ3NAjD7RDHAVdL7h1/rpy81OzZ8QFbRC+6FVq4fNBS3JUfd7ktZucAzBoIzKGEirRSHivPCGIclw6Bp8WKajtEvTzl1BzXddL2qnOEyGUa/oFU2kEghZX8ZeBWr2TxaN6LNH2TztSw3CE7Mgn4SENk6IDcNqS9qruFH2AElkHdajYoCbNA1iY8PpPc/k9jg3oLf6rJdvDcvnV5m01Em2e+sqAL/+IkpTKWN7aZli0TqzatGNdwQmpk+K41h3kwaEWBu8iu+H8U0n/10wTIOjpUzkpQ66nf30RBP4nP/l+4ABNmQc008JLMaaQ7IgmTrQftzDAELQKSne3pofCgY=
+      player-skin-name: gabmc
+    name: §a§lSPAWNERS
+    uuid: 1d5eb264-44ba-45c2-8e46-41745bf18241
+    traits:
+      location:
+        world: buildsextra
+        x: '-3.414020109248162'
+        y: '35.0625'
+        z: '227.2524828407112'
+        yaw: '109.3621826171875'
+        pitch: '1.0407538414001465'
+      inventory: {}
+      spawned: true
+      owner:
+        owner: _gamerking_
+        uuid: fbc542cd-48b0-3308-8c19-8142825aa516
+      lookclose:
+        enabled: true
+        range: '5.0'
+        realisticlooking: false
+    traitnames: type,owner,lookclose,spawned,location,inventory
+    navigator:
+      pathfindingrange: '25.0'
+      stationaryticks: -1
+      speedmodifier: '1.0'
+      avoidwater: false
+      usedefaultstuckaction: true

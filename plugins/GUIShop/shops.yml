@@ -1,0 +1,1070 @@
+Block:
+    1:
+      - item:98
+      - qty:64
+      - name:'&fStoneBrick'
+      - price:350
+      - sell:false
+      - slot:0
+    2:
+      - item:98
+      - qty:64
+      - name:'&fMossy StoneBrick'
+      - price:400
+      - sell:false
+      - slot:1
+    3:
+      - item:1
+      - qty:64
+      - name:'&fDont'
+      - price:275
+      - sell:75
+      - slot:2
+    4:
+      - item:4
+      - qty:64
+      - name:'&fStone'
+      - price:200
+      - sell:50
+      - slot:3
+    5:
+      - item:48
+      - qty:64
+      - name:'&fMossy CobbleStone'
+      - price:200
+      - sell:50
+      - slot:4
+    6:
+      - item:110
+      - qty:32
+      - name:'&fMycelium'
+      - price:250
+      - sell:false
+      - slot:5
+    7:
+      - item:2
+      - qty:64
+      - name:'&fGrass'
+      - price:185
+      - sell:50
+      - slot:6
+    8:
+      - item:3
+      - qty:64
+      - name:'&fDirt'
+      - price:150
+      - sell:30
+      - slot:7
+    9:
+      - item:17
+      - qty:64
+      - name:'&fOak Wood'
+      - price:200
+      - sell:125
+      - slot:8
+    10:
+      - item:17
+      - qty:32
+      - name:'&fSpruce Wod'
+      - price:200
+      - sell:125
+      - slot:9
+      - data:01
+    11:
+      - item:17
+      - qty:32
+      - name:'&fBirch Wood'
+      - price:200
+      - sell:126
+      - slot:10
+      - data:02
+    12:
+      - item:17
+      - qty:32
+      - name:'&fJungle Wood'
+      - price:200
+      - sell:125
+      - slot:11
+      - data:03
+    13:
+      - item:17
+      - qty:32
+      - name:'&fAcacia Wood'
+      - price:200
+      - sell:125
+      - slot:12
+      - data:04
+    14:
+      - item:162
+      - qty:1
+      - name:'&fDark Oak Wood'
+      - price:200
+      - sell:125
+      - slot:13
+      - data:01
+    15:
+      - item:19
+      - qty:12
+      - name:'&fSponge'
+      - price:180
+      - sell:false
+      - slot:14
+    16:
+      - item:45
+      - qty:64
+      - name:'&fBricks'
+      - price:500
+      - sell:false
+      - slot:15
+    17:
+      - item:35
+      - qty:64
+      - name:'&fWool'
+      - price:300
+      - sell:75
+      - slot:16
+    18:
+      - item:82
+      - qty:64
+      - name:'&fClay'
+      - price:500
+      - sell:false
+      - slot:17
+    19:
+      - item:172
+      - qty:64
+      - name:'&fHardened Clay'
+      - price:600
+      - sell:false
+      - slot:18
+    20:
+      - item:49
+      - qty:16
+      - name:'&fObsidian'
+      - price:180
+      - sell:80
+      - slot:19
+    21:
+      - item:24
+      - qty:16
+      - name:'&fSand Stone'
+      - price:150
+      - sell:false
+      - slot:20
+    22:
+      - item:12
+      - qty:16
+      - name:'&fSand'
+      - price:150
+      - sell:false
+      - slot:21
+    23:
+      - item:12
+      - qty:16
+      - name:'&fRed Sand'
+      - price:180
+      - sell:false
+      - slot:22
+    24:
+      - item:20
+      - qty:64
+      - name:'&fGlass'
+      - price:200
+      - sell:false
+      - slot:23
+    25:
+      - item:13
+      - qty:64
+      - name:'&fGravel'
+      - price:175
+      - sell:false
+      - slot:24
+    26:
+      - item:155
+      - qty:32
+      - name:'&fQuartz Block'
+      - price:250
+      - sell:false
+      - slot:25
+    27:
+      - item:112
+      - qty:64
+      - name:'&fNether Brick'
+      - price:275
+      - sell:100
+      - slot:26
+    28:
+      - item:87
+      - qty:64
+      - name:'&fNetherrack'
+      - price:125
+      - sell:42
+      - slot:27
+    29:
+      - item:88
+      - qty:64
+      - name:'&fSoul Sand'
+      - price:175
+      - sell:50
+      - slot:28
+    30:
+      - item:89
+      - qty:64
+      - name:'&fGlowStone'
+      - price:550
+      - sell:125
+      - slot:29
+    31:
+      - item:116
+      - qty:1
+      - name:'&fEnchanting Table'
+      - price:1600
+      - sell:false
+      - slot:30
+    32:
+      - item:47
+      - qty:64
+      - name:'&fBookShelf'
+      - price:400
+      - sell:false
+      - slot:31
+    33:
+      - item:80
+      - qty:16
+      - name:'&fSnowBlock'
+      - price:550
+      - sell:false
+      - slot:32
+    34:
+      - item:79
+      - qty:16
+      - name:'&fIce'
+      - price:650
+      - sell:false
+      - slot:33
+    35:
+      - item:174
+      - qty:16
+      - name:'&fPacked Ice'
+      - price:850
+      - sell:false
+      - slot:34
+    36:
+      - item:121
+      - qty:1
+      - name:'&fEnd Stone'
+      - price:200
+      - sell:false
+      - slot:35
+    37:
+      - item:138
+      - qty:1
+      - name:'&fBeacon'
+      - price:220000
+      - sell:false
+      - slot:36
+Raid:
+    1:
+      - item:46
+      - qty:8
+      - name:'&fTNT'
+      - price:400
+      - sell:false
+      - slot:0
+    2:
+      - item:331
+      - qty:16
+      - name:'&fRedstone'
+      - price:200
+      - sell:10
+      - slot:1
+    3:
+      - item:154
+      - qty:1
+      - name:'&fHopper'
+      - price:17000
+      - sell:false
+      - slot:2
+    4:
+      - item:326
+      - qty:1
+      - name:'&fWater Bucket'
+      - price:300
+      - sell:false
+      - slot:3
+    5:
+      - item:327
+      - qty:1
+      - name:'&fLava bucket'
+      - price:400
+      - sell:false
+      - slot:4
+    6:
+      - item:383
+      - qty:1
+      - name:'&fCreeper Egg'
+      - price:120000
+      - sell:false
+      - slot:5
+      - data:50
+    7:
+      - item:259
+      - qty:1
+      - name:'&fFlint & Steel'
+      - price:100
+      - sell:false
+      - slot:6
+    8:
+      - item:33
+      - qty:1
+      - name:'&fPiston'
+      - price:100
+      - sell:false
+      - slot:7
+    9:
+      - item:356
+      - qty:8
+      - name:'&fRepeater'
+      - price:240
+      - sell:false
+      - slot:8
+    10:
+      - item:404
+      - qty:1
+      - name:'&fComparator'
+      - price:150
+      - sell:false
+      - slot:9
+    11:
+      - item:29
+      - qty:1
+      - name:'&fSticky Piston'
+      - price:250
+      - sell:false
+      - slot:10
+    12:
+      - item:158
+      - qty:8
+      - name:'&fDropper'
+      - price:400
+      - sell:false
+      - slot:11
+    13:
+      - item:69
+      - qty:1
+      - name:'&fLever'
+      - price:10
+      - sell:false
+      - slot:12
+    14:
+      - item:131
+      - qty:1
+      - name:'&fTripWire Hook'
+      - price:100
+      - sell:false
+      - slot:13
+    15:
+      - item:323
+      - qty:1
+      - name:'&fSign'
+      - price:100
+      - sell:false
+      - slot:14
+    16:
+      - item:30
+      - qty:8
+      - name:'&fCobweb'
+      - price:100
+      - sell:false
+      - slot:15
+    17:
+      - item:44
+      - qty:8
+      - name:'&fStone Slab'
+      - price:240
+      - sell:false
+      - slot:16
+    18:
+      - item:123
+      - qty:1
+      - name:'&fRedstone Lamp'
+      - price:100
+      - sell:false
+      - slot:17
+Spawners:
+    1:
+      - item:52
+      - qty:1
+      - name:'&fPig Spawner'
+      - price:25000
+      - sell:0
+      - slot:0
+      - data:90
+    2:
+      - item:52
+      - qty:1
+      - name:'&fZombie Spawner'
+      - price:25000
+      - sell:0
+      - slot:1
+      - data:04
+    3:
+      - item:52
+      - qty:1
+      - name:'&fZombiePigMan Spawner'
+      - price:300000
+      - sell:0
+      - slot:2
+      - data:07
+    4:
+      - item:52
+      - qty:1
+      - name:'&fCow Spawner'
+      - price:75000
+      - sell:0
+      - slot:3
+      - data:92
+    5:
+      - item:52
+      - qty:1
+      - name:'&fVillager Spawner'
+      - price:500000
+      - sell:0
+      - slot:4
+      - data:120
+    6:
+      - item:52
+      - qty:1
+      - name:'&fIronGolem Spawner'
+      - price:850000
+      - sell:0
+      - slot:5
+      - data:08
+    7:
+      - item:52
+      - qty:1
+      - name:'&fBlaze Spawner'
+      - price:350000
+      - sell:0
+      - slot:6
+      - data:61
+    8:
+      - item:52
+      - qty:1
+      - name:'&fCreeper Spawner'
+      - price:650000
+      - sell:0
+      - slot:7
+      - data:00
+    9:
+      - item:52
+      - qty:1
+      - name:'&fSkeleton Spawner'
+      - price:500000
+      - sell:0
+      - slot:8
+      - data:01
+Tools:
+    1:
+      - item:306
+      - qty:1
+      - name:'&fIron Helm'
+      - price:600
+      - sell:55
+      - slot:0
+    2:
+      - item:307
+      - qty:1
+      - name:'&fIron ChestPiece'
+      - price:960
+      - sell:90
+      - slot:1
+    3:
+      - item:308
+      - qty:1
+      - name:'&fIron Leggings'
+      - price:840
+      - sell:80
+      - slot:2
+    4:
+      - item:309
+      - qty:1
+      - name:'&fIron Boots'
+      - price:480
+      - sell:44
+      - slot:3
+    5:
+      - item:256
+      - qty:1
+      - name:'&fIron Shovel'
+      - price:120
+      - sell:30
+      - slot:4
+    6:
+      - item:257
+      - qty:1
+      - name:'&fIron Pickaxe'
+      - price:360
+      - sell:90
+      - slot:5
+    7:
+      - item:258
+      - qty:1
+      - name:'&fIron Axe'
+      - price:360
+      - sell:90
+      - slot:6
+    8:
+      - item:292
+      - qty:1
+      - name:'&fIron Hoe'
+      - price:240
+      - sell:60
+      - slot:7
+    9:
+      - item:267
+      - qty:1
+      - name:'&fIron Sword'
+      - price:240
+      - sell:60
+      - slot:8
+    10:
+      - item:310
+      - qty:1
+      - name:'&fDiamond Helm'
+      - price:1450
+      - sell:375
+      - slot:9
+    11:
+      - item:311
+      - qty:1
+      - name:'&fDiamond ChestPiece'
+      - price:2250
+      - sell:600
+      - slot:10
+    12:
+      - item:312
+      - qty:1
+      - name:'&fDiamond Leggings'
+      - price:1960
+      - sell:525
+      - slot:11
+    13:
+      - item:313
+      - qty:1
+      - name:'&fDiamond Boots'
+      - price:1050
+      - sell:300
+      - slot:12
+    14:
+      - item:277
+      - qty:1
+      - name:'&fDiamond Shovel'
+      - price:290
+      - sell:70
+      - slot:13
+    15:
+      - item:278
+      - qty:1
+      - name:'&fDiamond Pickaxe'
+      - price:870
+      - sell:210
+      - slot:14
+    16:
+      - item:279
+      - qty:1
+      - name:'&fDiamond Axe'
+      - price:870
+      - sell:210
+      - slot:15
+    17:
+      - item:293
+      - qty:1
+      - name:'&fDiamond Hoe'
+      - price:580
+      - sell:140
+      - slot:16
+    18:
+      - item:276
+      - qty:1
+      - name:'&fDiamond Sword'
+      - price:580
+      - sell:140
+      - slot:17
+    19:
+      - item:261
+      - qty:1
+      - name:'&fBow'
+      - price:50
+      - sell:15
+      - slot:18
+    20:
+      - item:359
+      - qty:1
+      - name:'&fShears'
+      - price:50
+      - sell:false
+      - slot:19
+    21:
+      - item:346
+      - qty:1
+      - name:'&fFishing Rod'
+      - price:50
+      - sell:false
+      - slot:20
+    22:
+      - item:420
+      - qty:1
+      - name:'&fLeash'
+      - price:2000
+      - sell:false
+      - slot:21
+Farming:
+    1:
+      - item:6
+      - qty:16
+      - name:'&fOak Saplings'
+      - price:160
+      - sell:false
+      - slot:0
+    2:
+      - item:6
+      - qty:16
+      - name:'&fSpruce Saplings'
+      - price:160
+      - sell:false
+      - slot:1
+      - data:01
+    3:
+      - item:6
+      - qty:16
+      - name:'&fBirck Saplings'
+      - price:160
+      - sell:false
+      - slot:2
+      - data:02
+    4:
+      - item:6
+      - qty:16
+      - name:'&fJungle Saplings'
+      - price:160
+      - sell:false
+      - slot:3
+      - data:03
+    5:
+      - item:6
+      - qty:16
+      - name:'&fAcacia Saplings'
+      - price:160
+      - sell:false
+      - slot:4
+      - data:04
+    6:
+      - item:6
+      - qty:16
+      - name:'&fDark Oak Saplings'
+      - price:160
+      - sell:false
+      - slot:5
+      - data:05
+    7:
+      - item:295
+      - qty:16
+      - name:'&fSeeds'
+      - price:48
+      - sell:false
+      - slot:6
+    8:
+      - item:361
+      - qty:16
+      - name:'&Pumpkin Seeds'
+      - price:500
+      - sell:false
+      - slot:7
+    9:
+      - item:362
+      - qty:16
+      - name:'&fMelon Seeds'
+      - price:1200
+      - sell:false
+      - slot:8
+    10:
+      - item:296
+      - qty:16
+      - name:'&fWheat'
+      - price:150
+      - sell:60
+      - slot:9
+    11:
+      - item:338
+      - qty:16
+      - name:'&fSugar Cane'
+      - price:200
+      - sell:75
+      - slot:10
+    12:
+      - item:86
+      - qty:16
+      - name:'&fPumpkins'
+      - price:250
+      - sell:100
+      - slot:11
+    13:
+      - item:81
+      - qty:16
+      - name:'&fCactus'
+      - price:225
+      - sell:88
+      - slot:12
+    14:
+      - item:372
+      - qty:16
+      - name:'&fNether Warts'
+      - price:200
+      - sell:50
+      - slot:13
+    15:
+      - item:351
+      - qty:16
+      - name:'&fCoco Beans'
+      - price:50
+      - sell:9
+      - slot:14
+      - data:03
+    16:
+      - item:106
+      - qty:16
+      - name:'&fVines'
+      - price:160
+      - sell:false
+      - slot:15
+    17:
+      - item:39
+      - qty:16
+      - name:'&fMushroom'
+      - price:75
+      - sell:false
+      - slot:16
+    18:
+      - item:40
+      - qty:16
+      - name:'&fMushroom'
+      - price:75
+      - sell:false
+      - slot:17
+Minerals:
+    1:
+      - item:264
+      - qty:16
+      - name:'&fDiamond'
+      - price:4800
+      - sell:1200
+      - slot:0
+    2:
+      - item:388
+      - qty:1
+      - name:'&fEmerald'
+      - price:750
+      - sell:95
+      - slot:1
+    3:
+      - item:265
+      - qty:16
+      - name:'&fIron'
+      - price:800
+      - sell:176
+      - slot:2
+    4:
+      - item:266
+      - qty:8
+      - name:'&fGold'
+      - price:1125
+      - sell:410
+      - slot:3
+    5:
+      - item:263
+      - qty:32
+      - name:'&fCoal'
+      - price:75
+      - sell:20
+      - slot:4
+    6:
+      - item:263
+      - qty:32
+      - name:'&fCharCoal'
+      - price:75
+      - sell:20
+      - slot:5
+      - data:01
+    7:
+      - item:331
+      - qty:16
+      - name:'&fRedstone'
+      - price:200
+      - sell:10
+      - slot:6
+    8:
+      - item:351
+      - qty:16
+      - name:'&fLapis'
+      - price:250
+      - sell:20
+      - slot:7
+      - data:04
+    9:
+      - item:406
+      - qty:16
+      - name:'&fQuartz'
+      - price:160
+      - sell:false
+      - slot:8
+Potions:
+    1:
+      - item:373
+      - qty:1
+      - name:'&fSplash Potion of Healing'
+      - price:500
+      - sell:false
+      - slot:0
+      - data:16421
+    2:
+      - item:373
+      - qty:1
+      - name:'&fSplash Potion of Regeneration'
+      - price:500
+      - sell:false
+      - slot:1
+      - data:16417
+    3:
+      - item:373
+      - qty:1
+      - name:'&fPotion of Regeneration'
+      - price:400
+      - sell:false
+      - slot:2
+      - data:33
+    4:
+      - item:373
+      - qty:1
+      - name:'&fSplash Potion of Fire Resistance'
+      - price:500
+      - sell:false
+      - slot:3
+      - data:16451
+    5:
+      - item:373
+      - qty:1
+      - name:'&fPotion of Fire Resistance'
+      - price:400
+      - sell:false
+      - slot:4
+      - data:8259
+    6:
+      - item:373
+      - qty:1
+      - name:'&fSplash Potion of Strength'
+      - price:500
+      - sell:false
+      - slot:5
+      - data:16393
+    7:
+      - item:373
+      - qty:1
+      - name:'&fPotion of Strength'
+      - price:400
+      - sell:false
+      - slot:6
+      - data:8265
+    8:
+      - item:373
+      - qty:1
+      - name:'&fSplash Potion of Swiftness'
+      - price:500
+      - sell:false
+      - slot:7
+      - data:16482
+    9:
+      - item:373
+      - qty:1
+      - name:'&fPotion of Swiftness'
+      - price:400
+      - sell:false
+      - slot:8
+      - data:8290
+    10:
+      - item:374
+      - qty:64
+      - name:'&fBottles'
+      - price:310
+      - sell:false
+      - slot:9
+    11:
+      - item:384
+      - qty:64
+      - name:'&fBottle O' Enchanting'
+      - price:10000
+      - sell:false
+      - slot:10
+Food:
+    1:
+      - item:364
+      - qty:16
+      - name:'&fSteak'
+      - price:150
+      - sell:80
+      - slot:0
+    2:
+      - item:320
+      - qty:16
+      - name:'&fCooked PorkChop'
+      - price:300
+      - sell:20
+      - slot:1
+    3:
+      - item:366
+      - qty:16
+      - name:'&fCooked Chicken'
+      - price:150
+      - sell:20
+      - slot:2
+    4:
+      - item:350
+      - qty:16
+      - name:'&fCooked Fish'
+      - price:150
+      - sell:50
+      - slot:3
+    5:
+      - item:391
+      - qty:16
+      - name:'&fCarrots'
+      - price:80
+      - sell:false
+      - slot:4
+    6:
+      - item:392
+      - qty:16
+      - name:'&fPotato'
+      - price:80
+      - sell:false
+      - slot:5
+    7:
+      - item:360
+      - qty:16
+      - name:'&fMelon Slice'
+      - price:800
+      - sell:10
+      - slot:6
+    8:
+      - item:322
+      - qty:16
+      - name:'&fGolden Apple'
+      - price:12000
+      - sell:false
+      - slot:7
+Misc:
+    1:
+      - item:352
+      - qty:16
+      - name:'&fBone'
+      - price:150
+      - sell:50
+      - slot:0
+    2:
+      - item:368
+      - qty:4
+      - name:'&fEnder Pearl'
+      - price:150
+      - sell:70
+      - slot:1
+    3:
+      - item:367
+      - qty:32
+      - name:'&fRotten Flesh'
+      - price:50
+      - sell:22
+      - slot:2
+    4:
+      - item:369
+      - qty:4
+      - name:'&fBlaze Rod'
+      - price:175
+      - sell:35
+      - slot:3
+    5:
+      - item:289
+      - qty:4
+      - name:'&fGun Powder'
+      - price:75
+      - sell:32
+      - slot:4
+    6:
+      - item:375
+      - qty:1
+      - name:'&fSpider Eye'
+      - price:50
+      - sell:false
+      - slot:5
+    7:
+      - item:287
+      - qty:16
+      - name:'&fString'
+      - price:100
+      - sell:20
+      - slot:6
+    8:
+      - item:341
+      - qty:1
+      - name:'&fSlimeBall'
+      - price:300
+      - sell:40
+      - slot:7
+    9:
+      - item:370
+      - qty:1
+      - name:'&fGhast Tear'
+      - price:1000
+      - sell:false
+      - slot:8
+    10:
+      - item:378
+      - qty:16
+      - name:'&fMagma Cream'
+      - price:3500
+      - sell:false
+      - slot:9
+    11:
+      - item:334
+      - qty:16
+      - name:'&fLeather'
+      - price:120
+      - sell:20
+      - slot:10
+    12:
+      - item:288
+      - qty:16
+      - name:'&fFeather'
+      - price:100
+      - sell:13
+      - slot:11
+    13:
+      - item:344
+      - qty:1
+      - name:'&fEgg'
+      - price:10
+      - sell:false
+      - slot:12
+    14:
+      - item:351
+      - qty:8
+      - name:'&fInk Sack'
+      - price:50
+      - sell:10
+      - slot:13
+    15:
+      - item:371
+      - qty:1
+      - name:'&fGolden Nugget'
+      - price:50
+      - sell:4
+      - slot:14

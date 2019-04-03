@@ -1,0 +1,41 @@
+--- 
+menu-settings: 
+  auto-refresh: 5
+  command: "help; h; ?; plugins; pl; plugin;"
+  name: "&a&lHELP "
+  open-action: "sound: level up; tell: &b(!) &7Opening Help Menu."
+  open-with-item: 
+    id: "wool:1"
+    left-click: false
+    right-click: false
+  rows: 1
+mutecmd: 
+  COMMAND: ""
+  ID: "STAINED_GLASS_PANE:14"
+  LORE: 
+    - "&e"
+    - "&a&lMember Commands:"
+    - "&e"
+    - "&2(!) &7/message"
+    - "&2(!) &7/reply"
+    - "&2(!) &7/trade"
+    - "&2(!) &7/ignore"
+    - "&2(!) &7/warp"
+    - "&2(!) &7/kit"
+    - "&2(!) &7/helpop"
+    - "&2(!) &7/spawn"
+    - "&2(!) &7/list"
+    - "&2(!) &7/rules"
+    - "&2(!) &7/mail"
+    - "&2(!) &7/motd"
+    - "&2(!) &7/realname"
+    - "&2(!) &7/mail"
+    - "&2(!) &7/f	"
+    - "&2(!) &7/vote "
+    - "&2(!) &7/enchanter "
+    - "&2(!) &7/buy "
+    - "&e"
+  NAME: "&d» Commands «"
+  POSITION-X: 5
+  POSITION-Y: 1 
+  

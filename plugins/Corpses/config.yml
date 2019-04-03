@@ -1,0 +1,4 @@
+corpse-time: 5
+on-death: true
+looting-inventory: true
+show-tags: false

@@ -1,0 +1,14 @@
+# ActionAnnouncer v1.9.1 Main configuration
+announcer_enabled: true
+announcer_random: true
+announce_interval: 60
+announcement_length: 4
+announcements:
+- '&a&l(!) &7Have you voted today? &a/vote&7!'
+- '&a&l(!) &7There are currently &a%online% &7players online!'
+- '&a&l(!) &7Want to help support the server? &a/buy'
+- '&a&l(!) &7Check out our website at &awww.LastCraft.com'
+- '&a&l(!) &7Rankup by doing &a/rankup&7! Check ranks &a/ranks'
+announce_on_join: true
+join_announcement: '&a(!) &7Welcome back to the &2SERVER!'
+disable_sounds: false

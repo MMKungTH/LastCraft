@@ -1,0 +1,30 @@
+lastAccountName: finch
+timestamps:
+  login: 1518491568659
+  kits:
+    member: 1518426056213
+  logout: 1518492055963
+  lastteleport: 1518429427021
+ipAddress: 49.146.44.222
+logoutlocation:
+  world: world
+  x: 591.3000000119209
+  y: 60.0
+  z: 204.28680800483554
+  yaw: -225.53726
+  pitch: -46.490482
+homes:
+  home:
+    world: world
+    x: 504.755776047095
+    y: 85.0
+    z: 362.08229164902997
+    yaw: -226.0509
+    pitch: 10.350022
+lastlocation:
+  world: world
+  x: 504.4702878926599
+  y: 85.0
+  z: 361.9444071855905
+  yaw: -160.64795
+  pitch: 24.74996

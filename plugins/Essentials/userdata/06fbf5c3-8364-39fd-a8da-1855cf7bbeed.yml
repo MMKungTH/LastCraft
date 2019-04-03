@@ -1,0 +1,27 @@
+lastAccountName: nicole
+timestamps:
+  login: 1518424617079
+  logout: 1518425978961
+ipAddress: 49.146.41.82
+lastlocation:
+  world: world
+  x: 367.32750625438547
+  y: 71.0625
+  z: -667.445591503095
+  yaw: -270.94824
+  pitch: 17.699991
+homes:
+  home:
+    world: world
+    x: -474.20296209343746
+    y: 68.0
+    z: -248.05654845914896
+    yaw: -89.55121
+    pitch: 2.2500024
+logoutlocation:
+  world: world
+  x: -474.20296209343746
+  y: 68.0
+  z: -248.05654845914896
+  yaw: -89.55121
+  pitch: 1.9500024

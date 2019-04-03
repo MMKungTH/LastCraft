@@ -1,0 +1,154 @@
+Messages:
+  Config-Reload: '&6&l(!) &eYou have just reloaded the Config.yml'
+  Not-An-Enchantment: '&eThat is not an enchantment'
+  Right-Click-Black-Scroll: '&6&l(!) &eBlack scrolls will remove a random enchantment from your item.'
+  Need-More-XP-Lvls: '&6&l(!) &eYou need &6%XP% &emore XP Lvls.'
+  Need-More-Total-XP: '&6&l(!) &eYou need &6%XP% &emore Total XP.'
+  Need-More-Money: '&6&l(!) &eYou are in need of &6$%Money_Needed%&e.'
+  Hit-Enchantment-Max: '&6&l(!) &eYou have hit the max amount of enchantment an item can have.'
+  Inventory-Full: '&6&l(!) &eYour inventory is to full. Please open up some space to buy that.'
+  Tinker-Inventory-Full: '&6&l(!) &eThe inventory is full. Sell all or remove items.'
+  Tinker-Sold-Msg: '&6&l(!) &eThank you for trading at &7&lThe &4&lCrazy &c&lTinkerer&7.'
+  Players-Only: '&6&l(!) &eOnly players can use this command.'
+  No-Perm: '&6&l(!) &eYou do not have permission to use that command!'
+  Not-Online: '&6&l(!) &eThat player is not online at this time.'
+  Remove-Enchantment: '&6&l(!) &eYou have removed the enchantment &6%Enchantment% &efrom this item.'
+  Doesnt-Have-Enchantment: '&6&l(!) &eYour item does not contain the enchantment &6%Enchantment%&e.'
+  Doesnt-Have-Item-In-Hand: '&6&l(!) &eYou must have an item in your hand.'
+  Not-A-Number: '&6&l(!) &6%Arg% &eis not a number.'
+  Get-Success-Dust: '&6&l(!) &eYou have gained &6%Amount% &eSuccess Dust.'
+  Give-Success-Dust: '&6&l(!) &eYou have given &6%Amount% &eSuccess Dust to &6%Player%&e.'
+  Get-Destroy-Dust: '&6&l(!) &eYou have gained &6%Amount% &eDestroy Dust.'
+  Give-Destroy-Dust: '&6&l(!) &eYou have given &6%Amount% &eDestroy Dust to &6%Player%&e.'
+  Not-A-Category: '&6&l(!) &6%Category% &eis not a category.'
+  Clean-Lost-Book: '&6&l(!) &eYou have just cleaned a lost book and found &6%Found%&e.'
+  Book-Works: '&6&l(!) &eYour item loved this book and accepted it.'
+  Book-Failed: '&6&l(!) &eYour item must not have liked that enchantment.'
+  Item-Destroyed: '&6&l(!) &eOh no the destroy rate was to much for the item.'
+  Item-Was-Protected: '&6&l(!) &eLuckily your item was blessed with Devine Protection and didnt break.'
+  Give-Protection-Crystal: '&6&l(!) &eYou have just given &6%Player% %Amount% &eProtection Crystals.'
+  Get-Protection-Crystal: '&6&l(!) &eYou have gained &6%Amount% &eProtection Crystals.'
+  InfoGUI:
+    Categories-Info:
+      Back:
+        Right: '&7&l« &bBack'
+        Left: '&bBack &7&l»'
+      Helmets:
+        Name: '&6» &e&lHelmet Enchantments'
+        Lore:
+          - '&6Enchantable Items:'
+          - '&e&o- Leather Helmet'
+          - '&e&o- Chain Helmet'
+          - '&e&o- Gold Helmet'
+          - '&e&o- Iron Helmet'
+          - '&e&o- Diamond Helmet'
+      Boots:
+        Name: '&6» &e&lBoot Enchantments'
+        Lore:
+          - '&cEnchantable Items:'
+          - '&e&o- Leather Boots'
+          - '&e&o- Chain Boots'
+          - '&e&o- Gold Boots'
+          - '&e&o- Iron Boots'
+          - '&e&o- Diamond Boots'
+      Armor:
+        Name: '&6» &e&lArmor Enchantments'
+        Lore:
+          - '&6Enchantable Items:'
+          - '&e&o- Leather Armor'
+          - '&e&o- Chain Armor'
+          - '&e&o- Gold Armor'
+          - '&e&o- Iron Armor'
+          - '&e&o- Diamond Armor'
+      Bow:
+        Name: '&6» &e&lBow Enchantments'
+        Lore:
+          - '&6Enchantable Items:'
+          - '&e&o- Bow'
+      Sword:
+        Name: '&6» &e&lSword Enchantments'
+        Lore:
+          - '&6Enchantable Items:'
+          - '&e&o- Wooden Sword'
+          - '&e&o- Stone Sword'
+          - '&e&o- Gold Sword'
+          - '&e&o- Iron Sword'
+          - '&e&o- Diamond Sword'
+      Axe:
+        Name: '&6» &e&lAxe Enchantments'
+        Lore:
+          - '&cEnchantable Items:'
+          - '&e&o- Wooden Axe'
+          - '&e&o- Stone Axe'
+          - '&e&o- Gold Axe'
+          - '&e&o- Iron Axe'
+          - '&e&o- Diamond Axe'
+      Tool:
+        Name: '&6» &e&lTool Enchantments'
+        Lore:
+          - '&cEnchantable Items:'
+          - '&e&o- All Pickaxes'
+          - '&e&o- All Axes'
+          - '&e&o- All Shovels'
+          - '&e&o- All Hoes'
+      Pickaxe:
+        Name: '&6» &e&lPickaxe Enchantments'
+        Lore:
+          - '&cEnchantable Items:'
+          - '&e&o- Wooden Pickaxe'
+          - '&e&o- Stone Pickaxe'
+          - '&e&o- Gold Pickaxe'
+          - '&e&o- Iron Pickaxe'
+          - '&e&o- Diamond Pickaxe'
+      Misc:
+        Name: '&6» &e&lMisc Enchantments'
+        Lore:
+          - '&aRead enchantment to'
+          - '&aSee enchantable Items.'
+      Other:
+        Name: '&6» &e&lOther Info'
+        Lore:
+          - '&cInfo on these items:'
+          - '&e&o- The Tinkerer'
+          - '&e&o- Scrolls'
+          - '&e&o- Magic Dust'
+          - '&e&o- Black Smith'
+    BlackSmith:
+      - '&6&l(!) &eDo you have an enchantment on your item you want leveled up?'
+      - '&6&l(!) &eOr level up your book because you have to many low level ones?'
+      - '&6&l(!) &eThe Black Smith is just for you. It acts just like a Anvil but for'
+      - '&6&l(!) &eCustom Enchantments. All you do is throw 2 items or books in and BLAMO,'
+      - '&6&l(!) &eYou can easily level up your old low level enchantments.'
+      - '&7&l(&6&l!&7&l) &eOnly works on Custom Enchantments. Will not add Vanilla Enchantments to new Item.'
+    Black-Scroll:
+      - '&6&l(!) &eDo you have an enchantment on your item you dont want?'
+      - '&6&l(!) &eWell Black Scrolls are here to help you remove that enchantment.'
+      - '&6&l(!) &eAll you need to do is put the Black Scroll on your cursor and then.'
+      - '&6&l(!) &eDrag and drop it on the item and BLAMO. It takes a random enchantment off,'
+      - '&6&l(!) &eAnd turns it into a normal enchantment book. Easy way to add new better enchantments.'
+      - '&7&l(&6&l!&7&l) &eOnly works on Custom Enchantments.'
+    White-Scroll:
+      - '&6&l(!) &eHave a item that is precious to you and dont want it to,'
+      - '&6&l(!) &eBreak because of Destroy Rate? Well this scroll allows you to,'
+      - '&6&l(!) &eProtect or precious item and not let it break. Well your in luck,'
+      - '&6&l(!) &eWhite Scrolls add a &b&lPROTECTED &7lore to your item to stop it from,'
+      - '&6&l(!) &eDestroying your precious item. If the book tries to break your item it removes,'
+      - '&6&l(!) &eThe &b&lPROTECTED &elore from your item and must add a new White Scroll to the item.'
+    Tinker:
+      - '&6&l(!) &eJust raided a big base and have a lot of useless enchanted items?'
+      - '&6&l(!) &eWant to get rid of them but not just throw them in lava or at a cactus?'
+      - '&6&l(!) &eWell with &6&lThe &6&lCrazy &6&lTinkerer &eyou can recycle those items,'
+      - '&6&l(!) &eFor XP bottles which you can then use to get new enchantments from the Enchanter'
+      - '&6&l(!) &eThe tinkerer also takes Enchantment books and will give you Mystery Dust which you'
+      - '&6&l(!) &eRight click to receive either Success Dust or Destroy Dust.'
+      - '&7&l(&6&l!&7&l) &eTrading in books only works with Custom Enchanted Books.'
+    Success-Dust:
+      - '&6&l(!) &eDo you have an enchantment book with sucky Success Rate?'
+      - '&6&l(!) &eWell this dust can really help you bring the success rate up.'
+      - '&6&l(!) &eDrag and drop the dust on an enchantment book and BLAMO.'
+      - '&6&l(!) &eIt will increase your success rate buy the percent the book says.'
+    Destroy-Dust:
+      - '&6&l(!) &eHave an enchantment book with a high Destroy Rate?'
+      - '&6&l(!) &eWell this dust allows you to bring that destroy rate down.'
+      - '&6&l(!) &eDrag and drop the dust on an enchantment book and BLAMO.'
+      - '&6&l(!) &eIt will decrease your destroy rate buy the percent the book says.'

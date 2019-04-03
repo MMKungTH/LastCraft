@@ -1,0 +1,130 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&a&lRULES'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'rules'
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling; tell: &b(!) &7Opening Rules!'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: 
+    left-click: false
+    right-click: true
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+warncmd:
+  NAME: '&9&l» WARN «'
+  LORE:
+    - '&e'
+    - '&9What you can get a warning for is:'
+    - '&e'
+    - '&4&l NOTE:'
+    - '&c Warnings wear off within a weeks time!'
+    - '&c All of these apply to message as well!'
+    - '&b* Language Implication'
+    - '&b* Language'
+    - '&b* Capitals'
+    - '&b* Character Spam'
+    - '&b* Asking Staff For Items'
+    - '&b* Player Disrespect'
+    - '&b* Staff Disrespect'
+    - '&b* Harrasement'
+    - '&b* Arguing against staff'
+    - '&b* Arguing against punishment'
+  ID: STAINED_GLASS_PANE:11
+  POSITION-X: 3
+  POSITION-Y: 1
+
+
+tempmutecmd:
+  COMMAND: ''
+  NAME: '&a&l» TEMPMUTE «'
+  LORE:
+    - '&e'
+    - '&aWhat you can get a tempmute for is:'
+    - '&e'
+    - '&b* Temporary mutes are usually occured'
+    - '&b by obtaining a certain amount of warnings,'
+    - '&b it then goes onto a permanant mute.'
+  ID: STAINED_GLASS_PANE:5
+  POSITION-X: 4
+  POSITION-Y: 1
+
+
+mutecmd:
+  COMMAND: ''
+  NAME: '&e&l» MUTE «'
+  LORE:
+    - '&e'
+    - '&eWhat you can get a mute for is:'
+    - '&e'
+    - '&b* Mutes are usually occured'
+    - '&b by obtaining a certain amount of warnings,'
+    - '&b it then goes onto a temporary ban.'
+    - '&b* To get this amount of warnings is'
+    - '&b quite hard to get, if you get a'
+    - '&b temporary ban, you should take that'
+    - '&b as a bad achievement!'
+  ID: STAINED_GLASS_PANE:4
+  POSITION-X: 5
+  POSITION-Y: 1
+
+  
+tempbancmd:
+  COMMAND: ''
+  NAME: '&6&l» TEMPBAN «'
+  LORE:
+    - '&e'
+    - '&6What you can get a tempban for is:'
+    - '&e'
+    - '&b* Temporary bans are not come'
+    - '&b across often. We hardly ever'
+    - '&b give them out to the public,'
+    - '&b but if you get them with'
+    - '&b warnings, you have obtained'
+    - '&b at least 7-8 warnings!'
+    - '&b* We would not say this is'
+    - '&b a good thing...'
+  ID: STAINED_GLASS_PANE:1
+  POSITION-X: 6
+  POSITION-Y: 1
+
+
+bancmd:
+  COMMAND: ''
+  NAME: '&c&l» BAN «'
+  LORE:
+    - '&e'
+    - '&cWhat you can get a ban for is:'
+    - '&eHacking / Mods / Spamming'
+    - '&b* '
+  ID: STAINED_GLASS_PANE:14
+  POSITION-X: 7
+  POSITION-Y: 1

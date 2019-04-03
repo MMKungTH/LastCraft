@@ -1,0 +1,28 @@
+lastAccountName: _gamerking_
+timestamps:
+  login: 1518478010678
+  lastteleport: 1518390523246
+  kits:
+    grunt: 1518365898272
+    king: 1518365963224
+    member: 1518365472134
+    gatherer: 1518365504848
+    hunter: 1518365943921
+    donator: 1518366031205
+    god: 1518365998852
+  logout: 1518477964024
+ipAddress: 49.146.44.222
+lastlocation:
+  world: buildsextra
+  x: -631.5
+  y: 4.0
+  z: -16.5
+  yaw: -44.69989
+  pitch: -6.599996
+logoutlocation:
+  world: world
+  x: -964.6198124794141
+  y: 68.0
+  z: -83.20514606021746
+  yaw: -73.80048
+  pitch: 29.249952

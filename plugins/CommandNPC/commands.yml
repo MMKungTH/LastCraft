@@ -1,0 +1,20 @@
+NPCS:
+  '0':
+    Commands:
+    - 1~~false
+  '1':
+    Commands:
+    - 1~~false
+  '2':
+    Commands:
+    - 1~~false
+  '3':
+    Commands:
+    - 1~~false
+    - 2~~false
+  '4':
+    Commands:
+    - 1~~false
+  '5':
+    Commands:
+    - spawners~~false

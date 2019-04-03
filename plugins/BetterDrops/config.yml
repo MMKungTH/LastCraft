@@ -1,0 +1,94 @@
+# If disabled, regular 2D drops will be shown using the custom name tags provided by BetterDrops.
+enable-3d-drops: true
+
+# List of enabled worlds.
+worlds: ['*']
+
+# Pick up items by clicking on them?
+click-pickup: true
+
+# Force players to click on items to pick them up?
+# This will prevent players from picking up items normally.
+force-click-pickup: false
+
+# Force click pickup can work in two ways:
+# - Removing the item and directly adding it to the player's inventory (incompatible with plugins that spawn drops which can't be picked up, may cause duplication bugs with those plugins installed)
+# - Teleporting the item and allowing the player to pick it up normally (this will work as long as you don't have another plugin blocking item pickup)
+# Leaving this set to true is recommended.
+force-click-pickup-teleport: true
+
+# Teleport items away from adjacent horizontal blocks? This prevents 3D items from glitching into walls.
+wall-fix: true
+
+# Show name tags for drops?
+show-item-names: true
+
+# Show item amounts if there is more than one item in a stack?
+show-item-amount: true
+# You can change the format here, "%d" will be replaced with the number.
+item-amount-suffix-format: ' (%d)'
+
+# The item name format can be changed here. This can be used to add prefixes, suffixes, and colors to all item names.
+item-name-format: '%s'
+
+# If a dropped item has a custom name already defined, it will be used instead.
+# This applies for the dropped entity, not the item itself.
+custom-names: true
+
+# The 'view distance' in blocks for item drops.
+tracking-range: 64
+
+# Drops will only be replaced after they have lived for a certain amount of ticks.
+# Set it to 0 if you want drops to be replaced instantly.
+minimum-drop-lifetime: 20
+
+# Here you can limit the amount of 3D drops in an area.
+# Stacked items don't represent extra drops.
+# The distance can be set to 0 to disable the check.
+limit-distance: 16
+limit-max: 100
+
+# If enabled, the plugin will use small armor stands, resulting in smaller items.
+small-items: false
+
+# Use 3D drops in water?
+water: true
+
+# Handle CrackShot grenades/bombs?
+crackshot: true
+
+# Custom item names.
+# Any item names in this list will override everything else.
+# A list of materials is available here: https://hub.spigotmc.org/javadocs/spigot/org/bukkit/Material.html
+# Format: <Material[~data]:name>
+custom-item-names: []
+# custom-item-names:
+# - 'STONE_SWORD:&8Stone Sword'
+# - 'IRON_SWORD:&7Iron Sword'
+# - 'DIAMOND_SWORD:&bDiamond Sword'
+
+# Should custom item names defined in this configuration override an item's existing custom name?
+custom-names-override-existing-names: false
+
+# Custom item directions.
+# The three numbers are pitch, yaw, and roll.
+# Providing '#' as a value will use a random value from 0 to 360.
+
+# For reference, these are the default directions (non-small items):
+# Blocks: 345,315,0
+# Tools: #,180,90
+# Non-solid blocks: 0,#,0
+
+# Format: <Material[~data]:pitch,yaw,roll>
+custom-item-directions: []
+# custom-item-directions:
+# - 'IRON_AXE~1:0,80,90'
+# - 'DIAMOND_PICKAXE~1:0,180,90'
+# - 'WOOD_SWORD:170,#,90'
+
+# If this list is not empty, only items in this list will become 3D drops.
+# Format: <Material[~data]>
+item-whitelist: []
+# item-whitelist:
+# - 'STONE'
+# - 'STONE~1'

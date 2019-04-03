@@ -1,0 +1,70 @@
+#This is Title of scoreboard
+title:
+- '&f&l> &c&lQuickBoard&f&l <'
+- '&f&l> &c&lQuickBoar&f&l <'
+- '&f&l> &c&lQuickBoa&f&l <'
+- '&f&l> &c&lQuickBo&f&l <'
+- '&f&l> &c&lQuickB&f&l <'
+- '&f&l> &c&lQuick&f&l <'
+- '&f&l> &c&lQuic&f&l <'
+- '&f&l> &c&lQui&f&l <'
+- '&f&l> &c&lQu&f&l <'
+- '&f&l> &c&lQ&f&l <'
+- '&f&l> &f&l <'
+- '&f&l< &f&l >'
+- '&f&l< &c&lQ&f&l >'
+- '&f&l< &c&lQu&f&l >'
+- '&f&l< &c&lQui&f&l >'
+- '&f&l< &c&lQuic&f&l >'
+- '&f&l< &c&lQuick&f&l >'
+- '&f&l< &c&lQuickB&f&l >'
+- '&f&l< &c&lQuickBo&f&l >'
+- '&f&l< &c&lQuickBoa&f&l >'
+- '&f&l< &c&lQuickBoar&f&l >'
+- '&f&l< &c&lQuickBoard&f&l >'
+- '&c&lQuickBoard'
+- '&6&lQuickBoard'
+- '&e&lQuickBoard'
+- '&a&lQuickBoard'
+- '&7&lQuickBoard'
+- '&d&lQuickBoard'
+- '&b&lQuickBoard'
+- '&c&lQuickBoard'
+#This is Text of scoreboard
+text:
+- ''
+- '&aWelcome &e{PLAYER}'
+- ''
+- '{CH_healthloc}'
+- ''
+- '{SC_info}'
+- ''
+- '&aOnline Players'
+- '&7%server_online%'
+- ''
+- '&aYour latency'
+- '&7%ping_player%ms'
+- ''
+- '&aRunning on &6&lQuickBoard'
+#Text and title update time in ticks
+updater:
+  title: 2
+  text: 5
+#Enabled worlds of this scoreboard
+enabledWorlds:
+- world
+#Changeable text, interval is in ticks, Placeholders works on this feature
+changeableText:
+  healthloc:
+    text:
+    - '&aHealth: &c%player_health% &lHP'
+    - '&aLoc: &e%player_x% %player_y% %player_z%'
+    - '&aJoined &e%player_first_join_date%'
+    interval: 60
+#Scroller, update is in ticks, Placeholders works on this feature
+scroller:
+  info:
+    text: '&7Welcome &e{PLAYER} &7on this server! This server is running on &6QuickBoard'
+    width: 26
+    spaceBetween: 6
+    update: 2

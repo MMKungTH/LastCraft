@@ -1,0 +1,1670 @@
+[30.04.2016 21:01:27] ImVexy: s
+[30.04.2016 21:03:01] ImVexy: s
+[30.04.2016 21:03:52] ImVexy: s
+[30.04.2016 21:03:53] ImVexy: s
+[30.04.2016 21:04:44] ImVexy: s
+[30.04.2016 21:05:00] ImVexy: s
+[30.04.2016 21:05:16] Shoving: e
+[30.04.2016 21:05:53] Shoving: 3
+[30.04.2016 21:12:54] Shoving: e
+[30.04.2016 21:48:20] ImVexy: fuck you
+[01.05.2016 22:52:49] ImVexy: s
+[01.05.2016 22:52:59] Shoving: E\
+[01.05.2016 22:59:46] ImVexy: s
+[01.05.2016 23:10:21] Shoving: W
+[01.05.2016 23:19:59] LuskiGames_: Timmy.
+[01.05.2016 23:20:05] Shoving: HI
+[01.05.2016 23:25:39] Shoving: tommy
+[02.05.2016 09:14:20] LuskiGames_: Timmy.
+[02.05.2016 09:17:06] Shoving: e
+[02.05.2016 09:24:56] ImVexy: s
+[02.05.2016 09:26:13] Shoving: oops
+[02.05.2016 09:26:21] Shoving: sorry
+[02.05.2016 09:43:42] ImVexy: tommy do /msg ImVexy hi
+[03.05.2016 15:34:32] ImVexy: s
+[03.05.2016 16:15:11] Shoving: w
+[03.05.2016 16:15:12] ImVexy: s
+[05.05.2016 20:10:31] ImVexy: s
+[05.05.2016 20:10:41] ImVexy: s
+[05.05.2016 20:11:56] ImVexy: s
+[06.05.2016 11:12:21] ImVexy: .
+[06.05.2016 11:13:30] ImVexy: I still need to get the spawning working :P
+[06.05.2016 11:13:40] GenerikDuck: Nice setup so far.
+[06.05.2016 11:13:48] GenerikDuck: damn
+[06.05.2016 11:13:55] ImVexy: I need to also change default to Member and not pigman :P
+[06.05.2016 11:14:03] GenerikDuck: LOL
+[06.05.2016 11:14:28] ImVexy: Custom enchants for everything
+[06.05.2016 11:18:40] ImVexy: brb
+[06.05.2016 11:18:51] GenerikDuck: ok
+[06.05.2016 11:20:18] ImVexy: can you /msg?
+[06.05.2016 11:20:27] GenerikDuck: nope
+[06.05.2016 11:20:37] ImVexy: Now try
+[06.05.2016 11:20:44] GenerikDuck: ugh
+[06.05.2016 11:20:54] ImVexy: Alright cool thanks
+[06.05.2016 11:21:19] ImVexy: All that is left really is NPCs and Perms
+[06.05.2016 11:21:34] ImVexy: Maybe a few fun plugins and thats it
+[06.05.2016 11:21:54] ImVexy: Im gonna grab my alr
+[06.05.2016 11:21:56] ImVexy: Im gonna grab my alt*
+[06.05.2016 11:22:34] GenerikDuck: And better join message xD.
+[06.05.2016 11:22:38] Shoving: Yes
+[06.05.2016 11:22:39] Shoving: xD
+[06.05.2016 11:22:53] Shoving: But that is easy to change.
+[06.05.2016 11:23:55] Shoving: s
+[06.05.2016 11:34:16] ImVexy: Im gonna setup join and leave messages
+[06.05.2016 11:34:24] GenerikDuck: k
+[06.05.2016 11:37:38] ImVexy: hmm
+[07.05.2016 12:17:56] GenerikDuck: g
+[07.05.2016 12:31:34] GenerikDuck: There we go.
+[07.05.2016 12:31:39] GenerikDuck: Spawn is insta tp do.
+[07.05.2016 12:32:06] ImVexy: Ill change it to 4 secs
+[07.05.2016 12:32:09] GenerikDuck: kk
+[07.05.2016 12:34:01] ImVexy: how do /spawn
+[07.05.2016 12:34:13] GenerikDuck: fggf
+[07.05.2016 12:34:22] GenerikDuck: Cant do same commandfjh dfjhfdegj.
+[07.05.2016 12:34:27] GenerikDuck: UGH
+[07.05.2016 12:34:31] ImVexy: xD I will change that :P
+[07.05.2016 12:34:35] GenerikDuck: K 5secs.
+[07.05.2016 12:34:44] ImVexy: Alright good
+[07.05.2016 12:35:32] ImVexy: I am going to do perms brb
+[07.05.2016 12:35:37] GenerikDuck: ok
+[07.05.2016 12:35:46] ImVexy: Play around and see if Member has any missing perms :)
+[07.05.2016 12:35:53] GenerikDuck: kk
+[07.05.2016 12:35:58] GenerikDuck: yep
+[07.05.2016 12:36:02] GenerikDuck: Cant do /home.
+[07.05.2016 12:36:20] ImVexy: I added the perm
+[07.05.2016 12:36:27] GenerikDuck: Cant use warps.
+[07.05.2016 12:36:30] GenerikDuck: I can do /warp tho.
+[07.05.2016 12:36:46] GenerikDuck: Just when i click the warp it doesnt allow me.
+[07.05.2016 12:36:59] ImVexy: ok
+[07.05.2016 12:37:09] GenerikDuck: U might want to clear eco .. /baltop.
+[07.05.2016 12:37:09] ImVexy: I still haven't redone the /warp gui
+[07.05.2016 12:37:34] ImVexy: Ill reset it
+[07.05.2016 12:38:07] GenerikDuck: gf
+[07.05.2016 12:38:11] GenerikDuck: Lag ?
+[07.05.2016 12:38:20] ImVexy: I don't have any
+[07.05.2016 12:38:35] ImVexy: can you use the crates?
+[07.05.2016 12:38:35] GenerikDuck: Oh well i cant open up echest.
+[07.05.2016 12:38:53] ImVexy: Yea I need to give perms to the enderchest since its using a custom plugin
+[07.05.2016 12:38:56] GenerikDuck: Cant open echest, where are the crates.
+[07.05.2016 12:39:09] ImVexy: vote is here
+[07.05.2016 12:39:11] GenerikDuck: Also it says vextronpvp when u give me a key.
+[07.05.2016 12:39:19] ImVexy: Oops Ill fix that :P
+[07.05.2016 12:39:22] GenerikDuck: LOL
+[07.05.2016 12:39:43] GenerikDuck: Cant do /help.
+[07.05.2016 12:39:49] GenerikDuck: Also cant do /rules.
+[07.05.2016 12:39:52] GenerikDuck: Can't.
+[07.05.2016 12:44:26] AslhaxDev: gg
+[07.05.2016 12:50:24] GenerikDuck: Still working on it :P.
+[07.05.2016 12:50:27] idkaname2use: nice
+[07.05.2016 12:50:31] GenerikDuck: Like the ranks.
+[07.05.2016 12:50:33] idkaname2use: Goto my website.
+[07.05.2016 12:50:35] GenerikDuck: oops
+[07.05.2016 12:50:40] GenerikDuck: Skype chat it.
+[07.05.2016 12:50:48] idkaname2use: Its not done yet.
+[07.05.2016 12:50:50] idkaname2use: But its pretty nice.
+[07.05.2016 12:50:59] idkaname2use: What tab plugin does he use?
+[07.05.2016 12:51:14] idkaname2use: His featherboard looks just like mine.
+[07.05.2016 12:51:14] GenerikDuck: idk
+[07.05.2016 12:51:22] GenerikDuck: Till i get a rank but.
+[07.05.2016 12:51:28] GenerikDuck: He might not want me to tell.
+[07.05.2016 12:51:37] idkaname2use: Alright i gotta go for now.
+[07.05.2016 12:51:38] GenerikDuck: Nice website hmu.
+[07.05.2016 12:51:40] idkaname2use: I like the LAG thing to.
+[07.05.2016 12:51:42] GenerikDuck: With that guys skype.
+[07.05.2016 12:51:47] idkaname2use: Whos?
+[07.05.2016 12:51:51] GenerikDuck: Ur website dev lol.
+[07.05.2016 12:51:54] idkaname2use: lol
+[07.05.2016 12:51:59] idkaname2use: He is currently really busy.
+[07.05.2016 12:52:03] idkaname2use: Ive been having trouble.
+[07.05.2016 12:52:07] idkaname2use: Getting him to finish my forums.
+[07.05.2016 12:52:27] GenerikDuck: The backround is meh.
+[07.05.2016 12:52:29] idkaname2use: Alright i gtg for now.
+[07.05.2016 12:52:31] idkaname2use: U can change it xD.
+[07.05.2016 14:41:56] GenerikDuck: Hey
+[07.05.2016 14:42:01] ImVexy: Hey
+[07.05.2016 14:42:42] GenerikDuck: You doing perms.
+[07.05.2016 14:44:28] ImVexy: Ye
+[07.05.2016 14:44:39] ImVexy: I am getting my mom a tow truck since she broke down
+[07.05.2016 14:44:51] GenerikDuck: what
+[07.05.2016 14:45:45] ImVexy: She broke down right and her data isn't working so here I am
+[07.05.2016 14:45:52] ImVexy: calling tow truck
+[07.05.2016 14:45:55] ImVexy: a *
+[07.05.2016 14:46:04] GenerikDuck: damn
+[07.05.2016 14:46:10] Shoving: Do /kit.
+[07.05.2016 14:46:22] GenerikDuck: I can do it but cant click the kits.
+[07.05.2016 14:46:26] GenerikDuck: Also in /warp.
+[07.05.2016 14:46:27] GenerikDuck: Same thing.
+[07.05.2016 14:46:35] ImVexy: Can you use the member kit?
+[07.05.2016 14:46:39] GenerikDuck: nope
+[07.05.2016 14:47:57] Shoving: Can you do /ekit member?
+[07.05.2016 14:48:03] Shoving: hmm
+[07.05.2016 14:48:05] GenerikDuck: Gffdf.
+[07.05.2016 14:48:11] GenerikDuck: nope
+[07.05.2016 14:48:15] Shoving: I need to fix chatcontrol xD.
+[07.05.2016 14:48:21] GenerikDuck: ye
+[07.05.2016 14:48:37] GenerikDuck: It's *****ing annoying.
+[07.05.2016 14:50:56] Shoving: That is so weird.
+[07.05.2016 14:53:09] Shoving: Its so weird its not working.
+[07.05.2016 14:53:20] GenerikDuck: Is it chest commands.
+[07.05.2016 14:53:25] Shoving: Let me see.
+[07.05.2016 14:54:34] ImVexy: oops
+[07.05.2016 14:54:46] GenerikDuck: uh..
+[07.05.2016 14:54:47] GenerikDuck: ?
+[07.05.2016 14:55:16] GenerikDuck: essentials.kits.member
+[07.05.2016 14:55:25] Shoving: I added that.
+[07.05.2016 14:55:28] GenerikDuck: Add it again.
+[07.05.2016 14:55:39] Shoving: Fixed it.
+[07.05.2016 14:55:42] GenerikDuck: It might not work through ign chat u might have to open the file.
+[07.05.2016 14:55:55] GenerikDuck: No gui.
+[07.05.2016 14:56:03] ImVexy: I know I forgot to add essentials.kit
+[07.05.2016 14:56:04] ImVexy: :P
+[07.05.2016 14:56:08] GenerikDuck: Oh my.
+[07.05.2016 14:56:16] GenerikDuck: Now /warp doesnt work.
+[07.05.2016 14:56:40] ImVexy: I gtg do chores and stuff Ill finish perms tonight and then open on the date. Everything that is
+[07.05.2016 14:56:46] ImVexy: 100% needed is done
+[07.05.2016 14:56:54] GenerikDuck: ok
+[07.05.2016 14:56:55] ImVexy: besides perms :P
+[07.05.2016 14:57:23] GenerikDuck: hm
+[07.05.2016 22:05:24] GenerikDuck: g
+[08.05.2016 13:55:10] ImVexy: s
+[08.05.2016 14:08:14] PlayerVault: s]
+[08.05.2016 14:08:28] PlayerVault: hi
+[08.05.2016 14:13:55] ImVexy: s
+[08.05.2016 14:24:26] PlayerVault: s
+[08.05.2016 14:24:28] PlayerVault: *****
+[08.05.2016 14:24:33] PlayerVault: s
+[08.05.2016 14:28:44] PlayerVault: sjd
+[08.05.2016 16:59:57] ImVexy: s
+[08.05.2016 17:00:00] ImVexy: s
+[08.05.2016 17:59:21] GenerikDuck: Member enderchest pshshshshs dont be that server.
+[08.05.2016 17:59:24] GenerikDuck: xD
+[08.05.2016 17:59:30] ImVexy: xD
+[08.05.2016 18:00:11] GenerikDuck: yes
+[08.05.2016 18:00:12] ImVexy: I am building a build I am getting paid to make
+[08.05.2016 18:00:18] GenerikDuck: Let me see.
+[08.05.2016 18:00:37] GenerikDuck: hm
+[08.05.2016 18:00:47] ImVexy: Not even close to done yet
+[08.05.2016 18:00:54] GenerikDuck: How much i meant xD.
+[08.05.2016 18:01:18] ImVexy: Don't have a set price since I am waiting for a responce but I will prob charge $30
+[08.05.2016 18:01:31] GenerikDuck: k
+[08.05.2016 18:01:37] GenerikDuck: How old are you again.
+[08.05.2016 18:01:51] ImVexy: 15 response*
+[08.05.2016 18:04:17] ImVexy: Why do you ask?
+[08.05.2016 18:04:26] GenerikDuck: Just wondering.
+[08.05.2016 18:04:35] ImVexy: mk
+[08.05.2016 18:04:46] GenerikDuck: Why you wondering xD.
+[08.05.2016 18:04:50] ImVexy: Idk :P
+[08.05.2016 18:05:05] ImVexy: Anyhow I have to build some so I can pay hosting that I forgot about
+[08.05.2016 18:09:51] GenerikDuck: No permission^
+[08.05.2016 18:10:00] ImVexy: I know :P
+[08.05.2016 18:10:11] ImVexy: I need to fix it but I gotta make money for hosting first :P
+[08.05.2016 18:11:24] ImVexy: The owner of minepeak cussed me out earlier
+[08.05.2016 18:11:57] GenerikDuck: LOL
+[08.05.2016 18:11:59] GenerikDuck: Why
+[08.05.2016 18:12:05] ImVexy: I was dissing his server xD
+[08.05.2016 18:12:19] ImVexy: He owns reevemc a server I worked for a one point
+[08.05.2016 18:12:31] GenerikDuck: Hes making bank eh.
+[08.05.2016 18:12:46] ImVexy: He scammed Ozil
+[08.05.2016 18:12:56] ImVexy: $500 for MCRealms
+[08.05.2016 18:13:05] GenerikDuck: I havent talked to jordan for so long he always goes on and off of skype.
+[08.05.2016 18:13:08] GenerikDuck: Still got mieky.
+[08.05.2016 18:13:11] GenerikDuck: xd
+[08.05.2016 18:13:14] ImVexy: Im still blocked by both of them
+[08.05.2016 18:13:17] ImVexy: xD
+[08.05.2016 18:13:19] Shoving: lol i am op
+[08.05.2016 18:13:21] GenerikDuck: LOL
+[08.05.2016 18:13:36] GenerikDuck: Mieky unfriended me but jordan didnt block me.
+[08.05.2016 18:13:38] ImVexy: I got blocked and demoted for talking trash of their staff
+[08.05.2016 18:14:06] ImVexy: I honestly don't care anymore and I am still using the old MCRealms spawn xD
+[08.05.2016 18:14:13] GenerikDuck: I was admin for a day then long story short i trash talked on another server and got banned.
+[08.05.2016 18:14:30] GenerikDuck: Another server they were going to merge with.
+[08.05.2016 18:14:47] ImVexy: Well now MinePeak and ReeveMC merged
+[08.05.2016 18:14:50] Shoving: gamemode 1
+[08.05.2016 18:14:56] GenerikDuck: Is Shoving ur bro.
+[08.05.2016 18:14:59] ImVexy: Ye
+[08.05.2016 18:15:42] GenerikDuck: Remember that shop me and you made LOL.
+[08.05.2016 18:15:47] ImVexy: xD
+[08.05.2016 18:15:50] ImVexy: that was fun
+[08.05.2016 18:15:53] GenerikDuck: Memories.
+[08.05.2016 18:16:09] ImVexy: Honestly Ozil was a nice guy
+[08.05.2016 18:16:13] GenerikDuck: Funny.
+[08.05.2016 18:16:16] ImVexy: Miekly was the one who hated mee
+[08.05.2016 18:16:24] ImVexy: Me and ozil still talk on MCM sometimes
+[08.05.2016 18:17:03] GenerikDuck: Were u there when ozil was talking in skype with mieky and me in the hsowe.
+[08.05.2016 18:17:04] GenerikDuck: Shower.
+[08.05.2016 18:17:05] GenerikDuck: LOL
+[08.05.2016 18:17:11] ImVexy: Yes
+[08.05.2016 18:17:12] ImVexy: xD
+[08.05.2016 18:17:17] GenerikDuck: Greg
+[08.05.2016 18:17:20] GenerikDuck: Miekys cat.
+[08.05.2016 18:17:32] Shoving: oops
+[08.05.2016 18:17:37] Shoving: lol
+[08.05.2016 18:17:37] GenerikDuck: fag
+[08.05.2016 18:18:21] GenerikDuck: stop
+[08.05.2016 18:18:56] ImVexy: That shop was the only big thing I did for MCRealms now that I think of it
+[08.05.2016 18:19:15] GenerikDuck: I was there first staff member.
+[08.05.2016 18:19:26] ImVexy: oh and the warzone, shop, perms and more..
+[08.05.2016 18:19:28] ImVexy: xD
+[08.05.2016 18:19:37] GenerikDuck: I made it to Administrator.
+[08.05.2016 18:19:50] ImVexy: I got manager in a day
+[08.05.2016 18:20:01] GenerikDuck: Lol i hated u at first.
+[08.05.2016 18:20:06] GenerikDuck: Becuz u just passed me like dat.
+[08.05.2016 18:20:14] ImVexy: Tho me being able to say I was a manager on the server McRealms now ReeveMC (500+) players
+[08.05.2016 18:20:20] ImVexy: makes it look good on appications
+[08.05.2016 18:20:21] Shoving: lag
+[08.05.2016 18:20:30] GenerikDuck: Same here.
+[08.05.2016 18:20:37] GenerikDuck: I was administrator xD.
+[08.05.2016 18:20:39] GenerikDuck: LOL
+[08.05.2016 19:58:51] ImVexy: s
+[08.05.2016 19:58:53] ImVexy: s
+[08.05.2016 19:58:54] ImVexy: s
+[08.05.2016 19:58:58] ImVexy: s
+[08.05.2016 20:00:16] GenerikDuck: Nice join message and leave message.
+[08.05.2016 20:01:07] ImVexy: s
+[08.05.2016 20:01:30] GenerikDuck: Did ur router get unplugged or something before lkogged out at the same time xD.
+[08.05.2016 20:01:36] ImVexy: xD
+[08.05.2016 20:01:40] ImVexy: No internet went out
+[08.05.2016 20:01:54] ImVexy: I just got on
+[08.05.2016 20:03:12] GenerikDuck: Still doing perms ?
+[08.05.2016 20:03:24] GenerikDuck: Got donor ranks ?
+[08.05.2016 20:03:25] GenerikDuck: And kits.
+[08.05.2016 20:03:39] ImVexy: I finished the ones for member all I have to do is add the ones for the donator enderchests and
+[08.05.2016 20:03:40] ImVexy: that is it
+[08.05.2016 20:04:00] ImVexy: I might open the server monday/tuesday depends if I end of doing all the bullshit I have to do
+[08.05.2016 20:04:03] ImVexy: these next weeks
+[08.05.2016 20:20:05] GenerikDuck: *****
+[08.05.2016 20:21:23] GenerikDuck: I used fly hax.
+[08.05.2016 21:14:12] GenerikDuck: wb
+[08.05.2016 21:14:14] ImVexy: thx
+[08.05.2016 21:14:21] ImVexy: Ill brb again :P
+[08.05.2016 21:16:00] Shoving: do /head
+[08.05.2016 21:16:26] GenerikDuck: I'm not op xD.
+[08.05.2016 21:16:37] Shoving: oooo
+[08.05.2016 21:17:36] Shoving: a hat
+[08.05.2016 21:18:13] GenerikDuck: Shoving smack ur brother in the face for 20cents.
+[08.05.2016 21:18:46] Shoving: lol my brother is afk
+[08.05.2016 21:18:51] GenerikDuck: irl
+[08.05.2016 21:19:07] GenerikDuck: Walk up to him and smack him'
+[08.05.2016 21:19:15] Shoving: no
+[08.05.2016 21:19:18] GenerikDuck: LOL
+[08.05.2016 21:20:13] GenerikDuck: Heal me\
+[08.05.2016 21:20:19] Shoving: ok
+[08.05.2016 21:20:34] GenerikDuck: ./heal GenerikDuck.
+[08.05.2016 21:20:55] GenerikDuck: ty
+[08.05.2016 21:21:59] GenerikDuck: Mohawk.
+[08.05.2016 21:23:17] GenerikDuck: mean
+[08.05.2016 21:25:36] GenerikDuck: LOL
+[08.05.2016 21:33:31] Shoving: OOPS
+[08.05.2016 21:36:08] ImVexy: My little brother is trying to rekt you
+[08.05.2016 21:43:10] GenerikDuck: Whos on.
+[08.05.2016 21:47:02] Shoving: oo hi
+[08.05.2016 21:54:29] GenerikDuck: LOL
+[08.05.2016 21:54:51] GenerikDuck: That kids mad becuz his post got delleted and he thought it was becuz of me.
+[08.05.2016 21:55:17] ImVexy: xD
+[08.05.2016 21:55:43] GenerikDuck: Shoving ples dun kill me.
+[08.05.2016 21:55:49] Shoving: ok
+[08.05.2016 21:56:21] ImVexy: Im getting someone to do perms for me as a vouch copy xD
+[08.05.2016 21:56:36] GenerikDuck: wut
+[08.05.2016 21:56:40] ImVexy: #ThugLifwe
+[08.05.2016 21:56:44] ImVexy: #ThugLife*
+[08.05.2016 21:56:44] GenerikDuck: lazy
+[08.05.2016 21:56:49] ImVexy: So true
+[08.05.2016 21:56:58] ImVexy: But REP IS POWER
+[08.05.2016 21:58:14] GenerikDuck: Xhostfire gives u that discount for that little area.
+[08.05.2016 21:58:38] GenerikDuck: Shoving.
+[08.05.2016 21:58:43] GenerikDuck: Stop -.-
+[08.05.2016 21:58:43] Shoving: yes
+[08.05.2016 21:58:50] Shoving: ok
+[08.05.2016 21:59:25] GenerikDuck: ./ban Shoving.
+[08.05.2016 21:59:41] ImVexy: People sell the most shitty servers on MCM
+[08.05.2016 21:59:46] GenerikDuck: LOL
+[08.05.2016 21:59:46] ImVexy: and they sell for HUGE amounts..
+[08.05.2016 21:59:52] GenerikDuck: Im going see.
+[08.05.2016 21:59:53] GenerikDuck: Go see.
+[08.05.2016 21:59:55] GenerikDuck: Is it new.
+[08.05.2016 22:00:02] ImVexy: http://www.mc-market.org/threads/100360/#post-1137471
+[08.05.2016 22:00:04] ImVexy: This shit
+[08.05.2016 22:00:10] ImVexy: is just a example of MCM
+[08.05.2016 22:00:30] GenerikDuck: LOL
+[08.05.2016 22:00:37] GenerikDuck: The builds.
+[08.05.2016 22:00:40] GenerikDuck: LOL
+[08.05.2016 22:00:41] ImVexy: xD yea
+[08.05.2016 22:00:47] ImVexy: Not just the builds
+[08.05.2016 22:00:48] GenerikDuck: The pvp area.
+[08.05.2016 22:01:04] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:05] GenerikDuck: LOL the owner prefix.
+[08.05.2016 22:01:12] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:12] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:13] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:13] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:14] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:14] ImVexy: Full &e&lUNKNOWN COMMAND PLEASE PRESS HELP
+[08.05.2016 22:01:18] ImVexy: fuck me
+[08.05.2016 22:01:19] GenerikDuck: [.Owner.]
+[08.05.2016 22:01:20] GenerikDuck: Wtf is that.
+[08.05.2016 22:01:30] ImVexy: brah its the best prefix evr
+[08.05.2016 22:02:02] GenerikDuck: Please type /spawn and look at the holo.
+[08.05.2016 22:02:50] ImVexy: Poor duck
+[08.05.2016 22:03:11] GenerikDuck: Too good 4 u.
+[08.05.2016 22:03:40] GenerikDuck: Too good 4 u still.
+[08.05.2016 22:04:15] GenerikDuck: HAHA
+[08.05.2016 22:04:36] GenerikDuck: Ima go buy minespark.
+[08.05.2016 22:04:54] GenerikDuck: HAHA
+[08.05.2016 22:05:21] Shoving: TP LOL
+[08.05.2016 22:06:36] Shoving: 3W
+[08.05.2016 22:07:39] GenerikDuck: Is ee u.
+[08.05.2016 22:08:17] GenerikDuck: LOL
+[08.05.2016 22:08:27] Shoving: YOU R DIE
+[08.05.2016 22:08:41] Shoving: RIP YOU
+[08.05.2016 22:08:50] Shoving: I AM A CO OWNER
+[08.05.2016 22:09:52] GenerikDuck: Omg
+[08.05.2016 22:09:57] GenerikDuck: People are *****ed on mcm.
+[08.05.2016 22:10:06] Shoving: SPEED 10
+[08.05.2016 22:10:54] ImVexy: back
+[08.05.2016 22:11:03] GenerikDuck: Kids on mcm smh.
+[08.05.2016 22:11:05] ImVexy: xD
+[08.05.2016 22:11:06] ImVexy: ikr
+[08.05.2016 22:11:15] GenerikDuck: "what do you mean"
+[08.05.2016 22:11:24] ImVexy: What is the funniest thing ever is to add people on skype and then troll them
+[08.05.2016 22:11:51] GenerikDuck: LOL
+[08.05.2016 22:11:53] ImVexy: Once this guy finishes configs and if I don't have bullshit to do we can open
+[08.05.2016 22:11:53] GenerikDuck: LOOK AT MY POST.
+[08.05.2016 22:11:54] GenerikDuck: LMAO
+[08.05.2016 22:13:56] GenerikDuck: Is the guy doing it now ? @imvexy.
+[08.05.2016 22:17:46] Shoving: lag
+[08.05.2016 22:18:55] GenerikDuck: ez
+[08.05.2016 22:20:02] Shoving: help
+[08.05.2016 22:20:05] GenerikDuck: ?
+[09.05.2016 11:57:06] ImVexy: s
+[09.05.2016 11:57:08] ImVexy: s
+[09.05.2016 11:57:27] ImVexy: s
+[09.05.2016 12:17:36] ImVexy: s
+[09.05.2016 12:17:37] ImVexy: s
+[09.05.2016 17:09:29] GenerikDuck: g
+[09.05.2016 17:28:45] ImVexy: Hey
+[09.05.2016 17:28:47] GenerikDuck: hey
+[09.05.2016 17:28:53] ImVexy: Whats up?
+[09.05.2016 17:29:02] GenerikDuck: Meh nm u.
+[09.05.2016 17:29:28] ImVexy: talk
+[09.05.2016 17:29:34] GenerikDuck: k
+[09.05.2016 17:29:35] ImVexy: ok
+[09.05.2016 17:29:44] ImVexy: Are you good with mod/head mod?
+[09.05.2016 17:29:46] GenerikDuck: Minepeak.
+[09.05.2016 17:29:48] GenerikDuck: xD
+[09.05.2016 17:29:51] ImVexy: tru
+[09.05.2016 17:30:04] ImVexy: Ill just get sammie to record
+[09.05.2016 17:30:06] ImVexy: no probs
+[09.05.2016 17:30:11] GenerikDuck: LOL
+[09.05.2016 17:30:25] ImVexy: I love sammie #CrushedHeart
+[09.05.2016 17:32:34] GenerikDuck: Internet laggy af they doing work i think.
+[09.05.2016 17:36:22] ImVexy: Do the portals work?
+[09.05.2016 17:36:50] GenerikDuck: ye
+[09.05.2016 17:36:57] ImVexy: ok
+[09.05.2016 17:37:15] ImVexy: My dog is licking my foot
+[09.05.2016 17:37:20] ImVexy: ..
+[09.05.2016 17:37:22] GenerikDuck: Intreresting.
+[09.05.2016 17:37:25] ImVexy: Very
+[09.05.2016 17:37:31] GenerikDuck: Dat spelling.
+[09.05.2016 17:37:37] ImVexy: ^
+[09.05.2016 17:37:47] ImVexy: I need to test something
+[09.05.2016 17:38:00] ImVexy: Alright it works
+[09.05.2016 17:38:57] ImVexy: btw do the enderchests work for you?
+[09.05.2016 17:39:04] GenerikDuck: yes
+[09.05.2016 17:39:07] ImVexy: Alright good
+[09.05.2016 17:39:18] GenerikDuck: Perms not done.
+[09.05.2016 17:39:19] GenerikDuck: eh
+[09.05.2016 17:39:24] ImVexy: They are pretty much
+[09.05.2016 17:39:28] GenerikDuck: I cant kick.
+[09.05.2016 17:39:36] ImVexy: oh I just need to add yours to you
+[09.05.2016 17:39:38] ImVexy: one sec
+[09.05.2016 17:40:35] ImVexy: Alright all your perms should be added
+[09.05.2016 17:40:42] GenerikDuck: k
+[09.05.2016 17:41:01] ImVexy: I'm gonna go get a NPC plugin
+[09.05.2016 17:41:10] GenerikDuck: For like bets ?
+[09.05.2016 17:41:40] ImVexy: For like the enchant npc
+[09.05.2016 17:41:48] GenerikDuck: Ohh
+[09.05.2016 17:41:55] ImVexy: Yea and the auctions
+[09.05.2016 17:42:25] ImVexy: I need to setup MYSQL
+[09.05.2016 17:42:40] ImVexy: Or well I guess add things to it
+[09.05.2016 17:42:45] ImVexy: most of it is finished
+[09.05.2016 17:43:37] ImVexy: Time to go get AuctionHouse off LeakForums
+[09.05.2016 17:43:43] ImVexy: lolz
+[09.05.2016 17:43:43] GenerikDuck: LOL
+[09.05.2016 17:43:59] ImVexy: Half of these plugins are from LeakForums * :P *
+[09.05.2016 17:44:04] ImVexy: jk
+[09.05.2016 17:44:08] ImVexy: but a few are
+[09.05.2016 17:44:16] GenerikDuck: Screenshoteed gg no rep on mcmarket naymore.
+[09.05.2016 17:44:35] ImVexy: Half of the high rep people on MCM use hackforums and LeakForums
+[09.05.2016 17:44:43] ImVexy: I won't sell leaked plugins..
+[09.05.2016 17:44:47] ImVexy: I only use :P
+[09.05.2016 17:44:53] ImVexy: till I can afford to buyt
+[09.05.2016 17:44:54] GenerikDuck: I was jokin.
+[09.05.2016 17:45:01] ImVexy: fuck you
+[09.05.2016 17:45:03] ImVexy: boi
+[09.05.2016 17:45:13] GenerikDuck: Racist.
+[09.05.2016 17:45:18] ImVexy: nigger
+[09.05.2016 17:45:22] ImVexy: #SmokeWeed
+[09.05.2016 17:45:22] GenerikDuck: '
+[09.05.2016 17:45:25] GenerikDuck: :O
+[09.05.2016 17:45:29] GenerikDuck: Crack.
+[09.05.2016 17:45:30] ImVexy: :D
+[09.05.2016 17:46:48] ImVexy: I have over 2 years of rep on LeakForums xD
+[09.05.2016 17:46:51] ImVexy: rip
+[09.05.2016 17:47:01] GenerikDuck: Haha ratted prob.
+[09.05.2016 17:47:05] ImVexy: ^
+[09.05.2016 17:48:34] ImVexy: rip
+[09.05.2016 17:48:47] GenerikDuck: nope
+[09.05.2016 17:48:49] GenerikDuck: Survived.
+[09.05.2016 17:49:31] ImVexy: How to get mysql going
+[09.05.2016 17:49:49] GenerikDuck: Ask mieky LOL.
+[09.05.2016 17:51:26] ImVexy: NOPE
+[09.05.2016 17:52:13] GenerikDuck: N000PL;E.
+[09.05.2016 17:54:32] ImVexy: reload
+[09.05.2016 17:54:33] ImVexy: :P
+[09.05.2016 17:55:16] GenerikDuck: rip
+[09.05.2016 17:55:20] ImVexy: nope
+[09.05.2016 17:55:35] GenerikDuck: You get 60% off for the little area on your signature.
+[09.05.2016 17:55:42] ImVexy: Yes
+[09.05.2016 17:55:46] GenerikDuck: Holy *****xD.
+[09.05.2016 17:55:57] ImVexy: :P
+[09.05.2016 17:56:11] GenerikDuck: No ones home blasting music on 7.1 sorround sound lmao i feel the air.
+[09.05.2016 17:56:36] ImVexy: reload
+[09.05.2016 17:57:15] ImVexy: Now for the perms
+[09.05.2016 17:57:52] ImVexy: do /ah
+[09.05.2016 17:57:56] GenerikDuck: Works.
+[09.05.2016 17:58:05] ImVexy: and to sell do /ah sell (amountofmoney)
+[09.05.2016 17:58:12] ImVexy: ez pz ah
+[09.05.2016 17:58:33] ImVexy: do /ah
+[09.05.2016 17:58:40] ImVexy: ez monay
+[09.05.2016 17:58:41] GenerikDuck: *****
+[09.05.2016 17:58:52] ImVexy: Hehe you can't swear :P
+[09.05.2016 17:58:56] ImVexy: Only I can fucker
+[09.05.2016 17:58:58] ImVexy: HAHA
+[09.05.2016 17:59:53] ImVexy: can you use /shop?
+[09.05.2016 17:59:58] GenerikDuck: yes
+[09.05.2016 18:00:05] ImVexy: can you sell/buy on it?
+[09.05.2016 18:00:12] GenerikDuck: It says no permission but opens /ah.
+[09.05.2016 18:00:18] ImVexy: ohh
+[09.05.2016 18:00:19] ImVexy: ok
+[09.05.2016 18:02:10] ImVexy: I think I might make a proper /warp shop
+[09.05.2016 18:02:33] ImVexy: The gui one sucks since you can't sell right and the eco on it isn't easy to customize like a proper
+[09.05.2016 18:02:35] ImVexy: one
+[09.05.2016 18:02:43] GenerikDuck: Ye do a real shop.
+[09.05.2016 18:02:45] ImVexy: Alright
+[09.05.2016 18:03:00] GenerikDuck: Real shops= less glitches / menoey glitches.
+[09.05.2016 18:03:04] ImVexy: I think I have some somewhere
+[09.05.2016 18:03:07] ImVexy: one*
+[09.05.2016 18:55:42] ImVexy: 35:15
+[09.05.2016 19:01:08] ImVexy: Hey
+[09.05.2016 19:01:16] ImVexy: you liek?
+[09.05.2016 19:01:22] GenerikDuck: This is shop.
+[09.05.2016 19:01:24] ImVexy: Yes.
+[09.05.2016 19:01:42] GenerikDuck: ye
+[09.05.2016 19:01:44] ImVexy: :)
+[09.05.2016 19:01:50] ImVexy: I got the signs I just gotta find them
+[09.05.2016 19:02:59] ImVexy: I think its big enough
+[09.05.2016 19:03:03] ImVexy: Hopefully
+[09.05.2016 19:03:13] ImVexy: if it isn't I can expand so its fine
+[09.05.2016 19:04:28] ImVexy: I gotta get the updated WorldEdit one sec
+[09.05.2016 19:04:34] GenerikDuck: No /tp fam.
+[09.05.2016 19:04:36] GenerikDuck: Fammm.
+[09.05.2016 19:04:40] ImVexy: Oh Ill fix that
+[09.05.2016 19:04:45] ImVexy: Groupmanager rolled back
+[09.05.2016 19:05:02] GenerikDuck: I was like before i had it now i have vanish but no tp uhmm.
+[09.05.2016 19:05:12] ImVexy: I readded the perms I remembed :P
+[09.05.2016 19:05:16] ImVexy: calm down
+[09.05.2016 19:05:17] ImVexy: :P
+[09.05.2016 19:05:25] ImVexy: der
+[09.05.2016 19:05:27] ImVexy: u
+[09.05.2016 19:05:28] GenerikDuck: I'm on my period.
+[09.05.2016 19:05:28] ImVexy: go
+[09.05.2016 19:05:29] ImVexy: bitch
+[09.05.2016 19:06:36] ImVexy: s
+[09.05.2016 19:06:40] ImVexy: s
+[09.05.2016 19:06:43] ImVexy: reloading
+[09.05.2016 19:06:44] GenerikDuck: OH *****
+[09.05.2016 19:06:46] GenerikDuck: oh
+[09.05.2016 19:07:35] ImVexy: I got this old shop on my desktop Im gonna load it up I feel like the seller scammed me for it
+[09.05.2016 19:07:38] ImVexy: but I dunno
+[09.05.2016 19:07:43] ImVexy: I can move the signs to here
+[09.05.2016 19:07:48] ImVexy: then change up prices
+[09.05.2016 19:09:02] GenerikDuck: LOL
+[09.05.2016 19:09:15] ImVexy: FUCK ME
+[09.05.2016 19:09:31] ImVexy: new idea
+[09.05.2016 19:09:41] ImVexy: YOu can set homes right?
+[09.05.2016 19:09:52] GenerikDuck: Yes not more than 1
+[09.05.2016 19:09:52] ImVexy: Wait one sec
+[09.05.2016 19:09:55] ImVexy: Maybe I can fix this
+[09.05.2016 19:11:56] GenerikDuck: "maybe"
+[09.05.2016 19:13:42] GenerikDuck: Abuse.
+[09.05.2016 19:13:50] ImVexy: YES
+[09.05.2016 19:13:54] ImVexy: I AM SENPAI
+[09.05.2016 19:14:10] ImVexy: OMG THEY DONT WORK
+[09.05.2016 19:14:13] ImVexy: SCREW MY LIFE
+[09.05.2016 19:14:26] ImVexy: oh
+[09.05.2016 19:14:37] GenerikDuck: There both buy.
+[09.05.2016 19:14:38] ImVexy: you have to edit the signs
+[09.05.2016 19:14:39] GenerikDuck: And wtf.
+[09.05.2016 19:14:56] GenerikDuck: Doesnt work.
+[09.05.2016 19:15:14] ImVexy: Alright Ill op you and what you have to do is shift click the sign to edit it and remove the &1
+[09.05.2016 19:15:17] ImVexy: & 1
+[09.05.2016 19:15:20] ImVexy: before the [buy
+[09.05.2016 19:15:27] ImVexy: Don't be bad
+[09.05.2016 19:15:35] GenerikDuck: I'm expecting compensation for this
+[09.05.2016 19:15:43] ImVexy: find head mod
+[09.05.2016 19:15:45] ImVexy: bitch
+[09.05.2016 19:15:48] ImVexy: fine*
+[09.05.2016 19:16:34] ImVexy: I love u <3
+[09.05.2016 19:16:44] ImVexy: slave
+[09.05.2016 19:16:54] GenerikDuck: the bottom is buy to wtf
+[09.05.2016 19:17:07] ImVexy: Yea, You will see once I get done
+[09.05.2016 19:17:09] ImVexy: :P
+[09.05.2016 19:18:51] ImVexy: Alright ill get the next set
+[09.05.2016 19:18:57] GenerikDuck: fucking zombie
+[09.05.2016 19:19:37] GenerikDuck: nice "claps"
+[09.05.2016 19:19:48] GenerikDuck: claps
+[09.05.2016 19:19:50] GenerikDuck: claps
+[09.05.2016 19:19:50] GenerikDuck: claps
+[09.05.2016 19:19:50] GenerikDuck: claps
+[09.05.2016 19:19:51] GenerikDuck: claps
+[09.05.2016 19:19:51] GenerikDuck: claps
+[09.05.2016 19:19:51] GenerikDuck: claps
+[09.05.2016 19:19:52] GenerikDuck: claps
+[09.05.2016 19:19:52] GenerikDuck: claps
+[09.05.2016 19:19:52] GenerikDuck: claps
+[09.05.2016 19:19:53] ImVexy: Fuck
+[09.05.2016 19:19:55] ImVexy: u
+[09.05.2016 19:20:01] GenerikDuck: wtf u did it wrong
+[09.05.2016 19:20:01] ImVexy: wait
+[09.05.2016 19:20:02] GenerikDuck: more right
+[09.05.2016 19:20:07] ImVexy: wait
+[09.05.2016 19:20:22] GenerikDuck: haha dumbass
+[09.05.2016 19:20:23] ImVexy: Der
+[09.05.2016 19:20:41] GenerikDuck: FUCK
+[09.05.2016 19:21:29] GenerikDuck: FUCKL
+[09.05.2016 19:21:30] GenerikDuck: WTDF
+[09.05.2016 19:21:31] GenerikDuck: SDUFSDIHJFSIDH
+[09.05.2016 19:21:35] ImVexy: YOU FNUB
+[09.05.2016 19:21:37] ImVexy: ssj
+[09.05.2016 19:21:41] GenerikDuck: WHEN I CLICK EXIT IT CLICKS AGAIN AND BREAKS THE SIGN
+[09.05.2016 19:22:31] GenerikDuck: WTF
+[09.05.2016 19:22:32] ImVexy: ..
+[09.05.2016 19:22:33] GenerikDuck: ITS STUPID
+[09.05.2016 19:22:43] ImVexy: What twas the price?
+[09.05.2016 19:22:46] GenerikDuck: IDK
+[09.05.2016 19:22:48] GenerikDuck: idk
+[09.05.2016 19:23:04] ImVexy: 480
+[09.05.2016 19:23:05] GenerikDuck: when i click exit it breaks it
+[09.05.2016 19:23:11] ImVexy: #math
+[09.05.2016 19:23:17] GenerikDuck: more math over here
+[09.05.2016 19:25:03] GenerikDuck: LOL
+[09.05.2016 19:25:04] GenerikDuck: CLAPS
+[09.05.2016 19:25:14] GenerikDuck: trash
+[09.05.2016 19:25:24] GenerikDuck: uhm
+[09.05.2016 19:25:37] GenerikDuck: is it good
+[09.05.2016 19:26:21] ImVexy: nice
+[09.05.2016 19:26:27] GenerikDuck: shut up nigger
+[09.05.2016 19:27:20] GenerikDuck: your groupes are really not done eh ?
+[09.05.2016 19:27:30] ImVexy: What do you mean?
+[09.05.2016 19:27:36] GenerikDuck: ./list
+[09.05.2016 19:27:42] ImVexy: LOL
+[09.05.2016 19:27:50] ImVexy: Nope that is just who is online
+[09.05.2016 19:27:55] ImVexy: cuz essentials is shit
+[09.05.2016 19:28:32] ImVexy: do /listgroups
+[09.05.2016 19:28:45] GenerikDuck: gol ? wtfd
+[09.05.2016 19:28:51] ImVexy: lolz
+[09.05.2016 19:29:36] GenerikDuck: "claps"
+[09.05.2016 19:29:36] GenerikDuck: "claps"
+[09.05.2016 19:29:37] GenerikDuck: "claps"
+[09.05.2016 19:29:37] GenerikDuck: "claps"
+[09.05.2016 19:29:37] GenerikDuck: "claps"
+[09.05.2016 19:29:37] GenerikDuck: "claps"
+[09.05.2016 19:29:38] GenerikDuck: "claps"
+[09.05.2016 19:29:39] GenerikDuck: "claps"
+[09.05.2016 19:29:39] GenerikDuck: "claps"
+[09.05.2016 19:29:39] GenerikDuck: "claps"
+[09.05.2016 19:29:40] GenerikDuck: "claps"
+[09.05.2016 19:29:40] GenerikDuck: "claps"
+[09.05.2016 19:29:40] GenerikDuck: "claps"
+[09.05.2016 19:29:40] GenerikDuck: "claps"
+[09.05.2016 19:29:51] GenerikDuck: "says good job"
+[09.05.2016 19:30:49] GenerikDuck: ez
+[09.05.2016 19:30:53] GenerikDuck: waist of time
+[09.05.2016 19:30:54] GenerikDuck: ezzz
+[09.05.2016 19:30:58] GenerikDuck: to op 4 u
+[09.05.2016 19:31:10] ImVexy: Add anything else you think is needed
+[09.05.2016 19:31:15] ImVexy: Im gonna work on the selling
+[09.05.2016 19:31:19] GenerikDuck: dragon kit is needed
+[09.05.2016 19:31:34] ImVexy: im talking about the shop nub
+[09.05.2016 19:32:09] GenerikDuck: nothing really
+[09.05.2016 19:32:18] GenerikDuck: potiuon ingrediants
+[09.05.2016 19:32:20] GenerikDuck: potion
+[09.05.2016 19:32:32] GenerikDuck: wtf is this
+[09.05.2016 19:32:39] ImVexy: Wait
+[09.05.2016 19:32:45] ImVexy: We already have this
+[09.05.2016 19:32:46] ImVexy: xD
+[09.05.2016 19:35:17] ImVexy: Nice auto shift xD
+[09.05.2016 19:35:26] GenerikDuck: yes toggle sneak sprint mod
+[09.05.2016 19:35:33] ImVexy: haxor
+[09.05.2016 19:35:35] GenerikDuck: im eating now il be semi afk
+[09.05.2016 19:35:36] ImVexy: ban
+[09.05.2016 19:35:38] ImVexy: k
+[09.05.2016 19:35:54] ImVexy: Im just gonna finish the server tonight and open ;p
+[09.05.2016 19:35:59] GenerikDuck: k
+[09.05.2016 19:36:03] GenerikDuck: with my higher rank
+[09.05.2016 19:36:03] ImVexy: Just whatever if it fails we just whitelist and keep working
+[09.05.2016 19:36:37] GenerikDuck: no dedi ip
+[09.05.2016 19:36:47] ImVexy: Oh I just need to change it
+[09.05.2016 19:43:30] ImVexy: NO
+[09.05.2016 19:43:32] ImVexy: I AM STUPID
+[09.05.2016 19:43:40] GenerikDuck: ?
+[09.05.2016 19:43:48] ImVexy: I deleted the iron sign
+[09.05.2016 19:43:52] GenerikDuck: Ez skid
+[09.05.2016 19:48:15] ImVexy: Haven't set that /sell yet :P
+[09.05.2016 19:48:19] GenerikDuck: mobs walking on top LOL
+[09.05.2016 19:48:23] ImVexy: xD
+[09.05.2016 19:48:44] ImVexy: Needs light
+[09.05.2016 19:49:18] ImVexy: Done now to do /sell
+[09.05.2016 19:49:27] ImVexy: Should I do a selling gui or command?
+[09.05.2016 19:49:36] GenerikDuck: idk
+[09.05.2016 19:49:42] ImVexy: I myself like command
+[09.05.2016 19:50:08] ImVexy: Well maybe
+[09.05.2016 19:51:42] ImVexy: hey
+[09.05.2016 19:51:46] ImVexy: :P
+[09.05.2016 19:51:52] ImVexy: how I can't tp to you
+[09.05.2016 19:51:53] ImVexy: xD
+[09.05.2016 19:52:18] ImVexy: Alright
+[09.05.2016 19:52:57] ImVexy: my little bro is coming
+[09.05.2016 19:52:58] ImVexy: xD
+[09.05.2016 19:54:55] ImVexy: Now we just gotta change these
+[09.05.2016 19:54:58] ImVexy: and we are done
+[09.05.2016 19:54:59] GenerikDuck: no /sell whats this junk
+[09.05.2016 19:55:04] ImVexy: Sell signws
+[09.05.2016 19:55:06] ImVexy: Sell signs
+[09.05.2016 19:55:06] GenerikDuck: ew
+[09.05.2016 19:55:10] ImVexy: I might still add /sell
+[09.05.2016 19:55:14] ImVexy: If I get a chance
+[09.05.2016 19:55:25] GenerikDuck: Shoving help us
+[09.05.2016 19:55:28] ImVexy: But there are going to be those noobs who can't use commands
+[09.05.2016 19:55:29] Shoving: ok
+[09.05.2016 19:57:31] GenerikDuck: ezzzz
+[09.05.2016 19:57:34] ImVexy: ye
+[09.05.2016 19:57:37] Shoving: ezzzz
+[09.05.2016 20:00:23] Shoving: ezzz
+[09.05.2016 20:00:27] ImVexy: Shop looks good
+[09.05.2016 20:00:40] ImVexy: Im gonna do the regions
+[09.05.2016 20:02:28] ImVexy: Shop is 100% done
+[09.05.2016 20:02:39] ImVexy: ill brb
+[09.05.2016 20:02:53] Shoving: d
+[09.05.2016 20:02:56] GenerikDuck: d
+[09.05.2016 20:05:54] GenerikDuck: wb fe*
+[09.05.2016 20:06:04] ImVexy: k
+[09.05.2016 20:06:06] GenerikDuck: ;)
+[09.05.2016 20:07:36] ImVexy: chat both of you
+[09.05.2016 20:07:41] GenerikDuck: g
+[09.05.2016 20:07:42] Shoving: e
+[09.05.2016 20:07:46] ImVexy: rip
+[09.05.2016 20:07:48] ImVexy: on sec
+[09.05.2016 20:07:52] GenerikDuck: r.i.p
+[09.05.2016 20:07:58] ImVexy: reload
+[09.05.2016 20:08:10] Shoving: e
+[09.05.2016 20:08:14] GenerikDuck: that command is not supported
+[09.05.2016 20:08:17] Shoving: e
+[09.05.2016 20:08:21] GenerikDuck: xD
+[09.05.2016 20:08:25] ImVexy: Hmm prefixes don't like to updat
+[09.05.2016 20:08:26] ImVexy: Hmm prefixes don't like to update*
+[09.05.2016 20:08:45] ImVexy: now try
+[09.05.2016 20:08:46] Shoving: rr
+[09.05.2016 20:08:48] GenerikDuck: ima go take a shower 5m
+[09.05.2016 20:08:53] ImVexy: ok
+[09.05.2016 20:09:07] GenerikDuck: mcrealms all over again
+[09.05.2016 20:09:08] GenerikDuck: LOL
+[09.05.2016 20:09:20] ImVexy: Want to shit talk my server?
+[09.05.2016 20:09:21] ImVexy: ban
+[09.05.2016 20:09:23] ImVexy: coming
+[09.05.2016 20:09:25] ImVexy: xD
+[09.05.2016 20:10:00] Shoving: e
+[09.05.2016 20:10:14] Shoving: e
+[09.05.2016 20:10:22] Shoving: yay
+[09.05.2016 20:10:33] ImVexy: ducky
+[09.05.2016 20:10:38] ImVexy: ill leave you oped for now
+[09.05.2016 20:10:44] ImVexy: don't ruin my server bitch
+[09.05.2016 20:17:33] GenerikDuck: back
+[09.05.2016 20:18:36] Shoving: help
+[09.05.2016 20:18:41] GenerikDuck: ?
+[09.05.2016 20:20:13] ImVexy: reloading
+[09.05.2016 20:20:25] GenerikDuck: why ud o thid
+[09.05.2016 20:20:33] GenerikDuck: omg my typing
+[09.05.2016 20:20:35] ImVexy: xD
+[09.05.2016 20:20:39] ImVexy: Stroke much?
+[09.05.2016 20:20:56] ImVexy: do /spawners
+[09.05.2016 20:20:58] GenerikDuck: lol /rules
+[09.05.2016 20:21:13] ImVexy: spawner shop is sexy af
+[09.05.2016 20:21:59] GenerikDuck: wheres that
+[09.05.2016 20:22:08] ImVexy: My brother is making a duel arena for fun :D
+[09.05.2016 20:23:25] GenerikDuck: wb fam
+[09.05.2016 20:23:27] ImVexy: Just a few more things
+[09.05.2016 20:23:37] ImVexy: before I can start adding fun things
+[09.05.2016 20:23:56] ImVexy: Im just gonna do perms
+[09.05.2016 20:23:59] ImVexy: I will hate it
+[09.05.2016 20:24:02] ImVexy: but whatever
+[09.05.2016 20:24:10] ImVexy: so Ill be back in like 10mins once I finish :P
+[09.05.2016 20:24:11] GenerikDuck: omg when i turn fast math off i get ay better fps
+[09.05.2016 20:24:33] GenerikDuck: like 700 fps
+[09.05.2016 20:24:34] GenerikDuck: LOL
+[09.05.2016 20:24:42] GenerikDuck: brb
+[09.05.2016 20:29:06] ImVexy: xD
+[09.05.2016 20:29:08] ImVexy: LOL
+[09.05.2016 20:29:18] ImVexy: nice balance
+[09.05.2016 20:29:31] ImVexy: Its alot like Sammies "Legit" balance
+[09.05.2016 20:29:35] GenerikDuck: Ik 0$
+[09.05.2016 20:29:52] ImVexy: Reloading
+[09.05.2016 20:29:54] ImVexy: for reasons
+[09.05.2016 20:29:57] ImVexy: xD
+[09.05.2016 20:42:44] ImVexy: Alright
+[09.05.2016 20:42:47] ImVexy: perms are about done
+[09.05.2016 20:42:48] GenerikDuck: alright
+[09.05.2016 20:42:56] ImVexy: Just a few more things to add to fix them up
+[09.05.2016 20:43:10] ImVexy: Including herit then I will have you test them :D
+[09.05.2016 20:44:56] GenerikDuck: yea..
+[09.05.2016 20:44:58] GenerikDuck: yeah..
+[09.05.2016 20:45:29] ImVexy: now to fix dragon kit
+[09.05.2016 20:46:15] GenerikDuck: fg
+[09.05.2016 20:46:18] ImVexy: Now
+[09.05.2016 20:46:21] ImVexy: try commands
+[09.05.2016 20:46:27] GenerikDuck: Cant do /kit.
+[09.05.2016 20:46:38] ImVexy: oh forgot to reload
+[09.05.2016 20:46:41] ImVexy: one
+[09.05.2016 20:46:42] ImVexy: sec
+[09.05.2016 20:46:49] ImVexy: alright now
+[09.05.2016 20:47:07] GenerikDuck: Nope no chestcommands.open.kit.yml permission.
+[09.05.2016 20:47:14] ImVexy: can you do /warp
+[09.05.2016 20:47:21] ImVexy: and /kit member ?
+[09.05.2016 20:47:29] GenerikDuck: Nope /warp.
+[09.05.2016 20:47:30] GenerikDuck: No /warp.
+[09.05.2016 20:47:36] GenerikDuck: No /kit member.
+[09.05.2016 20:47:43] ImVexy: hmm alright let me look at it
+[09.05.2016 20:49:29] PlayerVault: Alright so no join message.
+[09.05.2016 20:49:32] PlayerVault: hmm
+[09.05.2016 20:49:45] PlayerVault: .
+[09.05.2016 20:50:18] PlayerVault: s
+[09.05.2016 20:50:24] GenerikDuck: g
+[09.05.2016 20:52:37] PlayerVault: Wow
+[09.05.2016 20:52:39] PlayerVault: Your kidding.
+[09.05.2016 20:52:45] PlayerVault: I *****ing hate prems.
+[09.05.2016 20:52:45] GenerikDuck: ?
+[09.05.2016 20:52:51] PlayerVault: Perms*
+[09.05.2016 20:53:08] PlayerVault: Well you can't make Essentials.back it has to be essentials.back
+[09.05.2016 20:53:10] PlayerVault: *****me.
+[09.05.2016 20:53:23] PlayerVault: So ill be back.
+[09.05.2016 20:54:46] ImVexy: s
+[09.05.2016 20:54:53] PlayerVault: s
+[09.05.2016 20:55:04] PlayerVault: j
+[09.05.2016 20:55:22] PlayerVault: It still didn't work??
+[09.05.2016 20:55:26] GenerikDuck: ?
+[09.05.2016 20:57:19] GenerikDuck: LO
+[09.05.2016 20:58:09] PlayerVault: OMG YES.
+[09.05.2016 20:58:12] GenerikDuck: heh
+[09.05.2016 20:58:13] PlayerVault: *****
+[09.05.2016 20:58:16] GenerikDuck: LOL
+[09.05.2016 20:58:21] PlayerVault: Well most of the perms work.
+[09.05.2016 20:59:37] GenerikDuck: u just come on with these og names lmao
+[09.05.2016 20:59:45] PlayerVault: xD
+[09.05.2016 20:59:49] GenerikDuck: shoving
+[09.05.2016 20:59:51] GenerikDuck: playervault
+[09.05.2016 20:59:53] GenerikDuck: like wtf
+[09.05.2016 20:59:55] PlayerVault: :P
+[09.05.2016 21:00:08] PlayerVault: I had Windows.
+[09.05.2016 21:00:11] PlayerVault: And WindowOs.
+[09.05.2016 21:00:15] PlayerVault: Till I sold both.
+[09.05.2016 21:00:18] GenerikDuck: hm
+[09.05.2016 21:00:48] GenerikDuck: my friend had Bag
+[09.05.2016 21:02:48] PlayerVault: Alright warps work now.
+[09.05.2016 21:02:55] GenerikDuck: AMAZING
+[09.05.2016 21:02:56] GenerikDuck: .
+[09.05.2016 21:02:57] PlayerVault: Everything is so close.
+[09.05.2016 21:03:06] PlayerVault: *****I can't use signs.
+[09.05.2016 21:03:08] PlayerVault: Kill me.
+[09.05.2016 21:03:17] GenerikDuck: ik default cant use buy signs either
+[09.05.2016 21:03:44] PlayerVault: Fixed.
+[09.05.2016 21:03:49] GenerikDuck: 0g
+[09.05.2016 21:03:56] PlayerVault: What else.
+[09.05.2016 21:03:58] PlayerVault: Needs fixed?
+[09.05.2016 21:04:17] GenerikDuck: this ugly ass spaawn
+[09.05.2016 21:04:19] GenerikDuck: jkk
+[09.05.2016 21:04:21] GenerikDuck: :)
+[09.05.2016 21:04:27] ImVexy: ./ban GenerikDuck
+[09.05.2016 21:04:31] GenerikDuck: :(
+[09.05.2016 21:04:36] ImVexy: i wuv u
+[09.05.2016 21:04:41] ImVexy: don worry
+[09.05.2016 21:04:52] GenerikDuck: I wont don
+[09.05.2016 21:05:01] GenerikDuck: DONA
+[09.05.2016 21:05:02] ImVexy: I gotta go pee then I am going to do the shop
+[09.05.2016 21:05:09] GenerikDuck: explicit
+[09.05.2016 21:05:11] ImVexy: ./buy *
+[09.05.2016 21:05:13] GenerikDuck: info
+[09.05.2016 21:05:15] ImVexy: will work soon
+[09.05.2016 21:05:30] GenerikDuck: im clicking 2000 cps for sure
+[09.05.2016 21:06:51] PlayerVault: Hmm what else.
+[09.05.2016 21:07:06] PlayerVault: I feel like I am forgetting perms.
+[09.05.2016 21:07:08] PlayerVault: I dunno.
+[09.05.2016 21:07:11] GenerikDuck: ItsMangos
+[09.05.2016 21:07:16] PlayerVault: LOL
+[09.05.2016 21:07:18] PlayerVault: That name.
+[09.05.2016 21:07:29] GenerikDuck: :)
+[09.05.2016 21:07:41] ImVexy: Alright perms are done
+[09.05.2016 21:07:50] ImVexy: Ill link you website once it is done
+[09.05.2016 21:08:18] ImVexy: if I spend a half hour on it.. it will be sick
+[09.05.2016 21:08:45] GenerikDuck: hmmm
+[09.05.2016 21:08:46] GenerikDuck: smh
+[09.05.2016 21:10:16] ImVexy: Enjin added
+[09.05.2016 21:10:24] GenerikDuck: let me see sight
+[09.05.2016 21:10:26] GenerikDuck: site
+[09.05.2016 21:10:28] GenerikDuck: whatevs
+[09.05.2016 21:10:47] ImVexy: site is shit i just made it
+[09.05.2016 21:10:48] ImVexy: xD
+[09.05.2016 21:11:08] GenerikDuck: xenforo.com
+[09.05.2016 21:11:13] GenerikDuck: some shit like that
+[09.05.2016 21:11:13] GenerikDuck: xD
+[09.05.2016 21:11:40] ImVexy: Na enjin is easier xD
+[09.05.2016 21:14:57] GenerikDuck: wtf
+[09.05.2016 21:15:15] PlayerVault: Getting shaders.
+[09.05.2016 21:15:43] ImVexy: s
+[09.05.2016 21:16:28] GenerikDuck: yeah i did know [TIP]
+[09.05.2016 21:17:04] GenerikDuck: my krodius trailer has 50 views :P
+[09.05.2016 21:17:08] GenerikDuck: 5 likes
+[09.05.2016 21:24:36] ImVexy: Do we need a website at first?
+[09.05.2016 21:24:42] GenerikDuck: idk
+[09.05.2016 21:24:45] ImVexy: Or can we wait till we get some donations?
+[09.05.2016 21:24:57] GenerikDuck: erhm
+[09.05.2016 21:25:30] GenerikDuck: Don't rush the server we should open tomorrow
+[09.05.2016 21:27:09] GenerikDuck: helllllllo
+[10.05.2016 16:02:05] ImVexy: s
+[10.05.2016 16:02:25] ImVexy: s
+[10.05.2016 16:02:26] ImVexy: s
+[10.05.2016 16:07:32] Shoving: 3
+[10.05.2016 16:12:08] Shoving: tp @console
+[10.05.2016 16:28:00] ImVexy: s
+[10.05.2016 16:28:08] ImVexy: s
+[10.05.2016 16:31:54] Shoving: pv 10
+[10.05.2016 16:33:32] ImVexy: pigzombie 2 zombie pig
+[10.05.2016 16:34:09] ImVexy: s
+[10.05.2016 16:34:10] ImVexy: LOLZ
+[10.05.2016 16:34:45] Shoving: cowspawner 2 zombiespawner
+[10.05.2016 16:43:14] ImVexy: kid
+[10.05.2016 16:43:17] ImVexy: give
+[10.05.2016 16:57:40] GenerikDuck: hola
+[10.05.2016 16:59:22] ImVexy: Hey
+[10.05.2016 16:59:28] GenerikDuck: hi
+[10.05.2016 16:59:32] ImVexy: Whats up?
+[10.05.2016 16:59:34] GenerikDuck: nm u
+[10.05.2016 16:59:48] ImVexy: I am thinking about putting the server on a server listing tonight
+[10.05.2016 16:59:58] GenerikDuck: shhmexay
+[10.05.2016 17:00:12] ImVexy: Just a smaller server listing to see what kind of players we get
+[10.05.2016 17:00:15] ImVexy: and the amounts
+[10.05.2016 17:00:30] ImVexy: I have a friend making the website
+[10.05.2016 17:00:37] ImVexy: so I just have to do the buycraft
+[10.05.2016 17:00:41] GenerikDuck: dooope
+[10.05.2016 17:00:43] GenerikDuck: k brb
+[10.05.2016 17:00:43] ImVexy: and a few other perms
+[10.05.2016 17:00:46] ImVexy: and we good
+[10.05.2016 17:10:48] ImVexy: afk
+[10.05.2016 17:10:50] ImVexy: brb
+[10.05.2016 17:10:57] GenerikDuck: l
+[10.05.2016 17:10:59] GenerikDuck: k
+[10.05.2016 17:24:45] Shoving: HI
+[10.05.2016 17:26:07] GenerikDuck: hi
+[10.05.2016 17:26:12] Shoving: hi
+[10.05.2016 17:26:13] ImVexy: Hey doing a build for a user
+[10.05.2016 17:26:18] ImVexy: to get me some monay
+[10.05.2016 17:26:31] GenerikDuck: who
+[10.05.2016 17:26:38] ImVexy: some guy named jacob
+[10.05.2016 17:45:19] GenerikDuck: fuck
+[10.05.2016 17:45:25] Shoving: ha ha
+[10.05.2016 17:45:35] Shoving: lol
+[10.05.2016 17:49:27] GenerikDuck: uhm
+[10.05.2016 17:49:30] ImVexy: wat
+[10.05.2016 17:49:34] Shoving: uhhh
+[10.05.2016 18:01:48] ImVexy: I got it on a what is that web it just got loaded
+[10.05.2016 18:36:16] GenerikDuck: hi
+[13.05.2016 21:10:00] ImVexy: s
+[15.05.2016 15:54:55] GenerikDuck: g
+[15.05.2016 15:56:12] VictoriousGamers: Why?
+[15.05.2016 15:56:19] GenerikDuck: server coming out soon
+[15.05.2016 15:56:27] VictoriousGamers: Ok...
+[15.05.2016 15:56:29] GenerikDuck: xD
+[15.05.2016 16:22:32] ImVexy: s
+[15.05.2016 16:22:33] ImVexy: s
+[15.05.2016 16:23:43] ImVexy: Hey
+[15.05.2016 16:23:56] ImVexy: First time ive been online for a week
+[15.05.2016 16:24:07] ImVexy: I hate school
+[15.05.2016 16:25:03] GenerikDuck: xD
+[15.05.2016 16:25:05] ImVexy: s
+[15.05.2016 16:25:09] ImVexy: s
+[15.05.2016 16:25:11] ImVexy: laggg
+[15.05.2016 16:25:38] GenerikDuck: Omg lol
+[15.05.2016 16:25:45] GenerikDuck: people think you were serious on my resume
+[15.05.2016 16:25:45] ImVexy: wat
+[15.05.2016 16:25:48] GenerikDuck: LOL
+[15.05.2016 16:25:49] ImVexy: xD
+[15.05.2016 16:25:50] GenerikDuck: retards
+[15.05.2016 16:25:50] ImVexy: LOLZ
+[15.05.2016 16:26:01] ImVexy: I was obv not being serious
+[15.05.2016 16:26:18] GenerikDuck: retards
+[15.05.2016 16:27:13] GenerikDuck: long time no see xD
+[15.05.2016 16:27:40] ImVexy: ikr server is still set to open on june first I get off school may 27th
+[15.05.2016 16:27:46] GenerikDuck: lucky
+[15.05.2016 16:27:57] ImVexy: When do you get off?
+[15.05.2016 16:28:05] GenerikDuck: this guys like you are staf fon other servers im like yeah hezz like hmm
+[15.05.2016 16:28:16] GenerikDuck: june 8 then exams
+[15.05.2016 16:28:31] ImVexy: that sucks
+[15.05.2016 16:29:13] ImVexy: .
+[15.05.2016 16:29:27] ImVexy: s
+[15.05.2016 16:29:29] ImVexy: lag
+[15.05.2016 16:29:32] ImVexy: :P
+[15.05.2016 16:29:33] GenerikDuck: NAH
+[15.05.2016 16:29:35] GenerikDuck: nah*
+[15.05.2016 16:29:46] GenerikDuck: I'm a mod on this server called puremc but its toxic af
+[15.05.2016 16:30:00] GenerikDuck: i resigned then went back lmao
+[15.05.2016 16:30:05] ImVexy: xD
+[15.05.2016 16:30:33] ImVexy: get out of vanish
+[15.05.2016 16:30:34] ImVexy: nub
+[15.05.2016 16:30:42] ImVexy: well maybe your not
+[15.05.2016 16:30:44] ImVexy: maybe its rain
+[15.05.2016 16:30:46] ImVexy: I dunno
+[15.05.2016 18:06:04] ImVexy: s
+[16.05.2016 10:56:16] ImVexy: s
+[16.05.2016 10:56:21] ImVexy: s
+[16.05.2016 10:56:22] ImVexy: k
+[16.05.2016 10:56:25] ImVexy: ,
+[16.05.2016 10:56:26] ImVexy: ag
+[16.05.2016 16:59:22] GenerikDuck: nice
+[16.05.2016 17:01:54] ImVexy: s
+[16.05.2016 17:06:02] ImVexy: s
+[17.05.2016 12:16:01] ImVexy: sksoks
+[17.05.2016 12:16:03] ImVexy: wow
+[17.05.2016 12:16:06] ImVexy: ughh
+[18.05.2016 18:08:51] GenerikDuck: g
+[19.05.2016 13:08:33] ImVexy: s
+[19.05.2016 13:08:47] ImVexy: s
+[19.05.2016 13:13:51] ImVexy: s
+[19.05.2016 13:15:10] ImVexy: k
+[19.05.2016 13:15:35] ImVexy: s
+[19.05.2016 13:15:43] ImVexy: s
+[19.05.2016 13:21:16] ImVexy: s
+[19.05.2016 13:21:46] ImVexy: s
+[19.05.2016 13:22:41] ImVexy: k
+[19.05.2016 13:22:53] ImVexy: .
+[19.05.2016 13:22:54] ImVexy: .
+[19.05.2016 13:22:55] ImVexy: .
+[19.05.2016 13:23:02] ImVexy: hey bb
+[19.05.2016 13:23:10] GenerikDuck: Wats upp.
+[19.05.2016 13:23:14] ImVexy: Im getting the custom terrain done
+[19.05.2016 13:23:28] GenerikDuck: By who.
+[19.05.2016 13:23:36] ImVexy: Me myself and I
+[19.05.2016 13:23:39] ImVexy: tp to me
+[19.05.2016 13:23:48] GenerikDuck: Gotta wait 5 sec.
+[19.05.2016 13:24:13] ImVexy: Im using a pre generation plugin
+[19.05.2016 13:24:23] ImVexy: so its over the next few hours going to load all the chunks
+[19.05.2016 13:24:28] ImVexy: for 10kx10k
+[19.05.2016 13:24:34] ImVexy: then ill move the spawn
+[19.05.2016 13:25:15] ImVexy: Im gonna redo /warp
+[19.05.2016 13:27:29] ImVexy: ./warp is done
+[19.05.2016 13:27:53] ImVexy: oh god it isn't even done with 0.6% of pre generation
+[19.05.2016 13:27:59] ImVexy: this is gonna take forever
+[19.05.2016 13:28:19] GenerikDuck: LOL
+[19.05.2016 13:28:57] ImVexy: .
+[19.05.2016 13:30:40] GenerikDuck: Leakedplugins.
+[19.05.2016 13:31:02] ImVexy: Na
+[19.05.2016 13:31:07] GenerikDuck: Yes ☺
+[19.05.2016 13:31:10] ImVexy: Nope
+[19.05.2016 13:31:16] ImVexy: lel
+[19.05.2016 13:31:20] GenerikDuck: Send me your leaked plugins.
+[19.05.2016 13:31:46] ImVexy: I bought all my plugins and if I leak them spigot sees it
+[19.05.2016 13:31:50] ImVexy: :(
+[19.05.2016 13:32:00] GenerikDuck: smh
+[19.05.2016 13:32:02] GenerikDuck: liar
+[19.05.2016 13:32:04] ImVexy: na
+[19.05.2016 13:32:12] ImVexy: I can show proof bb
+[19.05.2016 13:32:14] ImVexy: ;d
+[19.05.2016 13:32:52] ImVexy: https://gyazo.com/14c69b29acc7958e065f91186aedefe9
+[19.05.2016 13:32:58] ImVexy: nub
+[19.05.2016 13:34:01] GenerikDuck: Psh leaked plugins.
+[19.05.2016 13:34:06] ImVexy: k
+[19.05.2016 13:34:19] GenerikDuck: I have over 1k leake dplugins LOL.
+[19.05.2016 13:34:24] ImVexy: xD
+[19.05.2016 13:34:35] ImVexy: You downloaded one of those huge zips of them?
+[19.05.2016 13:34:41] GenerikDuck: A couple.
+[19.05.2016 13:34:51] ImVexy: Most of those have a backdoor added that is why I don't download them
+[19.05.2016 13:35:08] GenerikDuck: Yeah but it's a zip im not opening any of the things in it :P.
+[19.05.2016 13:35:15] ImVexy: I kinda want to add tags
+[19.05.2016 13:35:19] ImVexy: I dunno
+[19.05.2016 13:44:11] ImVexy: 2% done
+[19.05.2016 13:44:13] ImVexy: kappa
+[19.05.2016 13:44:18] GenerikDuck: "claps"
+[19.05.2016 13:44:53] ImVexy: 2.1 kappa
+[19.05.2016 13:49:35] ImVexy: s
+[19.05.2016 13:51:29] GenerikDuck: Do you know how to make a space changing a prefix in game.
+[19.05.2016 13:57:07] GenerikDuck: YO
+[19.05.2016 13:57:10] GenerikDuck: Do you know how to make a space changing a prefix in game.
+[19.05.2016 13:57:17] GenerikDuck: Selling my head meany.
+[19.05.2016 13:57:22] ImVexy: xD
+[19.05.2016 13:57:36] ImVexy: Testing something and I do all prefixes in config
+[19.05.2016 13:57:42] ImVexy: as its easier
+[19.05.2016 13:58:16] ImVexy: OMGMGM 3.0%
+[19.05.2016 13:58:18] ImVexy: xD
+[19.05.2016 13:58:34] GenerikDuck: :O
+[19.05.2016 14:00:27] ImVexy: s
+[19.05.2016 14:06:14] ImVexy: s
+[19.05.2016 14:37:13] ImVexy: s
+[19.05.2016 17:48:30] GenerikDuck: d
+[19.05.2016 17:51:36] GenerikDuck: hey
+[19.05.2016 17:51:58] ImVexy: Helo
+[19.05.2016 17:52:01] ImVexy: brh
+[19.05.2016 17:52:03] ImVexy: brb
+[21.05.2016 12:45:23] ImVexy: s
+[21.05.2016 12:51:37] ImVexy: s
+[21.05.2016 12:51:45] ImVexy: s
+[21.05.2016 22:30:20] ImVexy: s
+[22.05.2016 15:56:58] ImVexy: s
+[22.05.2016 15:57:08] ImVexy: .
+[22.05.2016 16:19:08] ImVexy: s
+[22.05.2016 16:19:10] ImVexy: s
+[22.05.2016 16:26:19] ImVexy: s
+[22.05.2016 16:28:57] GenerikDuck: 0g
+[22.05.2016 16:29:02] ImVexy: k
+[22.05.2016 16:29:23] GenerikDuck: Hide away.
+[22.05.2016 16:29:27] ImVexy: nop
+[22.05.2016 21:00:12] GenerikDuck: d
+[24.05.2016 15:33:29] ImVexy: PROOF --- MCM
+[24.05.2016 15:36:45] PlayerVault: s
+[24.05.2016 16:40:09] GenerikDuck: Well hello there folks.
+[24.05.2016 16:40:13] ImVexy: k
+[24.05.2016 16:40:22] GenerikDuck: Ok rude *****
+[24.05.2016 16:59:25] ImVexy: s
+[24.05.2016 16:59:29] ImVexy: s
+[24.05.2016 16:59:41] ImVexy: .
+[24.05.2016 17:10:36] ImVexy: s
+[24.05.2016 18:18:11] ImVexy: ?
+[24.05.2016 18:58:01] GenerikDuck: hey
+[24.05.2016 18:58:12] ImVexy: Hey
+[24.05.2016 18:58:16] ImVexy: How are you?
+[24.05.2016 18:58:16] GenerikDuck: What's up?
+[24.05.2016 18:58:22] GenerikDuck: Alright you?
+[24.05.2016 18:58:30] ImVexy: Waiting for a plugin to finish
+[24.05.2016 18:58:35] GenerikDuck: What plugin.
+[24.05.2016 18:58:35] ImVexy: I made a jackpot plugin
+[24.05.2016 18:58:50] ImVexy: And a slots one
+[24.05.2016 18:58:56] GenerikDuck: 0g
+[24.05.2016 18:59:46] ImVexy: Server is fully set to open this saturday
+[24.05.2016 18:59:53] ImVexy: I am done with school the day before
+[24.05.2016 19:01:02] GenerikDuck: ok
+[24.05.2016 20:04:45] ImVexy: s
+[24.05.2016 20:22:45] ImVexy: s
+[24.05.2016 20:38:13] GenerikDuck: gh
+[25.05.2016 20:44:52] GenerikDuck: yo
+[25.05.2016 20:45:02] ImVexy: I have no motivation to keep working on the server
+[25.05.2016 20:45:07] ImVexy: ugh
+[25.05.2016 20:45:12] GenerikDuck: ImVexy.
+[25.05.2016 20:45:22] ImVexy: One side of me doesn't want to give it up
+[25.05.2016 20:45:30] ImVexy: Another says just sell it and move on
+[25.05.2016 20:45:36] ImVexy: UGH
+[25.05.2016 20:45:39] ImVexy: Halp me
+[25.05.2016 20:45:53] ImVexy: Is there anything else to do before opening?
+[25.05.2016 20:46:13] GenerikDuck: Doesnt look like it.
+[25.05.2016 20:46:16] GenerikDuck: omg
+[25.05.2016 20:46:20] ImVexy: what?
+[25.05.2016 20:46:39] GenerikDuck: Its 9 and my neighbor is spamming the hsi tout of his chainsaw.
+[25.05.2016 20:46:45] ImVexy: LOL
+[25.05.2016 20:47:04] GenerikDuck: Vvvvvvvvvvvvvvvvv 2 m stop vvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvvv.
+[25.05.2016 20:47:22] ImVexy: rip
+[25.05.2016 20:47:38] GenerikDuck: LOOL People are yelling at him.
+[25.05.2016 20:47:44] ImVexy: LOLOL
+[25.05.2016 20:47:46] GenerikDuck: Looooool.
+[25.05.2016 20:48:01] GenerikDuck: Turn that *****off my kids are trying to sleep.
+[25.05.2016 20:48:20] GenerikDuck: Windows wide open i here everything.
+[25.05.2016 20:48:21] ImVexy: I love how antiswear blocks you
+[25.05.2016 20:48:26] ImVexy: but I still see it
+[25.05.2016 20:48:27] ImVexy: xD
+[25.05.2016 20:49:33] ImVexy: Maybe we can see about opening tonight
+[25.05.2016 20:49:46] ImVexy: I just got a few small things to change up
+[25.05.2016 20:50:05] ImVexy: and if not tonight tmmrw
+[25.05.2016 20:50:12] ImVexy: if the server fails well
+[25.05.2016 20:50:25] ImVexy: Ill just sell it, If it goes well then we keep expanding
+[25.05.2016 20:50:38] GenerikDuck: ☹
+[25.05.2016 20:51:05] ImVexy: talk
+[25.05.2016 20:51:07] GenerikDuck: k
+[25.05.2016 20:51:11] ImVexy: welp
+[25.05.2016 20:51:12] GenerikDuck: Green.
+[25.05.2016 20:51:15] GenerikDuck: 0g
+[25.05.2016 20:51:23] ImVexy: talk
+[25.05.2016 20:51:24] GenerikDuck: k
+[25.05.2016 20:51:27] ImVexy: Der
+[25.05.2016 20:51:29] ImVexy: we go
+[25.05.2016 20:51:30] GenerikDuck: Now we talkin.
+[25.05.2016 20:51:40] ImVexy: Don't do anything stupid
+[25.05.2016 20:51:48] GenerikDuck: well im staff on 2 other servers so dw
+[25.05.2016 20:51:54] ImVexy: ;d
+[25.05.2016 20:51:55] GenerikDuck: puremc owner actually made bank'
+[25.05.2016 20:52:01] ImVexy: xD
+[25.05.2016 20:52:08] GenerikDuck: hes re releasin soon he bought custom plugins and hes buying ytbers
+[25.05.2016 20:52:26] ImVexy: brb im gonna go finish buycraft
+[25.05.2016 20:52:27] GenerikDuck: i helped him with all of it so he said if it goes well hell pay me
+[25.05.2016 20:52:55] GenerikDuck: omg
+[25.05.2016 20:53:07] ImVexy: Hell
+[25.05.2016 20:53:08] ImVexy: ok
+[25.05.2016 20:53:11] ImVexy: hopefully server dies
+[25.05.2016 20:53:16] ImVexy: then you get the monay
+[25.05.2016 20:53:21] GenerikDuck: noo
+[25.05.2016 20:53:24] GenerikDuck: server does well
+[25.05.2016 20:53:27] GenerikDuck: gets donations
+[25.05.2016 20:53:28] GenerikDuck: i make bank
+[25.05.2016 20:53:44] GenerikDuck: im the one that made his serve rlook good
+[25.05.2016 20:53:52] ImVexy: You said "i helped him with all of it so he said if it goes well hell pay me"
+[25.05.2016 20:54:05] ImVexy: ;d
+[25.05.2016 20:54:07] GenerikDuck: i brought my builder to it i edited all the prefixes/fb/tab/lagg made new donation ranks/told him to
+[25.05.2016 20:54:09] GenerikDuck: get ytbers
+[25.05.2016 20:54:25] ImVexy: get ytbers is common since
+[25.05.2016 20:54:28] ImVexy: sence*
+[25.05.2016 20:54:38] GenerikDuck: noooo, i told him some good technigues do
+[25.05.2016 20:54:40] GenerikDuck: just
+[25.05.2016 20:54:42] GenerikDuck: long to explain
+[25.05.2016 20:54:57] GenerikDuck: his server looked like trash
+[25.05.2016 20:55:06] ImVexy: im so laggy when I do /wild
+[25.05.2016 20:55:12] GenerikDuck: yep
+[25.05.2016 20:55:13] ImVexy: oh I know why..
+[25.05.2016 20:55:15] GenerikDuck: thanks
+[25.05.2016 20:55:16] GenerikDuck: for
+[25.05.2016 20:55:33] GenerikDuck: looks like custom terrain is done
+[25.05.2016 20:55:53] ImVexy: well for any new chunks it changes from normal terrain to custom
+[25.05.2016 20:56:07] ImVexy: but anything already loaded is just normal
+[25.05.2016 20:56:59] GenerikDuck: OMG
+[25.05.2016 20:57:02] GenerikDuck: THIS FUCKING CHAINSAW
+[25.05.2016 20:57:15] ImVexy: Well its now filling the terrain up it will take a few hours but no lag for doing /wild
+[25.05.2016 20:57:19] ImVexy: so we are opening tmmrw
+[25.05.2016 20:57:23] ImVexy: since I have to do this
+[25.05.2016 20:57:27] ImVexy: or else loading new chunks
+[25.05.2016 20:57:30] ImVexy: will be hell
+[25.05.2016 20:57:40] GenerikDuck: im about t throw a fucking rock at him
+[25.05.2016 20:57:45] ImVexy: xDD
+[25.05.2016 20:57:45] GenerikDuck: annoying cunt
+[25.05.2016 20:58:52] GenerikDuck: your servers are very well done
+[25.05.2016 20:58:57] ImVexy: <3
+[25.05.2016 20:59:13] ImVexy: the jackpot plugin just finished so im gonna look it over
+[25.05.2016 20:59:34] GenerikDuck: OMG
+[25.05.2016 20:59:39] GenerikDuck: dis nigguh
+[25.05.2016 20:59:49] GenerikDuck: full throttle jeezuz fuck
+[25.05.2016 21:00:47] ImVexy: reloading
+[25.05.2016 21:04:26] ImVexy: do /jackpot
+[25.05.2016 21:04:29] GenerikDuck: i did
+[25.05.2016 21:04:34] GenerikDuck: i enetered 50k xD
+[25.05.2016 21:04:37] ImVexy: oo
+[25.05.2016 21:04:45] GenerikDuck: im ahead of u
+[25.05.2016 21:04:48] ImVexy: Do you see the chat messages?
+[25.05.2016 21:04:49] GenerikDuck: smh
+[25.05.2016 21:04:51] GenerikDuck: yes
+[25.05.2016 21:04:59] ImVexy: Alright
+[25.05.2016 21:05:26] GenerikDuck: hype
+[25.05.2016 21:05:34] ImVexy: ez
+[25.05.2016 21:05:36] ImVexy: xD
+[25.05.2016 21:05:38] GenerikDuck: WOOOW
+[25.05.2016 21:05:39] GenerikDuck: CUNT
+[25.05.2016 21:05:43] ImVexy: ezpz
+[25.05.2016 21:05:47] GenerikDuck: try again
+[25.05.2016 21:05:47] ImVexy: do a 50k pot
+[25.05.2016 21:05:51] ImVexy: each of us
+[25.05.2016 21:05:55] GenerikDuck: I ALREADY DID 1 MIL
+[25.05.2016 21:05:57] GenerikDuck: oops
+[25.05.2016 21:05:58] GenerikDuck: caps
+[25.05.2016 21:06:00] ImVexy: fine
+[25.05.2016 21:06:03] ImVexy: ill do 1mil too
+[25.05.2016 21:06:09] ImVexy: ez big win
+[25.05.2016 21:06:36] GenerikDuck: ezzz win fauum
+[25.05.2016 21:06:40] ImVexy: nope
+[25.05.2016 21:06:43] ImVexy: ez win 4 me
+[25.05.2016 21:06:52] GenerikDuck: if i lose i quit
+[25.05.2016 21:06:55] ImVexy: xD
+[25.05.2016 21:07:02] ImVexy: ez ez
+[25.05.2016 21:07:06] ImVexy: HYPEZ
+[25.05.2016 21:07:08] GenerikDuck: hold that l
+[25.05.2016 21:07:11] ImVexy: EZ
+[25.05.2016 21:07:20] ImVexy: EZZZZZZZZZZZZZZZZZZ
+[25.05.2016 21:07:22] ImVexy: EZZZZZZZZZZZZZZZZZZ
+[25.05.2016 21:07:22] GenerikDuck: WTF
+[25.05.2016 21:07:23] ImVexy: EZZZZZZZZZZZZZZZZZZ
+[25.05.2016 21:07:24] ImVexy: EZZZZZZZZZZZZZZZZZZ
+[25.05.2016 21:07:24] ImVexy: EZZZZZZZZZZZZZZZZZZ
+[25.05.2016 21:07:24] GenerikDuck: WTF
+[25.05.2016 21:07:25] GenerikDuck: WTF
+[25.05.2016 21:07:25] GenerikDuck: WTF
+[25.05.2016 21:07:25] GenerikDuck: WTF
+[25.05.2016 21:07:26] GenerikDuck: WTF
+[25.05.2016 21:07:26] GenerikDuck: WTF
+[25.05.2016 21:07:26] GenerikDuck: WTF
+[25.05.2016 21:07:28] GenerikDuck: RIGGED
+[25.05.2016 21:07:29] GenerikDuck: RIGGED
+[25.05.2016 21:07:29] GenerikDuck: RIGGED
+[25.05.2016 21:07:29] GenerikDuck: RIGGED
+[25.05.2016 21:07:29] GenerikDuck: RIGGED
+[25.05.2016 21:07:31] ImVexy: xD
+[25.05.2016 21:07:41] GenerikDuck: 1$
+[25.05.2016 21:07:43] ImVexy: k
+[25.05.2016 21:07:54] ImVexy: ez dollar win
+[25.05.2016 21:08:26] ImVexy: What is gonna happen is donators are going to put in a million
+[25.05.2016 21:08:33] ImVexy: and some new person is gonna put a dollar and win
+[25.05.2016 21:08:39] GenerikDuck: Lol
+[25.05.2016 21:08:44] GenerikDuck: i always win
+[25.05.2016 21:08:46] ImVexy: lies
+[25.05.2016 21:08:52] ImVexy: ez win for me
+[25.05.2016 21:08:55] ImVexy: ez
+[25.05.2016 21:08:56] ImVexy: ez
+[25.05.2016 21:09:01] ImVexy: FUCK
+[25.05.2016 21:09:02] GenerikDuck: HAAAAH
+[25.05.2016 21:09:02] GenerikDuck: HAAAAH
+[25.05.2016 21:09:02] GenerikDuck: HAAAAH
+[25.05.2016 21:09:03] GenerikDuck: HAAAAH
+[25.05.2016 21:09:03] GenerikDuck: HAAAAH
+[25.05.2016 21:09:03] GenerikDuck: HAAAAH
+[25.05.2016 21:09:13] GenerikDuck: EZZ WIN BUD HOLD THAT L
+[25.05.2016 21:09:20] ImVexy: dick
+[25.05.2016 21:09:24] GenerikDuck: loool
+[25.05.2016 21:11:37] ImVexy: gonna have someone come on and make a professional trailer
+[25.05.2016 21:11:57] GenerikDuck: who
+[25.05.2016 21:12:10] ImVexy: Screm a person from MCM he is doing them for free
+[25.05.2016 21:12:14] ImVexy: i figure why not
+[25.05.2016 21:14:20] GenerikDuck: i seen that in shoutbox
+[25.05.2016 21:14:23] GenerikDuck: xD
+[25.05.2016 21:14:39] ImVexy: xD
+[25.05.2016 21:14:43] ImVexy: stalker
+[25.05.2016 21:14:51] GenerikDuck: ;)
+[25.05.2016 21:15:11] GenerikDuck: comin on tn ?
+[25.05.2016 21:15:15] ImVexy: ye
+[25.05.2016 21:15:23] ImVexy: talking on skype right now
+[25.05.2016 21:15:30] GenerikDuck: pm or live
+[25.05.2016 21:15:35] ImVexy: pm
+[25.05.2016 21:15:46] ImVexy: Hey
+[25.05.2016 21:15:50] Invested: Ayo
+[25.05.2016 21:16:01] ImVexy: so what will you be needed as in perms like /fly?
+[25.05.2016 21:16:12] Invested: Nothing, just need to know where you want recorded.
+[25.05.2016 21:16:18] Invested: Like spawn, a wilderness ect..
+[25.05.2016 21:16:21] ImVexy: Just the spawn and warzone
+[25.05.2016 21:16:27] ImVexy: I would think so
+[25.05.2016 21:17:08] Invested: Alright, where's warzone?
+[25.05.2016 21:17:14] GenerikDuck: this way
+[25.05.2016 21:17:19] ImVexy: the warzone is just the dropdown from spawn
+[25.05.2016 21:18:08] ImVexy: brb
+[25.05.2016 21:18:33] Invested: Alright, that should work.
+[25.05.2016 21:18:36] GenerikDuck: If you need anything just ask
+[25.05.2016 21:18:38] ImVexy: Awesome
+[25.05.2016 21:18:40] ImVexy: Thanks!
+[25.05.2016 21:18:52] Invested: I'll go see what i have and let you preview it when i'm done.
+[25.05.2016 21:18:57] ImVexy: <3
+[25.05.2016 21:19:10] GenerikDuck: hm
+[25.05.2016 21:19:13] ImVexy: well
+[25.05.2016 21:19:24] ImVexy: I was expecting atleast /fly
+[25.05.2016 21:19:28] GenerikDuck: LOOL
+[25.05.2016 21:19:30] ImVexy: meh whatever
+[25.05.2016 21:20:08] GenerikDuck: ok..
+[25.05.2016 21:20:37] ImVexy: im gonna go fix crates
+[25.05.2016 21:20:49] GenerikDuck: ok im gonna go cya
+[25.05.2016 21:20:54] ImVexy: cya
+[25.05.2016 21:20:59] GenerikDuck: fucking exams
+[25.05.2016 21:21:01] ImVexy: ikr
+[25.05.2016 21:39:30] Invested: Ye i need it day.
+[25.05.2016 21:39:42] Invested: This should work.
+[25.05.2016 21:39:49] ImVexy: Im just working on crates so ill watch chat
+[25.05.2016 21:40:55] Invested: Do you want a fight scene in the video too?
+[25.05.2016 21:41:02] ImVexy: Hmm
+[25.05.2016 21:41:08] ImVexy: Maybe that would be cool
+[25.05.2016 21:41:20] Invested: It's actually pretty cool, i record it in first person then it goes from 3rd person to first.
+[25.05.2016 21:41:31] ImVexy: Yea lets do it
+[25.05.2016 21:41:40] Invested: Alright, once i get the other clips.
+[25.05.2016 21:41:40] ImVexy: here ill tp you to spawn then we can do it right outside
+[25.05.2016 21:41:46] ImVexy: oh
+[25.05.2016 21:41:47] ImVexy: alright
+[25.05.2016 21:42:14] Invested: Alright that should work.
+[25.05.2016 21:42:17] Invested: Brb
+[25.05.2016 21:51:45] Invested: Omg i'm blind.
+[25.05.2016 21:52:01] Invested: I cannot see anything xD.
+[25.05.2016 21:52:04] ImVexy: xD
+[25.05.2016 21:52:14] Invested: I gotta record this with shaders and i am completely blind.
+[25.05.2016 21:52:23] Invested: So much better :D.
+[25.05.2016 21:52:48] ImVexy: nice cape
+[25.05.2016 21:52:57] Invested: Thanks x3 I am a cape collector.
+[25.05.2016 21:53:00] Invested: 2013 and 2015 atm.
+[25.05.2016 21:53:19] ImVexy: Lol I tried to get into capes at one point never could get one for under 100
+[25.05.2016 21:53:22] Invested: And OG names are my weakness x3 Invested was the best i could find.
+[25.05.2016 21:53:33] ImVexy: ikr
+[25.05.2016 21:53:36] Invested: Yeah i payed 150 for OG name with cape.
+[25.05.2016 21:53:39] ImVexy: my best one is shoving :P
+[25.05.2016 21:53:43] Invested: But it was a good friend of mine x3
+[25.05.2016 21:54:08] Invested: Pa pa pa pa poker fa fa fa face.
+[25.05.2016 21:54:25] Invested: You ready? Cx.
+[25.05.2016 21:54:44] Invested: Actually i won't record this with shaders.
+[25.05.2016 21:55:17] Invested: XD >Goes from 100-150 FPS to 1000-1500
+[25.05.2016 21:55:47] ImVexy: xD
+[25.05.2016 21:56:01] Invested: Lemme see if i can find a less-intensive shader pack x3
+[25.05.2016 21:56:17] ImVexy: sildurs is pretty good
+[25.05.2016 21:56:26] Invested: All of my shaders are ultra x3
+[25.05.2016 21:56:29] ImVexy: xD
+[25.05.2016 21:56:34] ImVexy: I get the lowest ones
+[25.05.2016 21:56:38] Invested: Got one.
+[25.05.2016 21:56:50] Invested: Sitting at a constant 60 while recording now :D.
+[25.05.2016 21:57:12] Invested: Oh wait, something is wrong with fraps for me hold on. X3
+[25.05.2016 21:57:20] Invested: It makes my mouse go full *****mode.
+[25.05.2016 21:57:50] ImVexy: If it don't respond its because im doing something else :P
+[25.05.2016 21:58:13] ImVexy: my mouse keeps wanting to die
+[25.05.2016 21:58:21] ImVexy: I somehow keep it alive
+[25.05.2016 21:59:30] Invested: You scurd fam? :P.
+[25.05.2016 22:00:15] ImVexy: yes
+[25.05.2016 22:00:17] ImVexy: xD
+[25.05.2016 22:01:00] ImVexy: xD
+[25.05.2016 22:01:01] Invested: LOL
+[25.05.2016 22:01:05] Invested: I got all dat xD.
+[25.05.2016 22:01:06] ImVexy: we both died
+[25.05.2016 22:01:12] Invested: We good.
+[25.05.2016 22:01:24] Invested: :D TIme to see it.
+[25.05.2016 22:01:28] ImVexy: :P
+[25.05.2016 22:01:32] ImVexy: brb
+[26.05.2016 20:53:35] ImVexy: s
+[26.05.2016 20:56:11] ImVexy: s
+[26.05.2016 20:56:18] ImVexy: hmm
+[26.05.2016 22:39:32] GenerikDuck: omg
+[26.05.2016 22:39:35] GenerikDuck: Lol
+[26.05.2016 22:42:02] GenerikDuck: hey
+[26.05.2016 22:42:13] GenerikDuck: you ant hurt players for 3 seconds after logging in
+[26.05.2016 22:42:14] GenerikDuck: hm
+[26.05.2016 22:43:14] PureYT: What
+[26.05.2016 22:43:20] GenerikDuck: so
+[26.05.2016 22:43:30] PureYT: What sthe owner of this server?
+[26.05.2016 22:43:36] GenerikDuck: ?
+[26.05.2016 22:43:39] GenerikDuck: Its vexy
+[26.05.2016 22:43:44] PureYT: Ask him if i can buy the jackpot.
+[26.05.2016 22:43:55] GenerikDuck: uh
+[26.05.2016 22:44:08] GenerikDuck: can
+[26.05.2016 22:44:13] GenerikDuck: you do it when the server releases
+[26.05.2016 22:44:17] GenerikDuck: please
+[26.05.2016 22:44:21] GenerikDuck: this server
+[26.05.2016 22:44:23] GenerikDuck: releases
+[26.05.2016 22:44:26] PureYT: No
+[26.05.2016 22:44:30] PureYT: Just ask him if i can buy it.
+[26.05.2016 22:44:36] PureYT: Cuz im realeasing next week.
+[26.05.2016 22:44:52] GenerikDuck: Well we might release tmr
+[26.05.2016 22:45:02] PureYT: Ik I just want to buy the Jackpot plugin.
+[26.05.2016 22:45:20] GenerikDuck: I can't ruin my rep i will ask him when the server releases
+[26.05.2016 22:45:45] PureYT: What do u mean.
+[26.05.2016 22:45:45] PureYT: tf
+[26.05.2016 22:45:50] PureYT: Its asking if he is willing to sell.
+[26.05.2016 22:45:52] PureYT: lol.
+[26.05.2016 22:45:55] GenerikDuck: Well
+[26.05.2016 22:45:56] GenerikDuck: i can
+[26.05.2016 22:46:01] GenerikDuck: but i cant redirect him to you
+[26.05.2016 22:46:05] PureYT: How is that ruining ur rep.
+[26.05.2016 22:46:09] GenerikDuck: Just
+[26.05.2016 22:46:12] PureYT: I am going to buy it?
+[26.05.2016 22:46:15] PureYT: llol
+[26.05.2016 22:46:15] GenerikDuck: nvm'
+[26.05.2016 22:46:16] GenerikDuck: I
+[26.05.2016 22:46:20] GenerikDuck: Can ask him if i can buy it
+[26.05.2016 22:46:23] PureYT: Oka
+[26.05.2016 22:46:31] PureYT: Or i can ask ur friend jake.
+[26.05.2016 22:46:35] GenerikDuck: but i cant say another server owner wants to buy it
+[26.05.2016 22:47:02] PureYT: oka
+[26.05.2016 22:47:08] PureYT: Hm
+[26.05.2016 22:47:09] GenerikDuck: whoever responds first
+[26.05.2016 22:47:11] PureYT: ?
+[26.05.2016 22:47:17] PureYT: Or u can.
+[26.05.2016 22:47:18] GenerikDuck: i msged both
+[26.05.2016 22:47:21] PureYT: Cuz i dont have jakes skype.
+[26.05.2016 22:47:25] PureYT: Can u direct me to jake.
+[26.05.2016 22:47:29] PureYT: Cuz he could help Pure alot.
+[26.05.2016 22:48:00] GenerikDuck: I'll ask him if he doesnt mind
+[26.05.2016 22:48:12] PureYT: Okay
+[26.05.2016 22:48:16] PureYT: tbh
+[26.05.2016 22:48:22] PureYT: We could bring him on as full time dev.
+[26.05.2016 22:48:25] PureYT: If he wants a home server.
+[26.05.2016 22:48:29] GenerikDuck: Idk
+[26.05.2016 22:48:32] GenerikDuck: he sells plugins so
+[26.05.2016 22:48:55] GenerikDuck: Unless he would get payed idk if he would do it
+[26.05.2016 22:49:06] GenerikDuck: Anyways
+[26.05.2016 22:49:19] GenerikDuck: i have to go 11:00 for me and i was training for a while and got exams
+[26.05.2016 22:49:20] GenerikDuck: fuckkkk
+[26.05.2016 22:49:20] PureYT: Yeah he would.
+[26.05.2016 22:49:32] PureYT: I was talking like 10% of donations or somethign.
+[26.05.2016 22:49:41] PureYT: Then 25% to a big YT if they wanted to do a deal like dat.
+[26.05.2016 22:49:54] GenerikDuck: anyways
+[26.05.2016 22:49:55] PureYT: So only 35% gone leaves 65% left.
+[26.05.2016 22:49:56] GenerikDuck: pccee
+[26.05.2016 22:50:03] PureYT: oka
+[26.05.2016 22:50:09] PureYT: Ask him about sharing his skyp.
+[26.05.2016 22:50:09] GenerikDuck: whats wrong with the vps
+[26.05.2016 22:50:19] PureYT: Nothing its fixed.
+[26.05.2016 22:50:23] GenerikDuck: ok
+[26.05.2016 23:51:09] PureYT: yo
+[26.05.2016 23:51:13] PureYT: Do /jackpot.
+[26.05.2016 23:51:26] PureYT: Could u make that?
+[26.05.2016 23:51:49] TheCobraKing: What does it do?
+[26.05.2016 23:51:57] PureYT: Like its a jackpot.
+[26.05.2016 23:52:00] PureYT: The more money u put in.
+[26.05.2016 23:52:04] PureYT: The more likely u are to win.
+[26.05.2016 23:52:16] PureYT: see
+[26.05.2016 23:52:51] PureYT: Woooow.
+[26.05.2016 23:52:52] PureYT: xD
+[26.05.2016 23:52:59] TheCobraKing: lol
+[26.05.2016 23:53:21] PureYT: Do u think u could make that/"
+[26.05.2016 23:53:43] TheCobraKing: Probably ya.
+[26.05.2016 23:53:49] PureYT: Hm
+[26.05.2016 23:53:50] PureYT: How much.
+[26.05.2016 23:53:51] PureYT: ?
+[26.05.2016 23:54:28] PureYT: Do u know?
+[26.05.2016 23:54:34] TheCobraKing: Idk maybe $10-15
+[26.05.2016 23:54:37] PureYT: rip
+[26.05.2016 23:54:38] TheCobraKing: But idk yet.
+[26.05.2016 23:54:53] PureYT: I could do $15 if u can make it an sell me the GKit.
+[26.05.2016 23:54:54] PureYT: xD
+[26.05.2016 23:55:22] TheCobraKing: Naw lol gkit is complicated ass *****XD.
+[26.05.2016 23:56:20] TheCobraKing: Going to work on gkit more.
+[26.05.2016 23:56:24] TheCobraKing: Hop on my server.
+[26.05.2016 23:56:50] PureYT: yeah
+[27.05.2016 17:29:05] Geeky_: Hi
+[27.05.2016 17:29:19] PureYT: hey
+[27.05.2016 17:29:22] PureYT: Do /jp.
+[27.05.2016 17:29:30] PureYT: Like /jackpot with out the period.
+[27.05.2016 17:29:48] Geeky_: Do you have a server?
+[27.05.2016 17:29:51] PureYT: Yes
+[27.05.2016 17:30:08] Geeky_: Verification?
+[27.05.2016 17:30:13] PureYT: What do you mean?
+[27.05.2016 17:30:27] Geeky_: Verify that you have a server.
+[27.05.2016 17:30:38] PureYT: I dont own this one and why does it matter if I own one?
+[27.05.2016 17:30:42] Geeky_: Yea
+[27.05.2016 17:30:45] PureYT: Im just wondering.
+[27.05.2016 17:30:51] Geeky_: Because last time someone scammed me for a plugin.
+[27.05.2016 17:30:55] Geeky_: Asked for a plugin.
+[27.05.2016 17:31:02] PureYT: Are you wanting dev in return?
+[27.05.2016 17:31:05] Geeky_: Sold the plugin to another user without my permission.
+[27.05.2016 17:31:10] Geeky_: No
+[27.05.2016 17:31:16] PureYT: What is the trade then for the plugin?
+[27.05.2016 17:31:23] Geeky_: Vouch?
+[27.05.2016 17:31:25] PureYT: Sure
+[27.05.2016 17:31:36] Geeky_: What is your server's ip.
+[27.05.2016 17:31:55] PureYT: prip
+[27.05.2016 17:31:57] PureYT: Ill pm u it on skype.
+[27.05.2016 17:15:57] ImVexy: s
+[27.05.2016 17:16:04] ImVexy: hmm
+[27.05.2016 17:38:01] ImVexy: s
+[27.05.2016 17:38:21] ImVexy: s
+[28.05.2016 13:49:01] ImVexy: 4 is taken
+[28.05.2016 15:19:13] ImVexy: s
+[28.05.2016 15:28:16] ImVexy: s
+[28.05.2016 15:32:50] ImVexy: s
+[28.05.2016 15:33:31] ImVexy: hmm
+[28.05.2016 15:34:05] ImVexy: s
+[28.05.2016 15:34:17] ImVexy: s
+[28.05.2016 15:34:35] ImVexy: s
+[28.05.2016 15:34:45] ImVexy: s
+[28.05.2016 15:35:07] ImVexy: s
+[28.05.2016 15:35:53] ImVexy: s
+[28.05.2016 15:35:59] ImVexy: hmm
+[28.05.2016 15:36:25] ImVexy: s
+[28.05.2016 15:36:36] ImVexy: Well
+[28.05.2016 15:36:59] ImVexy: s
+[29.05.2016 07:13:30] ImVexy: s
+[29.05.2016 07:13:34] ImVexy: hmm
+[29.05.2016 07:13:48] ImVexy: s
+[29.05.2016 07:16:46] ImVexy: s
+[03.06.2016 14:35:13] ImVexy: s
+[03.06.2016 15:46:40] ImVexy: ./createkit Timmy 266
+[03.06.2016 15:50:51] Shoving: ekit
+[03.06.2016 17:06:34] ImVexy: s
+[04.06.2016 14:33:21] VexyIsSmexy: s
+[19.06.2016 16:45:59] ImVexy: s
+[19.06.2016 16:46:11] ImVexy: s
+[23.06.2016 23:04:12] ImVexy: s
+[23.06.2016 23:04:22] ImVexy: lolz
+[23.06.2016 23:04:29] ImVexy: hmm
+[23.06.2016 23:04:49] ImVexy: s
+[23.06.2016 23:11:16] ImVexy: s
+[23.06.2016 23:18:05] ImVexy: s]wrw]w]
+[23.06.2016 23:21:04] ImVexy: s
+[24.06.2016 10:27:43] ImVexy: lolz
+[24.06.2016 10:48:31] ImVexy: s
+[24.06.2016 10:50:15] ImVexy: lolz
+[24.06.2016 10:53:55] ImVexy: lol
+[24.06.2016 11:22:51] ImVexy: s
+[24.06.2016 11:23:52] ImVexy: s
+[24.06.2016 11:23:54] ImVexy: s
+[24.06.2016 11:25:13] ImVexy: s
+[26.06.2016 02:21:01] ImVexy: s
+[26.06.2016 02:21:04] ImVexy: s
+[26.06.2016 02:25:59] ImVexy: s
+[02.07.2016 18:57:14] ImVexy: s
+[08.07.2016 21:46:57] ImVexy: s
+[08.07.2016 21:46:59] ImVexy: :D
+[08.07.2016 21:47:14] ImVexy: .\
+[08.07.2016 21:47:46] ImVexy: ;D
+[23.07.2016 15:47:36] ImVexy: lolol
+[23.07.2016 16:02:40] ImVexy: s
+[23.07.2016 16:02:42] ImVexy: lolol
+[11.08.2016 12:30:05] ImVexy: s
+[11.08.2016 12:30:18] ImVexy: s
+[11.08.2016 12:30:20] ImVexy: rip
+[11.08.2016 12:30:23] ImVexy: server
+[12.08.2016 20:46:41] ImVexy: s
+[16.08.2016 13:25:35] ImVexy: s
+[16.08.2016 13:25:39] ImVexy: lolol
+[18.08.2016 19:59:16] ImVexy: s
+[24.08.2016 05:20:26] ImVexy: s
+[05.02.2018 11:30:13] _gamerking_: l
+[06.02.2018 11:27:50] _gamerking_: ?
+[06.02.2018 11:31:16] _gamerking_: ?
+[06.02.2018 11:31:43] _gamerking_: ?
+[06.02.2018 11:33:09] _gamerking_: ?
+[06.02.2018 11:35:09] _gamerking_: ?
+[06.02.2018 11:35:12] _gamerking_: ?
+[06.02.2018 11:35:15] _gamerking_: ?
+[06.02.2018 12:01:20] _gamerking_: m
+[06.02.2018 12:04:36] _gamerking_: l
+[06.02.2018 12:32:56] _gamerking_: l
+[06.02.2018 12:51:42] _gamerking_: ?
+[06.02.2018 12:51:56] _gamerking_: l
+[06.02.2018 19:00:00] _gamerking_: l
+[07.02.2018 09:08:03] _gamerking_: l
+[07.02.2018 09:08:44] _gamerking_: g
+[07.02.2018 10:07:04] _gamerking_: ?
+[07.02.2018 10:48:21] _gamerking_: ?
+[07.02.2018 10:57:18] _gamerking_: lag
+[08.02.2018 09:07:46] _gamerking_: l
+[08.02.2018 09:08:19] _gamerking_: kkk
+[08.02.2018 10:21:56] _gamerking_: ?
+[08.02.2018 10:45:49] _gamerking_: ?
+[09.02.2018 10:00:45] sherwin13: hi?
+[09.02.2018 10:01:06] sherwin13: bro?
+[09.02.2018 10:01:21] sherwin13: _gamerking_
+[09.02.2018 10:02:10] _gamerking_: back
+[09.02.2018 10:02:13] sherwin13: hi
+[09.02.2018 10:02:30] sherwin13: wow
+[09.02.2018 10:02:36] _gamerking_: hey
+[09.02.2018 10:02:41] sherwin13: Apply?
+[09.02.2018 10:02:47] sherwin13: sir
+[09.02.2018 10:02:55] _gamerking_: where are you from?
+[09.02.2018 10:02:57] sherwin13: Wow nice.
+[09.02.2018 10:03:07] sherwin13: Admin or helper.
+[09.02.2018 10:03:18] sherwin13: Im a pilipino?
+[09.02.2018 10:03:23] sherwin13: haah
+[09.02.2018 10:03:24] _gamerking_: where are you from?
+[09.02.2018 10:03:39] _gamerking_: ah pinoy din
+[09.02.2018 10:03:41] sherwin13: Philipines.
+[09.02.2018 10:03:46] sherwin13: hah
+[09.02.2018 10:03:59] _gamerking_: server is still unfinish
+[09.02.2018 10:04:08] _gamerking_: alam mo na
+[09.02.2018 10:04:23] sherwin13: Tulungan kita?
+[09.02.2018 10:04:31] _gamerking_: ngayon ko lang ginagawa a=ulit ang server
+[09.02.2018 10:04:42] sherwin13: Bukas ppo?
+[09.02.2018 10:04:53] sherwin13: What your name in facebook.
+[09.02.2018 10:05:14] _gamerking_: cge sure..pero this server is just a beta..
+[09.02.2018 10:05:18] sherwin13: sir
+[09.02.2018 10:05:32] sherwin13: Anong beta?
+[09.02.2018 10:05:38] _gamerking_: may isa pa kaming server..
+[09.02.2018 10:05:44] sherwin13: Ok lng.
+[09.02.2018 10:05:46] _gamerking_: beta o test server
+[09.02.2018 10:05:54] sherwin13: ok
+[09.02.2018 10:06:19] _gamerking_: join ka dun tapos na server na yun..kaso di ako owner..admin lang
+[09.02.2018 10:06:39] sherwin13: Tol bukas anong oras ka mag oonline?
+[09.02.2018 10:07:05] sherwin13: sige
+[09.02.2018 10:07:09] _gamerking_: ahm umaga cguro mga lunch
+[09.02.2018 10:07:26] sherwin13: Sige bubukas ako bukas na lng tol wala ana akong pera.
+[09.02.2018 10:07:31] sherwin13: bye
+[09.02.2018 10:07:31] _gamerking_: opps yung shop pala
+[09.02.2018 10:24:26] _gamerking_: k
+[09.02.2018 10:27:27] _gamerking_: l
+[09.02.2018 10:27:43] _gamerking_: k
+[09.02.2018 10:43:57] _gamerking_: l
+[10.02.2018 02:21:30] jrshag: *****
+[10.02.2018 02:21:35] jrshag: Potang ina mo.
+[10.02.2018 02:21:45] jrshag: Bilat ina mo bisaya.
+[10.02.2018 02:21:54] jrshag: Adoasdlk;a.
+[10.02.2018 02:21:55] jrshag: ad
+[10.02.2018 02:21:56] jrshag: as
+[10.02.2018 02:21:58] jrshag: a
+[10.02.2018 02:22:01] jrshag: *****
+[10.02.2018 02:22:08] jrshag: Hgjsauyuhysddhufds.
+[10.02.2018 02:22:14] jrshag: Jfhdshjfhdsfuysuyfsfhsdhfjhsdjhfsjdhfjbdsfhjdshfbsfjjtydasydhngsaydassjd.
+[10.02.2018 02:22:22] jrshag: Ang ina.
+[10.02.2018 02:22:28] jrshag: Tgago.
+[10.02.2018 02:22:32] jrshag: fvck
+[10.02.2018 02:22:42] jrshag: T/tpa DA77
+[10.02.2018 02:22:52] jrshag: aw
+[10.02.2018 02:23:43] jrshag: a
+[10.02.2018 02:23:45] jrshag: ad
+[10.02.2018 02:23:45] jrshag: a
+[10.02.2018 02:23:46] jrshag: aw
+[10.02.2018 02:24:01] [CMD] jrshag: /tell DA77 *****
+[10.02.2018 02:24:05] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 02:24:14] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 02:24:14] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 02:24:14] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 02:24:15] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 02:24:15] [CMD] jrshag: /tell DA77 *****you
+[10.02.2018 11:18:07] _gamerking_: l
+[10.02.2018 11:20:06] _gamerking_: ?
+[10.02.2018 11:24:07] _gamerking_: ?
+[10.02.2018 11:29:03] _gamerking_: ?
+[10.02.2018 23:55:23] Goku: wew
+[11.02.2018 05:32:03] Sabrina: test
+[11.02.2018 05:32:16] Sabrina: hi
+[11.02.2018 05:34:10] Sabrina: test
+[11.02.2018 11:09:51] _gamerking_: l
+[11.02.2018 11:10:15] _gamerking_: ?
+[12.02.2018 08:40:01] MCtest: whta
+[12.02.2018 08:40:10] MCtest: ?
+[12.02.2018 08:40:36] MCtest: l
+[12.02.2018 08:41:04] MCtest: ll
+[12.02.2018 09:39:34] Sabrina: test
+[12.02.2018 18:24:51] _gamerking_: l
+[12.02.2018 23:06:57] Sabrina: test
+[13.02.2018 08:43:13] MCtest: l
+[13.02.2018 08:44:22] MCtest: kk
+[13.02.2018 09:05:52] sherwin13: Nasaan ung owner.
+[13.02.2018 10:10:57] MCtest: k
+[13.02.2018 10:35:36] MCtest: ping
+[13.02.2018 19:29:14] painfullpvpl: yes

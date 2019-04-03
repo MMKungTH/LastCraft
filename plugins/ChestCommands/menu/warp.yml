@@ -1,0 +1,82 @@
+######################
+#+                  +#
+#   MENU SETTINGS    #
+#+                  +#
+######################
+
+menu-settings:
+
+  # name - appears as the title - REQUIRED
+  name: '&a&lWARPS'
+
+  # rows - the number of rows of the chest - REQUIRED
+  rows: 1
+
+  # command - OPTIONAL (you can remove this or set it to '')
+  # Bind multiple commands using ; (command: 'menu; m; me')
+  command: 'warp; warps; '
+
+  # auto-refresh - OPTIONAL
+  # How frequently the menu will be refreshed, in seconds.
+  # Useful if you have variables in items' descriptions.
+  auto-refresh: 5
+
+  # This command command will be execute when the menu is opened.
+  # Supports all the icon command types.
+  open-action: 'sound: note pling'
+
+  # open-with-item - OPTIONAL
+  # The menu will open only right-clicking with orange wool [35:1]
+  open-with-item:
+    id: wool:1
+    left-click: false
+    right-click: false
+
+
+######################
+#+                  +#
+#       ITEMS        #
+#+                  +#
+######################
+
+
+Shop:
+  COMMAND: 'warp crates'
+  NAME: '&2Crates'
+  LORE:
+    - '&7You can get crates by either'
+    - '&7voting or with &a/buy&7!'
+  ID: chest
+  POSITION-X: 3
+  POSITION-Y: 1
+
+Shop1:
+  COMMAND: 'warp shop'
+  NAME: '&2Shop'
+  LORE:
+    - '&7You can buy and'
+    - '&7sell your items for money!'
+  ID: sign
+  POSITION-X: 5
+  POSITION-Y: 1
+
+PVP:
+  COMMAND: 'warp pvp'
+  NAME: '&2PVP Arena'
+  LORE:
+    - '&7You can PVP here!'
+    - '&7you can also buy potions'
+  ID: 276
+  POSITION-X: 7
+  POSITION-Y: 1
+
+End:
+  COMMAND: 'warp end'
+  NAME: '&2End'
+  LORE:
+    - '&7Fight Dragon!'
+    - '&7fight or die trying'
+  ID: 49
+  POSITION-X: 9
+  POSITION-Y: 1
+

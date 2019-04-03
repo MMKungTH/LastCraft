@@ -1,0 +1,698 @@
+Java HotSpot(TM) 64-Bit Server VM warning: ignoring option MaxPermSize=128M; support was removed in 8.0
+[WARNING] Initial attempt to file ourselves failed, attempted method #2. This may silently fail, if on Windows, slots will not work.
+[INFO] MC Server loading! Waiting 10 seconds, then injecting agent... (if slots >= 0)
+Loading libraries, please wait...
+[07:00:09 INFO]: Starting minecraft server version 1.8.8
+[07:00:09 INFO]: Loading properties
+[07:00:09 INFO]: Default game type: SURVIVAL
+[07:00:09 INFO]: This server is running CraftBukkit version git-Spigot-21fe707-e1ebe52 (MC: 1.8.8) (Implementing API version 1.8.8-R0.1-SNAPSHOT)
+[07:00:10 INFO]: Server Ping Player Sample Count: 12
+[07:00:10 INFO]: Using 4 threads for Netty based IO
+[07:00:10 INFO]: Debug logging is disabled
+[07:00:10 INFO]: Generating keypair
+[07:00:10 INFO]: Starting Minecraft server on *:41878
+[07:00:10 INFO]: Using epoll channel type
+[07:00:11 INFO]: Set PluginClassLoader as parallel capable
+[07:00:12 INFO]: [Revenge] Loading Revenge v7.3.1
+[07:00:12 INFO]: [PlaceholderAPI] Loading PlaceholderAPI v2.8.2
+[07:00:12 INFO]: [GUIShop] Loading GUIShop v4.2.2
+[07:00:12 INFO]: [VoxelSniper] Loading VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[07:00:12 INFO]: [TradePlus] Loading TradePlus v2.33
+[07:00:12 INFO]: [EditableSign] Loading EditableSign v1.2.7
+[07:00:12 INFO]: [NoteBlockAPI] Loading NoteBlockAPI v1.1.0
+[07:00:12 INFO]: [ViaVersion] Loading ViaVersion v1.3.0
+[07:00:12 INFO]: [ViaVersion] ViaVersion 1.3.0 is now loaded, injecting!
+[07:00:12 INFO]: [Tablist] Loading Tablist v1.3.2.9
+[07:00:12 INFO]: [AsyncWorldEditInjector] Loading AsyncWorldEditInjector v2.3.0
+[07:00:12 INFO]: [PlayerHeads] Loading PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[07:00:12 INFO]: [WorldEdit] Loading WorldEdit v6.1.1-SNAPSHOT;3501-c85c9f7
+[07:00:12 INFO]: [Essentials] Loading Essentials vTeamCity
+[07:00:12 INFO]: [VeinMiner] Loading VeinMiner v1.11.3
+[07:00:12 INFO]: [ClearLag] Loading ClearLag v2.9.7
+[07:00:12 INFO]: [ChatControl] Loading ChatControl v5.6.2
+[07:00:12 INFO]: [WorldBorder] Loading WorldBorder v1.8.4
+[07:00:12 INFO]: [FactionsBreak] Loading FactionsBreak v1.0
+[07:00:12 INFO]: [Votifier] Loading Votifier v1.9
+[07:00:12 INFO]: [Multiverse-Core] Loading Multiverse-Core v2.4-b527
+[07:00:12 INFO]: [ProtocolLib] Loading ProtocolLib v4.2.1
+[07:00:12 INFO]: [KitAdder] Loading KitAdder v2.3
+[07:00:12 INFO]: [MVdWPlaceholderAPI] Loading MVdWPlaceholderAPI v2.3.1
+[07:00:12 INFO]: [AsyncWorldEdit] Loading AsyncWorldEdit v2.3.1
+[07:00:12 INFO]: [ObsidianBreak] Loading ObsidianBreak v1.0
+[07:00:12 INFO]: [PermissionsEx] Loading PermissionsEx v1.23.4
+[07:00:12 WARN]: [PermissionsEx] This server is in offline mode. Unless this server is configured to integrate with a supported proxy (see http://dft.ba/-8ous), UUIDs *may not be stable*!
+[07:00:12 INFO]: [Corpses] Loading Corpses v2.2
+[07:00:12 INFO]: [NoWeather] Loading NoWeather v2.1
+[07:00:12 INFO]: [mcMMO] Loading mcMMO v1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+[07:00:12 INFO]: [ActionAnnouncer] Loading ActionAnnouncer v1.9.1
+[07:00:12 INFO]: [GAListener] Loading GAListener v1.3.1
+[07:00:12 INFO]: [Vault] Loading Vault v1.5.6-b49
+[07:00:12 INFO]: [ServerListPlus] Loading ServerListPlus v3.4.8
+[07:00:12 INFO]: [BetterDrops] Loading BetterDrops v2.5.2
+[07:00:12 INFO]: [MassiveCore] Loading MassiveCore v2.8.2
+[07:00:12 INFO]: TimeUnit.MILLIS_PER_MINUTE: 60000
+[07:00:12 INFO]: [Rankup] Loading Rankup v2.6d
+[07:00:12 INFO]: [EpicRename] Loading EpicRename v2.3
+[07:00:12 INFO]: [HolographicDisplays] Loading HolographicDisplays v2.2.6
+[07:00:12 INFO]: [WorldGuard] Loading WorldGuard v6.2.1;84bc322
+[07:00:12 INFO]: [AuctionHouse] Loading AuctionHouse v1.4.5
+[07:00:12 INFO]: [ChestCommands] Loading ChestCommands v3.1.1
+[07:00:12 INFO]: [EpicWorldGenerator] Loading EpicWorldGenerator v7.2.18
+[07:00:14 INFO]: [RandomTeleport] Loading RandomTeleport v5.0.2
+[07:00:14 INFO]: [PlayerVaults] Loading PlayerVaults v3.5.6-b181
+[07:00:14 INFO]: [EssentialsSpawn] Loading EssentialsSpawn vTeamCity
+[07:00:14 INFO]: [MyCommand] Loading MyCommand v5.3.4
+[07:00:14 INFO]: [PerPlayerBlood] Loading PerPlayerBlood v2.6
+[07:00:14 INFO]: [SpawnerShop] Loading SpawnerShop v3.2
+[07:00:14 INFO]: [ChangeSkin] Loading ChangeSkin v3.0
+[07:00:14 INFO]: [Banknotes] Loading Banknotes v1.8.0
+[07:00:14 INFO]: [CrateReloaded] Loading CrateReloaded v1.3.27
+[07:00:14 INFO]: [Citizens] Loading Citizens v2.0.16-SNAPSHOT (build 1267)
+[07:00:14 INFO]: [MergedMob] Loading MergedMob v11.9.3
+[07:00:14 INFO]: [AuthMe] Loading AuthMe v5.4.0-b1877
+[07:00:14 INFO]: [Factions] Loading Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}
+[07:00:14 INFO]: [CommandNPC] Loading CommandNPC v1.7.2
+[07:00:14 INFO]: [CombatLog] Loading CombatLog v1.8.11-hack
+[07:00:14 INFO]: [FBasics] Loading FBasics v2.1.6
+[07:00:14 INFO]: [SilkSpawners] Loading SilkSpawners v5.0.0
+[07:00:14 INFO]: [CrazyEnchantments] Loading CrazyEnchantments v1.6.5.1
+[07:00:14 INFO]: [AsyncWorldEditInjector] Enabling AsyncWorldEditInjector v2.3.0
+[07:00:14 INFO]: [AsyncWorldEditInjector] Injector platform set to: InjectorBukkit
+[07:00:14 INFO]: [AsyncWorldEditInjector] Injecting WorldEdit classes...
+[07:00:14 INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.EditSession injected.
+[07:00:14 INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.function.operation.Operations injected.
+[07:00:14 INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.SchematicCommands injected.
+[07:00:14 INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.ScriptingCommands injected.
+[07:00:14 INFO]: [AsyncWorldEditInjector] Class com.sk89q.worldedit.command.RegionCommands injected.
+[07:00:14 INFO]: [AsyncWorldEditInjector] Enabled
+[07:00:14 INFO]: [ProtocolLib] Enabling ProtocolLib v4.2.1
+[07:00:14 INFO]: [ProtocolLib] Started structure compiler thread.
+[07:00:14 INFO]: [mcMMO] Enabling mcMMO v1.5.04-SNAPSHOT-b${BUILD_NUMBER}
+[07:00:16 INFO]: [Vault] Enabling Vault v1.5.6-b49
+[07:00:16 INFO]: [Vault] [Economy] Essentials Economy found: Waiting
+[07:00:16 INFO]: [Vault] [Permission] PermissionsEx found: Waiting
+[07:00:16 INFO]: [Vault] [Permission] SuperPermissions loaded as backup permission system.
+[07:00:16 INFO]: [Vault] [Chat] PermissionsEx found: Waiting
+[07:00:16 INFO]: [Vault] Enabled Version 1.5.6-b49
+[07:00:16 INFO]: [MassiveCore] Enabling MassiveCore v2.8.2
+[07:00:16 INFO]: [MassiveCore 2.8.2] === ENABLE START ===
+[07:00:16 INFO]: [MassiveCore 2.8.2] Loading Cachefile datas...
+[07:00:16 INFO]: [MassiveCore 2.8.2] Loading Onlineplayer datas...
+[07:00:16 INFO]: [MassiveCore 2.8.2] Loading Registry datas...
+[07:00:16 INFO]: [MassiveCore 2.8.2] Saving Cachefile...
+[07:00:16 INFO]: [MassiveCore 2.8.2] Setup of IdUtil took 53ms.
+[07:00:16 INFO]: [MassiveCore 2.8.2] Activated integration with Vault
+[07:00:16 INFO]: [MassiveCore 2.8.2] === ENABLE COMPLETE (Took 358ms) ===
+[07:00:16 INFO]: [EpicWorldGenerator] Enabling EpicWorldGenerator v7.2.18
+[07:00:16 INFO]:  
+[07:00:16 INFO]:  
+[07:00:16 INFO]:   _                              __
+[07:00:16 INFO]:  |_ ._  o  _ \    / _  ._ |  _| /__  _  ._   _  ._ _. _|_  _  ._ 
+[07:00:16 INFO]:  |_ |_) | (_  \/\/ (_) |  | (_| \_| (/_ | | (/_ | (_|  |_ (_) |  
+[07:00:16 INFO]:     |       
+[07:00:16 INFO]:  
+[07:00:16 INFO]:               Version 7.2.18 | Cracked by cm@BlackSpigotMC
+[07:00:16 INFO]:  
+[07:00:16 INFO]:  Documentation can be found at http://discuss.dynamic-bytes.com/p/1-wiki
+[07:00:16 INFO]:  
+[07:00:16 INFO]:  
+[07:00:16 INFO]:   > Loading structures (.EWG schematics)
+[07:00:18 INFO]:     - TREES_jungle_normal
+[07:00:18 INFO]:     - DECO_portals_204
+[07:00:18 INFO]:     - DECO_rock_25
+[07:00:18 INFO]:     - DECO_rock_19
+[07:00:18 INFO]:     - TREES_tropicalForest_medium_2
+[07:00:18 INFO]:     - TREES_willow_small
+[07:00:18 INFO]:     - TREES_forgottenForest_normal_2
+[07:00:18 INFO]:     - DECO_desert_tower
+[07:00:18 INFO]:     - TREES_bonsai_big
+[07:00:18 INFO]:     - TREES_forgottenForest_normal_3
+[07:00:18 INFO]:     - TREES_fantasy_small_3
+[07:00:18 INFO]:     - TREES_dead_huge
+[07:00:18 INFO]:     - TREES_dead_normal
+[07:00:18 INFO]:     - TREES_forgottenForest_medium
+[07:00:18 INFO]:     - TREES_willow_tiny_3
+[07:00:18 INFO]:     - TREES_willow_normal
+[07:00:18 INFO]:     - TREES_pine_medium
+[07:00:18 INFO]:     - TREES_bonsai_tiny
+[07:00:18 INFO]:     - TREES_scotsPine_normal_10
+[07:00:18 INFO]:     - TREES_stoneForest_normal_2
+[07:00:18 INFO]:     - TREES_bonsai_normal_2
+[07:00:18 INFO]:     - TREES_fantasy_small_2
+[07:00:18 INFO]:     - TREES_pine_huge
+[07:00:18 INFO]:     - TREES_nether_normal
+[07:00:18 INFO]:     - TREES_bonsai_medium
+[07:00:18 INFO]:     - TREES_birch_normal
+[07:00:18 INFO]:     - TREES_scotsPine_normal_6
+[07:00:18 INFO]:     - TREES_jungle_big
+[07:00:18 INFO]:     - DECO_rock_24
+[07:00:18 INFO]:     - TREES_scotsPine_normal_11
+[07:00:18 INFO]:     - TREES_tropicalForest_medium_1
+[07:00:18 INFO]:     - TREES_jungle_normal_3
+[07:00:18 INFO]:     - TREES_birch_normal_3
+[07:00:18 INFO]:     - TREES_bonsai_normal
+[07:00:18 INFO]:     - TREES_jungle_small
+[07:00:18 INFO]:     - DECO_rock_10
+[07:00:18 INFO]:     - TREES_jungle_small_3
+[07:00:18 INFO]:     - TREES_scotsPine_normal_8
+[07:00:18 INFO]:     - TREES_tropicalForest_medium_3
+[07:00:18 INFO]:     - TREES_forgottenForest_medium_4
+[07:00:18 INFO]:     - DECO_rock_02
+[07:00:18 INFO]:     - TREES_bonsai_big_3
+[07:00:18 INFO]:     - TREES_jungle_normal_2
+[07:00:18 INFO]:     - DECO_jungle_tower
+[07:00:18 INFO]:     - DECO_rock_03
+[07:00:18 INFO]:     - TREES_bonsai_medium_2
+[07:00:18 INFO]:     - TREES_pine_normal
+[07:00:18 INFO]:     - TREES_jungle_medium
+[07:00:18 INFO]:     - TREES_tropicalForest_small_1
+[07:00:18 INFO]:     - TREES_willow_big_2
+[07:00:18 INFO]:     - DECO_forest_house
+[07:00:18 INFO]:     - DECO_rock_20
+[07:00:18 INFO]:     - TREES_dead_normal_2
+[07:00:18 INFO]:     - TREES_fantasy_small
+[07:00:18 INFO]:     - DECO_rock_21
+[07:00:18 INFO]:     - TREES_bonsai_small
+[07:00:18 INFO]:     - DECO_rock_01
+[07:00:18 INFO]:     - TREES_stoneForest_normal
+[07:00:18 INFO]:     - TREES_jungle_huge
+[07:00:18 INFO]:     - TREES_birch_normal_2
+[07:00:18 INFO]:     - TREES_willow_medium
+[07:00:18 INFO]:     - TREES_willow_tiny
+[07:00:18 INFO]:     - TREES_dead_medium_2
+[07:00:18 INFO]:     - TREES_scotsPine_normal_9
+[07:00:18 INFO]:     - TREES_dead_big
+[07:00:18 INFO]:     - TREES_willow_big
+[07:00:18 INFO]:     - TREES_forgottenForest_medium_5
+[07:00:18 INFO]:     - DECO_rock_22
+[07:00:18 INFO]:     - TREES_pine_small
+[07:00:18 INFO]:     - TREES_pine_tiny
+[07:00:18 INFO]:     - TREES_pine_normal_2
+[07:00:18 INFO]:     - TREES_pine_tiny_2
+[07:00:18 INFO]:     - TREES_pine_small_3
+[07:00:18 INFO]:     - DECO_rock_18
+[07:00:18 INFO]:     - DECO_rock_23
+[07:00:18 INFO]:     - TREES_pine_big
+[07:00:18 INFO]:     - TREES_pine_small_2
+[07:00:18 INFO]:     - DECO_rock_17
+[07:00:18 INFO]:     - TREES_jungle_normal_4
+[07:00:18 INFO]:     - TREES_tropicalForest_medium_4
+[07:00:18 INFO]:     - TREES_fantasy_normal
+[07:00:18 INFO]:     - TREES_bonsai_big_2
+[07:00:18 INFO]:     - TREES_dead_medium
+[07:00:18 INFO]:     - TREES_fantasy_normal_2
+[07:00:18 INFO]:     - TREES_stoneForest_normal_3
+[07:00:18 INFO]:     - DECO_rock_04
+[07:00:18 INFO]:     - TREES_willow_huge
+[07:00:18 INFO]:     - TREES_jungle_small_2
+[07:00:18 INFO]:     - TREES_scotsPine_normal_12
+[07:00:18 INFO]:     - TREES_willow_medium_2
+[07:00:18 INFO]:     - TREES_bonsai_huge
+[07:00:18 INFO]:     - TREES_willow_tiny_2
+[07:00:18 INFO]:     - TREES_birch_normal_4
+[07:00:18 INFO]:  
+[07:00:18 INFO]:   > Loading configuration
+[07:00:18 INFO]: [MVdW] EpicWorldGenerator added custom placeholder {ewgbiome}
+[07:00:18 INFO]:  
+[07:00:18 INFO]: Done
+[07:00:18 WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[07:00:18 WARN]: The server will make no attempt to authenticate usernames. Beware.
+[07:00:18 WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[07:00:18 WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[07:00:18 INFO]: **** Beginning UUID conversion, this may take A LONG time ****
+[07:00:18 INFO]: Preparing level "world"
+[07:00:18 INFO]: -------- World Settings For [world] --------
+[07:00:18 INFO]: Random Lighting Updates: false
+[07:00:18 INFO]: Structure Info Saving: true
+[07:00:18 INFO]: Sending up to 10 chunks per packet
+[07:00:18 INFO]: Max Entity Collisions: 8
+[07:00:18 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:00:18 INFO]: Max TNT Explosions: 100
+[07:00:18 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:00:18 INFO]: Cactus Growth Modifier: 100%
+[07:00:18 INFO]: Cane Growth Modifier: 100%
+[07:00:18 INFO]: Melon Growth Modifier: 100%
+[07:00:18 INFO]: Mushroom Growth Modifier: 100%
+[07:00:18 INFO]: Pumpkin Growth Modifier: 100%
+[07:00:18 INFO]: Sapling Growth Modifier: 100%
+[07:00:18 INFO]: Wheat Growth Modifier: 100%
+[07:00:18 INFO]: NetherWart Growth Modifier: 100%
+[07:00:18 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:00:18 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:00:18 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:00:18 INFO]: Mob Spawn Range: 4
+[07:00:18 INFO]: Anti X-Ray: true
+[07:00:18 INFO]:        Engine Mode: 1
+[07:00:18 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:00:18 INFO]:        Replace Blocks: [1, 5]
+[07:00:18 INFO]: Nerfing mobs spawned from spawners: false
+[07:00:18 INFO]: View Distance: 10
+[07:00:18 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:00:18 INFO]: Item Despawn Rate: 6000
+[07:00:18 INFO]: Item Merge Radius: 2.5
+[07:00:18 INFO]: Arrow Despawn Rate: 1200
+[07:00:18 INFO]: Zombie Aggressive Towards Villager: true
+[07:00:18 INFO]: Chunks to Grow per Tick: 650
+[07:00:18 INFO]: Clear tick list: false
+[07:00:18 INFO]: Experience Merge Radius: 3.0
+[07:00:19 INFO]: CUSTOM TERRAIN: Scots pine forest
+[07:00:19 INFO]: ~~~~~~~~~~~~[ EWG Settings for world ]~~~~~~~~~~~~
+[07:00:19 INFO]: Biomes that will generated;
+[07:00:19 INFO]:  * Mesa
+[07:00:19 INFO]:  * Tropical Forest
+[07:00:19 INFO]:  * Deciduous Forest
+[07:00:19 INFO]:  * River
+[07:00:19 INFO]:  * Deep Ocean
+[07:00:19 INFO]:  * Birch Forest
+[07:00:19 INFO]:  * Fantasy Forest
+[07:00:19 INFO]:  * Bonsai Forest
+[07:00:19 INFO]:  * Pine Forest 2
+[07:00:19 INFO]:  * Pine Forest
+[07:00:19 INFO]:  * Plains
+[07:00:19 INFO]:  * Bonsai Forest
+[07:00:19 INFO]:  * Jungle
+[07:00:19 INFO]:  * Desert
+[07:00:19 INFO]:  * Ocean
+[07:00:19 INFO]:  * Forgotten Forest
+[07:00:19 INFO]:  * Stone Forest
+[07:00:19 INFO]:  * Scots pine forest
+[07:00:19 INFO]: Generator version: 7.2.18
+[07:00:19 INFO]: Biomes in total: 18
+[07:00:19 INFO]: Preparing world injection
+[07:00:19 INFO]: -------- World Settings For [world_nether] --------
+[07:00:19 INFO]: Random Lighting Updates: false
+[07:00:19 INFO]: Structure Info Saving: true
+[07:00:19 INFO]: Sending up to 10 chunks per packet
+[07:00:19 INFO]: Max Entity Collisions: 8
+[07:00:19 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:00:19 INFO]: Max TNT Explosions: 100
+[07:00:19 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:00:19 INFO]: Cactus Growth Modifier: 100%
+[07:00:19 INFO]: Cane Growth Modifier: 100%
+[07:00:19 INFO]: Melon Growth Modifier: 100%
+[07:00:19 INFO]: Mushroom Growth Modifier: 100%
+[07:00:19 INFO]: Pumpkin Growth Modifier: 100%
+[07:00:19 INFO]: Sapling Growth Modifier: 100%
+[07:00:19 INFO]: Wheat Growth Modifier: 100%
+[07:00:19 INFO]: NetherWart Growth Modifier: 100%
+[07:00:19 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:00:19 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:00:19 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:00:19 INFO]: Mob Spawn Range: 4
+[07:00:19 INFO]: Anti X-Ray: true
+[07:00:19 INFO]:        Engine Mode: 1
+[07:00:19 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:00:19 INFO]:        Replace Blocks: [1, 5]
+[07:00:19 INFO]: Nerfing mobs spawned from spawners: false
+[07:00:19 INFO]: View Distance: 10
+[07:00:19 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:00:19 INFO]: Item Despawn Rate: 6000
+[07:00:19 INFO]: Item Merge Radius: 2.5
+[07:00:19 INFO]: Arrow Despawn Rate: 1200
+[07:00:19 INFO]: Zombie Aggressive Towards Villager: true
+[07:00:19 INFO]: Chunks to Grow per Tick: 650
+[07:00:19 INFO]: Clear tick list: false
+[07:00:19 INFO]: Experience Merge Radius: 3.0
+[07:00:19 INFO]: -------- World Settings For [world_the_end] --------
+[07:00:19 INFO]: Random Lighting Updates: false
+[07:00:19 INFO]: Structure Info Saving: true
+[07:00:19 INFO]: Sending up to 10 chunks per packet
+[07:00:19 INFO]: Max Entity Collisions: 8
+[07:00:19 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:00:19 INFO]: Max TNT Explosions: 100
+[07:00:19 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:00:19 INFO]: Cactus Growth Modifier: 100%
+[07:00:19 INFO]: Cane Growth Modifier: 100%
+[07:00:19 INFO]: Melon Growth Modifier: 100%
+[07:00:19 INFO]: Mushroom Growth Modifier: 100%
+[07:00:19 INFO]: Pumpkin Growth Modifier: 100%
+[07:00:19 INFO]: Sapling Growth Modifier: 100%
+[07:00:19 INFO]: Wheat Growth Modifier: 100%
+[07:00:19 INFO]: NetherWart Growth Modifier: 100%
+[07:00:19 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:00:19 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:00:19 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:00:19 INFO]: Mob Spawn Range: 4
+[07:00:19 INFO]: Anti X-Ray: true
+[07:00:19 INFO]:        Engine Mode: 1
+[07:00:19 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:00:19 INFO]:        Replace Blocks: [1, 5]
+[07:00:19 INFO]: Nerfing mobs spawned from spawners: false
+[07:00:19 INFO]: View Distance: 10
+[07:00:19 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:00:19 INFO]: Item Despawn Rate: 6000
+[07:00:19 INFO]: Item Merge Radius: 2.5
+[07:00:19 INFO]: Arrow Despawn Rate: 1200
+[07:00:19 INFO]: Zombie Aggressive Towards Villager: true
+[07:00:19 INFO]: Chunks to Grow per Tick: 650
+[07:00:19 INFO]: Clear tick list: false
+[07:00:19 INFO]: Experience Merge Radius: 3.0
+[07:00:19 INFO]: Preparing start region for level 0 (Seed: -8013875772503020374)
+[07:00:20 INFO]: Preparing spawn area: 87%
+[07:00:20 INFO]: Preparing start region for level 1 (Seed: 460172196875366715)
+[07:00:21 INFO]: Preparing start region for level 2 (Seed: 460172196875366715)
+[07:00:21 INFO]: [Revenge] Enabling Revenge v7.3.1
+[07:00:21 INFO]: [Revenge] Citizens hooked!
+[07:00:21 INFO]: [Revenge] Particle set ! / Name: CRIT / Count: 3 / Speed: 0.1 / dX: 0.5 / dY: 0.3 / dZ: 0.5 / Arg1: 0 / Arg2: 0 / Arg3: 0 / type: Basic particle
+[07:00:21 INFO]: [Revenge] Disable Worlds: It appears that you have no world named "example" on your server.
+[07:00:21 INFO]: [PlaceholderAPI] Enabling PlaceholderAPI v2.8.2
+[07:00:21 INFO]: [PlaceholderAPI] Placeholder expansion registration initializing...
+[07:00:21 INFO]: [PlaceholderAPI] Successfully registered expansion: vault
+[07:00:21 INFO]: [PlaceholderAPI] Successfully registered expansion: server
+[07:00:21 INFO]: [PlaceholderAPI] Successfully registered expansion: factions
+[07:00:21 INFO]: [PlaceholderAPI] NMS placeholders such as %player_ping% have been enabled!
+[07:00:21 INFO]: [PlaceholderAPI] Successfully registered expansion: player
+[07:00:21 INFO]: [PlaceholderAPI] Fetching available expansion list from extendedclip.com...
+[07:00:21 INFO]: [GUIShop] Enabling GUIShop v4.2.2
+[07:00:21 INFO]: [VoxelSniper] Enabling VoxelSniper v5.170.0-SNAPSHOT-jnks317-gitfcb8fe1
+[07:00:21 INFO]: [VoxelSniper] Registered 75 Sniper Brushes with 149 handles.
+[07:00:21 INFO]: [VoxelSniper] Registered Sniper Listener.
+[07:00:21 INFO]: [TradePlus] Enabling TradePlus v2.33
+[07:00:21 INFO]: <-------------------- Trade+ -------------------->
+[07:00:21 INFO]: <          This copy is licened to 80709          >
+[07:00:21 INFO]: <------------------------------------------------>
+[07:00:21 INFO]: [EditableSign] Enabling EditableSign v1.2.7
+[07:00:21 INFO]: [EditableSign] EditableSign version 1.2.7 is Enabled
+[07:00:21 INFO]: [NoteBlockAPI] Enabling NoteBlockAPI v1.1.0
+[07:00:21 INFO]: [ViaVersion] Enabling ViaVersion v1.3.0
+[07:00:21 INFO]: [Tablist] Enabling Tablist v1.3.2.9
+[07:00:21 INFO]: Tablist> You have installed PlaceholderAPI feel free to use it !
+[07:00:21 INFO]: Tablist> Tablist v1.3.2.9 enabled!!
+[07:00:21 INFO]: [PlayerHeads] Enabling PlayerHeads v3.10-SNAPSHOT-jenkins-PlayerHeads-1-61-g39b94b4
+[07:00:22 INFO]: [WorldEdit] Enabling WorldEdit v6.1.1-SNAPSHOT;3501-c85c9f7
+[07:00:22 INFO]: WEPIF: Using the Bukkit Permissions API.
+[07:00:22 INFO]: [WorldEdit] Using com.sk89q.worldedit.bukkit.adapter.impl.Spigot_v1_8_R3 as the Bukkit adapter
+[07:00:22 INFO]: [Essentials] Enabling Essentials vTeamCity
+[07:00:22 INFO]: Bukkit version format changed. Version not checked.
+[07:00:22 INFO]: git-Spigot-21fe707-e1ebe52 (MC: 1.8.8)
+[07:00:22 INFO]: 1.8.8-R0.1-SNAPSHOT
+[07:00:22 INFO]: Using locale en_US
+[07:00:22 INFO]: Using locale en_US
+[07:00:22 INFO]: [Vault][Economy] Essentials Economy hooked.
+[07:00:22 INFO]: Essentials: Using config file enhanced permissions.
+[07:00:23 INFO]: Permissions listed in as player-commands will be given to all users.
+[07:00:23 INFO]: [VeinMiner] Enabling VeinMiner v1.11.3
+[07:00:23 INFO]: [VeinMiner] Registering events
+[07:00:23 INFO]: [VeinMiner] Registering commands
+[07:00:23 INFO]: [VeinMiner] Enabling Plugin Metrics
+[07:00:23 INFO]: [VeinMiner] Thank you for enabling Metrics! I greatly appreciate the use of plugin statistics
+[07:00:23 INFO]: [VeinMiner] Loading configuration options to local memory
+[07:00:23 INFO]: [VeinMiner] Unknown world found... "WorldName". Ignoring...
+[07:00:23 INFO]: [ClearLag] Enabling ClearLag v2.9.7
+[07:00:23 INFO]: [ClearLag] Loading modules...
+[07:00:23 INFO]: [ClearLag] Modules enabed, loading config values
+[07:00:23 INFO]: [ClearLag] Modules have been loaded!
+[07:00:23 INFO]: [ClearLag] Clearlag is now enabled!
+[07:00:23 INFO]: [ClearLag] Checking for updates compatible with your bukkit version [1.8]...
+[07:00:23 INFO]: [ChatControl] Enabling ChatControl v5.6.2
+[07:00:23 INFO]: Hooked into: AuthMe (Country Variables)
+[07:00:23 INFO]: Hooked into: Essentials
+[07:00:23 INFO]: Hooked into: Multiverse-Core (World Alias)
+[07:00:23 INFO]: Hooked into: ProtocolLib (Packet Features)
+[07:00:23 INFO]: Hooked into: Vault
+[07:00:23 INFO]: Hooked into: Factions
+[07:00:23 INFO]: ChatControl only supports Factions the free version v2.x
+[07:00:23 INFO]: [WorldBorder] Enabling WorldBorder v1.8.4
+[07:00:23 INFO]: [WorldBorder] [CONFIG] Using elliptic/round border, knockback of 3.0 blocks, and timer delay of 5.
+[07:00:23 INFO]: [WorldBorder] [CONFIG] Border-checking timed task started.
+[07:00:23 INFO]: [WorldBorder] [CONFIG] World "world" has border radius 12000 at X: -236.0 Z: 261.0
+[07:00:23 INFO]: [WorldBorder] [CONFIG] World "Factions" has border radius 10000 at X: -1318.9 Z: -406.5
+[07:00:23 INFO]: [WorldBorder] [CONFIG] World "NewFactions" has border radius 8000 at X: -229.5 Z: -962.8
+[07:00:23 INFO]: [WorldBorder] [CONFIG] World "Terrain1" has border radius 10000 at X: -4.2 Z: 11.8
+[07:00:23 INFO]: [WorldBorder] For reference, the main world's spawn location is at X: 367.0 Y: 71.0 Z: -668.0
+[07:00:23 INFO]: [ClearLag] No updates found!
+[07:00:23 INFO]: [FactionsBreak] Enabling FactionsBreak v1.0
+[07:00:23 INFO]: [Votifier] Enabling Votifier v1.9
+[07:00:23 INFO]: [Votifier] Votifier enabled.
+[07:00:23 INFO]: [Multiverse-Core] Enabling Multiverse-Core v2.4-b527
+[07:00:23 INFO]: [Multiverse-Core] - Version 2.4-b527 (API v14) Enabled - By Rigby, fernferret, lithium3141 and main--
+[07:00:23 INFO]: [AllPay] - Version 10.0 - hooked into Essentials Economy for Multiverse-Core v2.4-b527
+[07:00:23 INFO]: [Multiverse-Core] Loading World & Settings - 'world' - Env: NORMAL - Type: NORMAL & seed: -8013875772503020374
+[07:00:23 INFO]: [Multiverse-Core] Loading World & Settings - 'world_nether' - Env: NETHER - Type: NORMAL & seed: 460172196875366715
+[07:00:23 INFO]: [Multiverse-Core] Loading World & Settings - 'world_the_end' - Env: THE_END - Type: NORMAL & seed: 460172196875366715
+[07:00:23 INFO]: [Multiverse-Core] Loading World & Settings - 'buildsextra' - Env: NORMAL - Type: FLAT & seed: -7165224370601606865
+[07:00:23 INFO]: -------- World Settings For [buildsextra] --------
+[07:00:23 INFO]: Random Lighting Updates: false
+[07:00:23 INFO]: Structure Info Saving: true
+[07:00:23 INFO]: Sending up to 10 chunks per packet
+[07:00:23 INFO]: Max Entity Collisions: 8
+[07:00:23 INFO]: Custom Map Seeds:  Village: 10387312 Feature: 14357617
+[07:00:23 INFO]: Max TNT Explosions: 100
+[07:00:23 INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[07:00:23 INFO]: Cactus Growth Modifier: 100%
+[07:00:23 INFO]: Cane Growth Modifier: 100%
+[07:00:23 INFO]: Melon Growth Modifier: 100%
+[07:00:23 INFO]: Mushroom Growth Modifier: 100%
+[07:00:23 INFO]: Pumpkin Growth Modifier: 100%
+[07:00:23 INFO]: Sapling Growth Modifier: 100%
+[07:00:23 INFO]: Wheat Growth Modifier: 100%
+[07:00:23 INFO]: NetherWart Growth Modifier: 100%
+[07:00:23 INFO]: Entity Activation Range: An 32 / Mo 32 / Mi 16
+[07:00:23 INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Other 64
+[07:00:23 INFO]: Hopper Transfer: 8 Hopper Check: 8 Hopper Amount: 1
+[07:00:23 INFO]: Mob Spawn Range: 4
+[07:00:23 INFO]: Anti X-Ray: true
+[07:00:23 INFO]:        Engine Mode: 1
+[07:00:23 INFO]:        Hidden Blocks: [14, 15, 16, 21, 48, 49, 54, 56, 73, 74, 82, 129, 130]
+[07:00:23 INFO]:        Replace Blocks: [1, 5]
+[07:00:23 INFO]: Nerfing mobs spawned from spawners: false
+[07:00:23 INFO]: View Distance: 10
+[07:00:23 INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[07:00:23 INFO]: Item Despawn Rate: 6000
+[07:00:23 INFO]: Item Merge Radius: 2.5
+[07:00:23 INFO]: Arrow Despawn Rate: 1200
+[07:00:23 INFO]: Zombie Aggressive Towards Villager: true
+[07:00:23 INFO]: Chunks to Grow per Tick: 650
+[07:00:23 INFO]: Clear tick list: false
+[07:00:23 INFO]: Experience Merge Radius: 3.0
+[07:00:23 INFO]: Preparing start region for level 3 (Seed: -7165224370601606865)
+[07:00:23 INFO]: [Multiverse-Core] 4 - World(s) loaded.
+[07:00:23 INFO]: [KitAdder] Enabling KitAdder v2.3
+[07:00:23 INFO]: [KitAdder] KitAdder plugin has been enabled!
+[07:00:23 INFO]: [MVdWPlaceholderAPI] Enabling MVdWPlaceholderAPI v2.3.1
+[07:00:23 INFO]: [MVdWPlaceholderAPI] Initializing ...
+[07:00:23 INFO]: [AsyncWorldEdit] Enabling AsyncWorldEdit v2.3.1
+[07:00:23 INFO]: [AsyncWorldEdit] PlotMeFix set to class org.primesoft.asyncworldedit.plotme.NullFix
+[07:00:23 INFO]: [AsyncWorldEditInjector] New class factory set to: org.primesoft.asyncworldedit.injector.async.AsyncClassFactory
+[07:00:24 INFO]: [AsyncWorldEdit] Unable to check latest plugin version.
+[07:00:24 INFO]: [AsyncWorldEdit] Enabled
+[07:00:24 INFO]: [ObsidianBreak] Enabling ObsidianBreak v1.0
+[07:00:24 INFO]: [PermissionsEx] Enabling PermissionsEx v1.23.4
+[07:00:24 INFO]: [PermissionsEx] Initializing file backend
+[07:00:24 INFO]: [PermissionsEx] Permissions file successfully reloaded
+[07:00:24 INFO]: WEPIF: PermissionsEx detected! Using PermissionsEx for permissions.
+[07:00:24 INFO]: [Vault][Permission] PermissionsEx hooked.
+[07:00:24 INFO]: [Vault][Chat] PermissionsEx_Chat hooked.
+[07:00:24 INFO]: Essentials: Using PermissionsEx based permissions.
+[07:00:24 INFO]: [Corpses] Enabling Corpses v2.2
+[07:00:24 INFO]: Loading corpses creator...
+[07:00:24 INFO]: Corpses creator loaded.
+[07:00:24 INFO]: [NoWeather] Enabling NoWeather v2.1
+[07:00:24 INFO]: [ActionAnnouncer] Enabling ActionAnnouncer v1.9.1
+[07:00:24 INFO]: [ActionAnnouncer] Hooked into PlaceholderAPI for placeholders!
+[07:00:24 INFO]: [GAListener] Enabling GAListener v1.3.1
+[07:00:24 INFO]: [GAListener] GAListener v1.3.1 Enabled
+[07:00:24 INFO]: [ServerListPlus] Enabling ServerListPlus v3.4.8
+[07:00:24 INFO]: [ServerListPlus] [Core] Reloading configuration...
+[07:00:24 INFO]: [ServerListPlus] [Core] Loaded configuration: ServerStatusConf
+[07:00:24 INFO]: [ServerListPlus] [Core] Loaded configuration: PluginConf
+[07:00:24 INFO]: [ServerListPlus] [Core] Reloading saved player identities...
+[07:00:24 INFO]: [ServerListPlus] Successfully loaded!
+[07:00:24 INFO]: [ServerListPlus] ServerListPlus v3.4.8 enabled.
+[07:00:24 INFO]: [BetterDrops] Enabling BetterDrops v2.5.2
+[07:00:24 INFO]: [Rankup] Enabling Rankup v2.6d
+[07:00:24 INFO]: [EpicRename] Enabling EpicRename v2.3
+[07:00:24 INFO]: [EpicRename] This plugin is made by Justin Brubaker.
+[07:00:24 INFO]: [EpicRename] EpicRename version 2.3 is Copyright (C) 2015 Justin Brubaker
+[07:00:24 INFO]: [EpicRename] See LICENSE infomation here: http://tinyurl.com/epicrename1
+[07:00:24 INFO]: [Rename] Prefix has been set to the one in the config.
+[07:00:24 INFO]: [Rename] Version: 2.3 Has Been Enabled.
+[07:00:24 INFO]: [HolographicDisplays] Enabling HolographicDisplays v2.2.6
+[07:00:24 INFO]: [HolographicDisplays] Found ProtocolLib, using new version.
+[07:00:24 INFO]: [HolographicDisplays] Enabled player relative placeholders with ProtocolLib.
+[07:00:24 INFO]: [WorldGuard] Enabling WorldGuard v6.2.1;84bc322
+[07:00:25 INFO]: [WorldGuard] (world) TNT ignition is PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world) Lighters are PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world) Lava fire is blocked.
+[07:00:25 INFO]: [WorldGuard] (world) Fire spread is UNRESTRICTED.
+[07:00:25 INFO]: [WorldGuard] Loaded configuration for world 'world'
+[07:00:25 INFO]: [WorldGuard] (world_nether) TNT ignition is PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world_nether) Lighters are PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world_nether) Lava fire is blocked.
+[07:00:25 INFO]: [WorldGuard] (world_nether) Fire spread is UNRESTRICTED.
+[07:00:25 INFO]: [WorldGuard] Loaded configuration for world 'world_nether'
+[07:00:25 INFO]: [WorldGuard] (world_the_end) TNT ignition is PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world_the_end) Lighters are PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (world_the_end) Lava fire is blocked.
+[07:00:25 INFO]: [WorldGuard] (world_the_end) Fire spread is UNRESTRICTED.
+[07:00:25 INFO]: [WorldGuard] Loaded configuration for world 'world_the_end'
+[07:00:25 INFO]: [WorldGuard] (buildsextra) TNT ignition is PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (buildsextra) Lighters are PERMITTED.
+[07:00:25 INFO]: [WorldGuard] (buildsextra) Lava fire is blocked.
+[07:00:25 INFO]: [WorldGuard] (buildsextra) Fire spread is UNRESTRICTED.
+[07:00:25 INFO]: [WorldGuard] Loaded configuration for world 'buildsextra'
+[07:00:25 INFO]: [WorldGuard] Loading region data...
+[07:00:25 INFO]: [AuctionHouse] Enabling AuctionHouse v1.4.5
+[07:00:25 INFO]: [ChestCommands] Enabling ChestCommands v3.1.1
+[07:00:26 INFO]: [RandomTeleport] Enabling RandomTeleport v5.0.2
+[07:00:26 INFO]: [RandomTeleport] [Updater] Auto-Update is disabled! If you would like to have RandomTP update itself automatically, please enable it in the config.
+[07:00:26 INFO]: [PlayerVaults] Enabling PlayerVaults v3.5.6-b181
+[07:00:26 INFO]: [EssentialsSpawn] Enabling EssentialsSpawn vTeamCity
+[07:00:26 INFO]: [MyCommand] Enabling MyCommand v5.3.4
+[07:00:26 INFO]: *-=-=-=-=-=-=-=-=-=-* MyCommand *-=-=-=-=-=-=-=-=-=-=-*
+[07:00:26 INFO]: | You are using an not fully supported server version. (v1_8_R3)
+[07:00:26 INFO]: | Vault  : Ok. Hooked on Vault 1.5.6-b49
+[07:00:26 INFO]: | Command file(s) found : 1
+[07:00:26 INFO]: | Config : Ready.
+[07:00:26 INFO]: | PlaceholderAPI: Hooked, Ok.
+[07:00:26 INFO]: | Custom commands loaded : 39
+[07:00:26 INFO]: | Version: 5.3.4
+[07:00:26 INFO]: | Author : emmerrei a.k.a Ivanpro
+[07:00:27 INFO]: | You are running the latest version of MyCommand.
+[07:00:27 INFO]: *-=-=-=-=-=-=-=-=-=-*   Done!   *-=-=-=-=-=-=-=-=-=-=-*
+[07:00:27 INFO]: [PerPlayerBlood] Enabling PerPlayerBlood v2.6
+[07:00:27 INFO]: [PerPlayerBlood] Loading with java 8...
+[07:00:27 INFO]: [PerPlayerBlood] Loading for 1.8 (1.8.8-R0.1-SNAPSHOT)
+[07:00:27 INFO]: [PerPlayerBlood] has been enabled!
+[07:00:27 INFO]: [SpawnerShop] Enabling SpawnerShop v3.2
+[07:00:27 INFO]: [ChangeSkin] Enabling ChangeSkin v3.0
+[07:00:27 INFO]: HikariPool-1 - Starting...
+[07:00:27 INFO]: HikariPool-1 - Driver does not support get/set network timeout for connections. (org.sqlite.Conn.getNetworkTimeout()I)
+[07:00:27 INFO]: HikariPool-1 - Start completed.
+[07:00:27 INFO]: [Banknotes] Enabling Banknotes v1.8.0
+[07:00:27 INFO]: [CrateReloaded] Enabling CrateReloaded v1.3.27
+[07:00:27 INFO]: [CrateReloaded] org.bukkit.craftbukkit.v1_8_R3
+[07:00:27 INFO]: [Citizens] Enabling Citizens v2.0.16-SNAPSHOT (build 1267)
+[07:00:27 INFO]: [MergedMob] Enabling MergedMob v11.9.3
+[07:00:27 INFO]: [MergedMob] will merge CHICKEN
+[07:00:27 INFO]: [MergedMob] will merge COW
+[07:00:27 INFO]: [MergedMob] will merge PIG
+[07:00:27 INFO]: [MergedMob] will merge SHEEP
+[07:00:27 INFO]: [MergedMob] will merge VILLAGER
+[07:00:27 INFO]: [MergedMob] will merge WOLF
+[07:00:27 INFO]: [MergedMob] will merge BLAZE
+[07:00:27 INFO]: [MergedMob] will merge SKELETON
+[07:00:27 INFO]: [MergedMob] will merge ZOMBIE
+[07:00:27 INFO]: [MergedMob] will merge SPIDER
+[07:00:27 INFO]: [MergedMob] will merge CAVE_SPIDER
+[07:00:27 INFO]: [MergedMob] will merge CREEPER
+[07:00:27 INFO]: [MergedMob] will merge ENDERMAN
+[07:00:27 INFO]: [MergedMob] will merge GHAST
+[07:00:27 INFO]: [MergedMob] will merge GUARDIAN
+[07:00:27 INFO]: [MergedMob] will merge IRON_GOLEM
+[07:00:27 INFO]: [MergedMob] will merge SLIME
+[07:00:27 INFO]: [MergedMob] will merge WITCH
+[07:00:27 INFO]: [MergedMob] will merge PIG_ZOMBIE
+[07:00:27 INFO]: [MergedMob] adding ENTITY_ATTACK for kill one
+[07:00:27 INFO]: [MergedMob] adding PROJECTILE for kill one
+[07:00:27 INFO]: [MergedMob] adding FIRE_TICK for kill one
+[07:00:27 INFO]: [MergedMob] adding FALL for kill all
+[07:00:27 INFO]: [MergedMob] adding FIRE for kill all
+[07:00:27 INFO]: [MergedMob] MergedMob version 11.9.3 is Enabled
+[07:00:27 INFO]: [AuthMe] Enabling AuthMe v5.4.0-b1877
+[07:00:28 INFO]: [AuthMe] SQLite Setup finished
+[07:00:28 INFO]: [AuthMe] Hooked into PermissionsEx!
+[07:00:28 INFO]: [AuthMe] [LICENSE] This product uses data from the GeoLite API created by MaxMind, available at http://www.maxmind.com
+[07:00:28 INFO]: [AuthMe] Hooked successfully into Essentials
+[07:00:28 INFO]: [AuthMe] Hooked successfully into Multiverse-Core
+[07:00:28 INFO]: [AuthMe] Development builds are available on our jenkins, thanks to f14stelt.
+[07:00:28 INFO]: [AuthMe] Do you want a good game server? Look at our sponsor GameHosting.it leader in Italy as Game Server Provider!
+[07:00:28 INFO]: [AuthMe] AuthMe 5.4.0 build n.1877 correctly enabled!
+[07:00:28 INFO]: [Factions] Enabling Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] === ENABLE START ===
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] Loaded 10 players
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] Loaded 5 Factions
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] Loading board from disk
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] Loaded 10463 board locations
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] Economy integration through Vault plugin successful.
+[07:00:28 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] NOTE: Economy is disabled. You can enable it with the command: f config econEnabled true
+[07:00:29 INFO]: [Factions v1.6.9.5-U0.1.18-b${BUILD_NUMBER}] === ENABLE DONE (Took 528ms) ===
+[07:00:29 INFO]: [CommandNPC] Enabling CommandNPC v1.7.2
+[07:00:29 INFO]: Injecting command information into Citizens.
+[07:00:29 INFO]: [CombatLog] Enabling CombatLog v1.8.11-hack
+[07:00:29 INFO]: [CombatLog] Loading messages.properties.
+[07:00:29 INFO]: [CombatLog] Loading config.yml.
+[07:00:29 INFO]: [CombatLog] DisguiseCraft plugin not found! Disguise removal will not work.
+[07:00:29 INFO]: [CombatLog] CombatLog v1.8.11-hack Enabled.
+[07:00:29 INFO]: [FBasics] Enabling FBasics v2.1.6
+[07:00:29 INFO]: [FBasics] Using Factions v1_6 support.
+[07:00:29 INFO]: [MVdWPlaceholderAPI] FBasics added custom placeholder {fbasics_enderpearl_cooldown}
+[07:00:29 INFO]: [SilkSpawners] Enabling SilkSpawners v5.0.0
+[07:00:29 INFO]: [SilkSpawners] WorldGuard was found and support is enabled
+[07:00:29 INFO]: [SilkSpawners] Loading support for v1_8_R3
+[07:00:29 INFO]: [SilkSpawners] AutoUpdater is enabled.
+[07:00:29 INFO]: [SilkSpawners] Result from AutoUpdater is: NO_UPDATE
+[07:00:29 INFO]: [SilkSpawners] BarAPI is disabled due to config setting.
+[07:00:29 INFO]: [CrazyEnchantments] Enabling CrazyEnchantments v1.6.5.1
+[07:00:29 INFO]: Server permissions file permissions.yml is empty, ignoring it
+[07:00:30 INFO]: Done (11.381s)! For help, type "help" or "?"
+[07:00:30 INFO]: Starting GS4 status listener
+[07:00:30 INFO]: Query running on 0.0.0.0:41878
+[07:00:30 INFO]: [ChestCommands] Found a new version: v3.1.4 (yours: v3.1.1)
+[07:00:30 INFO]: [ChestCommands] Download it on Bukkit Dev:
+[07:00:30 INFO]: [ChestCommands] dev.bukkit.org/bukkit-plugins/chest-commands
+[07:00:30 INFO]: [PlayerVaults] ** Vaults have already been converted to UUIDs. If this is incorrect, shutdown your server and rename the plugins/PlayerVaults/uuidvaults directory.
+[07:00:30 INFO]: [Banknotes] Found economy provider Vault
+[07:00:30 INFO]: [ViaVersion] ViaVersion detected server version: 1.8.x(47)
+[07:00:30 INFO]: [PlayerVaults] We didn't find an update!
+[07:00:30 INFO]: [mcMMO] Cleaned backup files. Deleted 23 of 53 files.
+[07:00:30 INFO]: [GAListener] Connection established!
+[07:00:30 INFO]: [GAListener] Loading queued votes
+[07:00:30 INFO]: [GAListener] Loaded 4 queued votes
+[07:00:30 INFO]: [PlaceholderAPI] Failed to check for a update on spigot.
+[07:00:31 INFO]: [Citizens] Loaded 1 NPCs.
+[07:00:31 INFO]: [Vault] Checking for Updates ... 
+[07:00:31 INFO]: [Vault] No new version available
+[07:00:32 INFO]: [PlaceholderAPI] 99 placeholder expansions are available on the cloud.
+[07:00:32 INFO]: [PlaceholderAPI] 2 expansions you use have updates.
+[07:02:37 INFO]: [Metrics] Connection timed out (Connection timed out)
+[07:07:10 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:07:50 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+lagg clear
+[07:09:00 INFO]: [ClearLag] You just removed 0 entities!
+[07:14:50 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:15:30 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[07:22:30 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:23:10 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[07:30:10 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:30:50 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[07:37:50 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:38:30 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[07:42:37 INFO]: [Metrics] Connection timed out (Connection timed out)
+[07:45:30 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:46:10 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[07:52:37 INFO]: [Metrics] Connection timed out (Connection timed out)
+[07:53:10 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[07:53:50 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:00:50 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:01:30 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:08:30 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:09:10 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:12:38 INFO]: [Metrics] Connection timed out (Connection timed out)
+[08:16:10 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:16:50 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:22:38 INFO]: [Metrics] Connection timed out (Connection timed out)
+[08:23:50 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:24:30 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:31:30 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:32:10 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:32:38 INFO]: [Metrics] Connection timed out (Connection timed out)
+[08:39:11 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:39:51 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+[08:46:51 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:47:31 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
+save-all
+[08:48:30 INFO]: Saving...
+[08:48:30 INFO]: Saved the world
+[08:49:38 INFO]: UUID of player MCtest is 638766fc-165b-3d04-93d4-f0ce9fff08f8
+[08:49:39 INFO]: MCtest[/49.146.45.65:26524] logged in with entity id 194 at ([world_nether]190.62524025306791, 40.0, -50.32750418063421)
+[08:49:39 INFO]: [GAListener] Player: MCtest has 0 votes
+[08:49:39 INFO]: [GAListener] Vote received on Minecraft-MP.com for Player: MCtest
+[08:49:39 INFO]: [GAListener] Player: MCtest has 1 queued votes
+[08:49:39 INFO]: CONSOLE issued server command: /give MCtest 264 5
+[08:49:39 INFO]: SERVER | Giving 5 of diamond to MCtest.
+[08:50:02 INFO]: [AuthMe] MCtest logged in!
+[08:50:28 INFO]: MCtest issued server command: /fly
+[08:50:47 INFO]: MCtest issued server command: /gmc
+[08:54:31 INFO]: LAG | Warning Ground items will be removed in 60 seconds!
+[08:55:11 INFO]: LAG | Warning Ground items will be removed in 20 seconds!
